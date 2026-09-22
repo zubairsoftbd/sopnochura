@@ -3508,6 +3508,666 @@
       ],
       "answer": "রাতকানা",
       "explanation": "ভিটামিন এ-এর অভাবে রাতকানা রোগ হয়, যাতে অন্ধকারে দেখতে সমস্যা হয়। (সূত্র: সাধারণ বিজ্ঞান — জীববিজ্ঞান)"
+    },
+    {
+      "question": "'তুমি এবং আমি একসাথে যাব' — বাক্যে 'এবং' কোন প্রকার অব্যয়?",
+      "options": [
+        "সংযোজক অব্যয়",
+        "বিভাজক অব্যয়",
+        "সংকোচক অব্যয়",
+        "অনুসর্গ"
+      ],
+      "answer": "সংযোজক অব্যয়",
+      "explanation": "'এবং' দুটি পদ বা বাক্যকে সংযুক্ত করে বলে এটি সংযোজক অব্যয়। (সূত্র: বাংলা ব্যাকরণ — অব্যয়)"
+    },
+    {
+      "question": "'নিজে নিজে যা করা হয়' এমন ক্রিয়াকে কী বলে?",
+      "options": [
+        "ব্যতিহার কারক",
+        "কর্তৃকারক",
+        "করণকারক",
+        "ভাববাচ্য"
+      ],
+      "answer": "ব্যতিহার কারক",
+      "explanation": "পরস্পর ক্রিয়া বিনিময়ের ভাব প্রকাশ করলে (যেমন 'সে নিজে নিজে করল') তাকে ব্যতিহার কারক বলে। (সূত্র: বাংলা ব্যাকরণ — কারক)"
+    },
+    {
+      "question": "'যথাসাধ্য' শব্দটি কোন সমাসের উদাহরণ?",
+      "options": [
+        "অব্যয়ীভাব সমাস",
+        "তৎপুরুষ সমাস",
+        "কর্মধারয় সমাস",
+        "দ্বন্দ্ব সমাস"
+      ],
+      "answer": "অব্যয়ীভাব সমাস",
+      "explanation": "পূর্বপদে অব্যয় থাকে এবং সমস্ত পদটি অব্যয়ের ন্যায় ব্যবহৃত হয় এমন সমাসকে অব্যয়ীভাব সমাস বলে; যথাসাধ্য = সাধ্য অনুসারে। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'শাঁখের করাত' বাগধারাটির অর্থ কী?",
+      "options": [
+        "উভয় দিকে সমস্যা",
+        "সহজ সমাধান",
+        "একদিকে সুবিধা",
+        "স্পষ্ট সিদ্ধান্ত"
+      ],
+      "answer": "উভয় দিকে সমস্যা",
+      "explanation": "'শাঁখের করাত' বাগধারাটির অর্থ এমন পরিস্থিতি যেখানে দুই দিকেই ক্ষতি বা সমস্যা হয়। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'মামা বাড়ির আবদার' বাগধারাটির অর্থ কী?",
+      "options": [
+        "অসম্ভব দাবি",
+        "সহজ আবদার",
+        "যুক্তিসম্পন্ন অনুরোধ",
+        "প্রিয়জনের ভালোবাসা"
+      ],
+      "answer": "অসম্ভব দাবি",
+      "explanation": "'মামা বাড়ির আবদার' বাগধারাটির অর্থ এমন দাবি যা সহজে পূরণ করা যায় না বা অযৌক্তিক আবদার। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'রুই কাতলা' বাগধারাটির অর্থ কী?",
+      "options": [
+        "গণ্যমান্য ব্যক্তি",
+        "সাধারণ মানুষ",
+        "দুর্বল ব্যক্তি",
+        "প্রতারক ব্যক্তি"
+      ],
+      "answer": "গণ্যমান্য ব্যক্তি",
+      "explanation": "'রুই কাতলা' বাগধারাটি সমাজের গণ্যমান্য বা প্রভাবশালী ব্যক্তিদের বোঝাতে ব্যবহৃত হয়। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'যা কষ্টে লাভ করা যায়' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "দুর্লভ",
+        "সুলভ",
+        "লভ্য",
+        "অলভ্য"
+      ],
+      "answer": "দুর্লভ",
+      "explanation": "'যা কষ্টে লাভ করা যায়'-কে এক কথায় দুর্লভ বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'যা সহজে ভাঙে না' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "অভঙ্গুর",
+        "ভঙ্গুর",
+        "দুর্ভেদ্য",
+        "অক্ষয়"
+      ],
+      "answer": "অভঙ্গুর",
+      "explanation": "'যা সহজে ভাঙে না'-কে এক কথায় অভঙ্গুর বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'সাত সাগরের মাঝি' কাব্যগ্রন্থের রচয়িতা কে?",
+      "options": [
+        "ফররুখ আহমদ",
+        "জসীমউদ্দীন",
+        "কাজী নজরুল ইসলাম",
+        "বন্দে আলী মিয়া"
+      ],
+      "answer": "ফররুখ আহমদ",
+      "explanation": "ফররুখ আহমদ রচিত 'সাত সাগরের মাঝি' তাঁর একটি বিখ্যাত কাব্যগ্রন্থ। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "সুফিয়া কামাল কোন ক্ষেত্রে বিশেষভাবে পরিচিত?",
+      "options": [
+        "কবি ও নারী আন্দোলনের নেত্রী",
+        "ঔপন্যাসিক",
+        "নাট্যকার",
+        "সাংবাদিক"
+      ],
+      "answer": "কবি ও নারী আন্দোলনের নেত্রী",
+      "explanation": "সুফিয়া কামাল একজন খ্যাতনামা কবি এবং বাংলাদেশের নারী আন্দোলনের অগ্রণী নেত্রী ছিলেন। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "বাংলা সাহিত্যের প্রথম উপন্যাস হিসেবে কোনটি গণ্য করা হয়?",
+      "options": [
+        "আলালের ঘরের দুলাল",
+        "দুর্গেশনন্দিনী",
+        "বৌ-ঠাকুরানীর হাট",
+        "কপালকুণ্ডলা"
+      ],
+      "answer": "আলালের ঘরের দুলাল",
+      "explanation": "প্যারীচাঁদ মিত্র রচিত 'আলালের ঘরের দুলাল' (১৮৫৮) বাংলা সাহিত্যের প্রথম উপন্যাস হিসেবে গণ্য করা হয়, যদিও বঙ্কিমচন্দ্রের 'দুর্গেশনন্দিনী'-কে প্রথম সার্থক উপন্যাস বলা হয়। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "বাংলা সাহিত্যের ইতিহাসে 'মধ্যযুগ' কোন সময়কালকে বোঝায়?",
+      "options": [
+        "আনুমানিক ১২০১-১৮০০ সাল",
+        "আনুমানিক ৬৫০-১২০০ সাল",
+        "১৮০১ সালের পর",
+        "১৯০০ সালের পর"
+      ],
+      "answer": "আনুমানিক ১২০১-১৮০০ সাল",
+      "explanation": "বাংলা সাহিত্যের ইতিহাসে চর্যাপদ-পরবর্তী থেকে আধুনিক যুগের সূচনার আগ পর্যন্ত সময়কে (আনুমানিক ১২০১-১৮০০) মধ্যযুগ বলা হয়। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "'ভূষণ্ডির কাক' বাগধারাটির অর্থ কী?",
+      "options": [
+        "দীর্ঘজীবী ব্যক্তি",
+        "স্বল্পজীবী ব্যক্তি",
+        "চতুর ব্যক্তি",
+        "নির্বোধ ব্যক্তি"
+      ],
+      "answer": "দীর্ঘজীবী ব্যক্তি",
+      "explanation": "'ভূষণ্ডির কাক' বাগধারাটি অতি দীর্ঘজীবী বা বহু ঘটনার সাক্ষী এমন ব্যক্তিকে বোঝাতে ব্যবহৃত হয়। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "বাংলা ভাষায় দুটি সন্নিহিত স্বরধ্বনির একত্রীকরণকে কী বলে?",
+      "options": [
+        "স্বরসংগতি",
+        "অভিশ্রুতি",
+        "স্বরসন্ধি",
+        "ধ্বনিলোপ"
+      ],
+      "answer": "স্বরসন্ধি",
+      "explanation": "দুটি স্বরধ্বনি মিলিত হয়ে এক নতুন ধ্বনি বা রূপ গঠন করাকে স্বরসন্ধি বলে। (সূত্র: বাংলা ব্যাকরণ — ধ্বনিতত্ত্ব)"
+    },
+    {
+      "question": "Choose the correct sentence: If I had known earlier, I ___ helped you.",
+      "options": [
+        "would have",
+        "will have",
+        "would",
+        "had"
+      ],
+      "answer": "would have",
+      "explanation": "Third conditional sentences (about unreal past situations) use 'would have + past participle' in the main clause. (Source: English Grammar — Conditional Sentences)"
+    },
+    {
+      "question": "Choose the correct sentence (zero conditional): If you heat ice, it ___.",
+      "options": [
+        "melts",
+        "will melt",
+        "melted",
+        "would melt"
+      ],
+      "answer": "melts",
+      "explanation": "Zero conditional sentences describe general truths/facts, using simple present tense in both clauses. (Source: English Grammar — Conditional Sentences)"
+    },
+    {
+      "question": "Choose the correct sentence: By the time we arrived, the movie ___.",
+      "options": [
+        "had started",
+        "starts",
+        "will start",
+        "has started"
+      ],
+      "answer": "had started",
+      "explanation": "Past perfect tense ('had + past participle') is used for an action completed before another past action. (Source: English Grammar — Tense)"
+    },
+    {
+      "question": "The synonym of 'Ample' is —",
+      "options": [
+        "Plenty",
+        "Scarce",
+        "Little",
+        "Insufficient"
+      ],
+      "answer": "Plenty",
+      "explanation": "'Ample' means more than enough; its synonym is 'Plenty'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "The synonym of 'Arrogant' is —",
+      "options": [
+        "Haughty",
+        "Humble",
+        "Modest",
+        "Shy"
+      ],
+      "answer": "Haughty",
+      "explanation": "'Arrogant' means having an exaggerated sense of one's own importance; its synonym is 'Haughty'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "The antonym of 'Feeble' is —",
+      "options": [
+        "Strong",
+        "Weak",
+        "Fragile",
+        "Tired"
+      ],
+      "answer": "Strong",
+      "explanation": "'Feeble' means weak; its opposite is 'Strong'. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "The antonym of 'Benevolent' is —",
+      "options": [
+        "Malevolent",
+        "Kind",
+        "Generous",
+        "Charitable"
+      ],
+      "answer": "Malevolent",
+      "explanation": "'Benevolent' means kind and generous; its opposite is 'Malevolent', meaning having harmful intentions. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "'To spill the beans' means —",
+      "options": [
+        "To reveal secret information",
+        "To cook a meal",
+        "To make a mistake",
+        "To lose something"
+      ],
+      "answer": "To reveal secret information",
+      "explanation": "This idiom means to accidentally or carelessly disclose secret information. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "'To hit the nail on the head' means —",
+      "options": [
+        "To describe something exactly right",
+        "To make a mistake",
+        "To hurt someone",
+        "To work hard"
+      ],
+      "answer": "To describe something exactly right",
+      "explanation": "This idiom means to say or do something with complete accuracy. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "'To cost an arm and a leg' means —",
+      "options": [
+        "To be very expensive",
+        "To be very cheap",
+        "To be painful",
+        "To be free"
+      ],
+      "answer": "To be very expensive",
+      "explanation": "This idiom is used to describe something that is extremely costly. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "'To be under the weather' means —",
+      "options": [
+        "To feel slightly ill",
+        "To feel very happy",
+        "To be outside in bad weather",
+        "To be very active"
+      ],
+      "answer": "To feel slightly ill",
+      "explanation": "This idiom means to feel unwell or slightly sick. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A person who loves books'?",
+      "options": [
+        "Bibliophile",
+        "Philanthropist",
+        "Misanthrope",
+        "Linguist"
+      ],
+      "answer": "Bibliophile",
+      "explanation": "A person who has a great love for books is called a 'Bibliophile'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A person who hates mankind'?",
+      "options": [
+        "Misanthrope",
+        "Philanthropist",
+        "Bibliophile",
+        "Humanitarian"
+      ],
+      "answer": "Misanthrope",
+      "explanation": "A person who dislikes or distrusts humankind in general is called a 'Misanthrope'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A person who loves and helps mankind'?",
+      "options": [
+        "Philanthropist",
+        "Misanthrope",
+        "Bibliophile",
+        "Egoist"
+      ],
+      "answer": "Philanthropist",
+      "explanation": "A person who seeks to promote the welfare of others, especially through donations, is called a 'Philanthropist'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "Choose the correct indirect form: He said, 'What a beautiful flower it is!'",
+      "options": [
+        "He exclaimed that it was a very beautiful flower.",
+        "He said what a beautiful flower it is.",
+        "He exclaimed what a beautiful flower it was.",
+        "He told that it was a beautiful flower."
+      ],
+      "answer": "He exclaimed that it was a very beautiful flower.",
+      "explanation": "Exclamatory sentences in direct speech are converted using 'exclaimed that' along with appropriate intensifiers like 'very' in indirect speech. (Source: English Grammar — Narration)"
+    },
+    {
+      "question": "Choose the correct sentence: I ___ help you with your project tomorrow.",
+      "options": [
+        "will",
+        "shall",
+        "may",
+        "must"
+      ],
+      "answer": "will",
+      "explanation": "'Will' is the standard modal for expressing future intention with most subjects in modern English. (Source: English Grammar — Modal Verbs)"
+    },
+    {
+      "question": "Choose the correct sentence expressing possibility: It ___ rain later today.",
+      "options": [
+        "might",
+        "must",
+        "shall",
+        "need"
+      ],
+      "answer": "might",
+      "explanation": "'Might' is used to express a weak possibility, unlike 'must' which expresses strong certainty/obligation. (Source: English Grammar — Modal Verbs)"
+    },
+    {
+      "question": "Choose the correct preposition: The plane arrived ___ the airport on time.",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "'Arrive at' is used for smaller/specific locations (airport, station), while 'arrive in' is used for larger areas (cities, countries). (Source: English Grammar — Prepositions)"
+    },
+    {
+      "question": "Choose the correct preposition: She got married ___ her childhood friend.",
+      "options": [
+        "to",
+        "with",
+        "at",
+        "for"
+      ],
+      "answer": "to",
+      "explanation": "The idiomatic preposition after 'married' is 'to' (married to someone), not 'with'. (Source: English Grammar — Prepositions)"
+    },
+    {
+      "question": "Choose the correct pair of homonyms:",
+      "options": [
+        "Bank (riverside) / Bank (financial institution)",
+        "Their / There",
+        "Where / Wear",
+        "Peace / Piece"
+      ],
+      "answer": "Bank (riverside) / Bank (financial institution)",
+      "explanation": "Homonyms are words spelled and pronounced the same but with different meanings; 'Bank' can mean a riverside or a financial institution. (Source: English Vocabulary — Homonyms)"
+    },
+    {
+      "question": "২/৩ × ৩/৪ এর মান কত?",
+      "options": [
+        "১/২",
+        "৬/১২",
+        "৫/৭",
+        "৩/৪"
+      ],
+      "answer": "১/২",
+      "explanation": "ভগ্নাংশের গুণ: (২×৩)/(৩×৪) = ৬/১২ = ১/২ (লঘিষ্ঠ আকারে)। (সূত্র: গণিত — ভগ্নাংশের গুণ)"
+    },
+    {
+      "question": "৩/৪ ÷ ১/২ এর মান কত?",
+      "options": [
+        "৩/২",
+        "৩/৮",
+        "২/৩",
+        "৪/৩"
+      ],
+      "answer": "৩/২",
+      "explanation": "ভগ্নাংশের ভাগ: ৩/৪ ÷ ১/২ = ৩/৪ × ২/১ = ৬/৪ = ৩/২। (সূত্র: গণিত — ভগ্নাংশের ভাগ)"
+    },
+    {
+      "question": "x + y = 10 এবং x - y = 4 হলে x এর মান কত?",
+      "options": [
+        "৭",
+        "৬",
+        "৩",
+        "১৪"
+      ],
+      "answer": "৭",
+      "explanation": "দুই সমীকরণ যোগ করে: 2x = 14 ⇒ x = ৭। (সূত্র: গণিত — দুই চলকবিশিষ্ট সমীকরণ)"
+    },
+    {
+      "question": "x + y = 10 এবং x - y = 4 হলে y এর মান কত?",
+      "options": [
+        "৩",
+        "৭",
+        "৬",
+        "১৪"
+      ],
+      "answer": "৩",
+      "explanation": "x=7 বসিয়ে: 7+y=10 ⇒ y = ৩। (সূত্র: গণিত — দুই চলকবিশিষ্ট সমীকরণ)"
+    },
+    {
+      "question": "একটি ষড়ভুজের অন্তঃকোণগুলোর সমষ্টি কত ডিগ্রি?",
+      "options": [
+        "৭২০°",
+        "৫৪০°",
+        "৩৬০°",
+        "৯০০°"
+      ],
+      "answer": "৭২০°",
+      "explanation": "n-বাহুবিশিষ্ট বহুভুজের কোণের সমষ্টি = (n-2)×১৮০°; ষড়ভুজে n=৬, তাই সমষ্টি = (৬-২)×১৮০° = ৭২০°। (সূত্র: গণিত — জ্যামিতি, বহুভুজ)"
+    },
+    {
+      "question": "একটি পঞ্চভুজের অন্তঃকোণগুলোর সমষ্টি কত ডিগ্রি?",
+      "options": [
+        "৫৪০°",
+        "৩৬০°",
+        "৭২০°",
+        "৪৫০°"
+      ],
+      "answer": "৫৪০°",
+      "explanation": "n-বাহুবিশিষ্ট বহুভুজের কোণের সমষ্টি = (n-2)×১৮০°; পঞ্চভুজে n=৫, তাই সমষ্টি = (৫-২)×১৮০° = ৫৪০°। (সূত্র: গণিত — জ্যামিতি, বহুভুজ)"
+    },
+    {
+      "question": "একটি সংখ্যার ২৫% এর ২০% যদি ১০ হয়, তবে সংখ্যাটি কত?",
+      "options": [
+        "২০০",
+        "১৬০",
+        "২৫০",
+        "৪০"
+      ],
+      "answer": "২০০",
+      "explanation": "ধরি সংখ্যা x। x এর ২৫% এর ২০% = x×০.২৫×০.২০ = ০.০৫x = ১০ ⇒ x = ২০০। (সূত্র: গণিত — শতকরার শতকরা)"
+    },
+    {
+      "question": "দুটি জোড় সংখ্যার গুণফল সর্বদা কী হবে?",
+      "options": [
+        "জোড় সংখ্যা",
+        "বিজোড় সংখ্যা",
+        "মৌলিক সংখ্যা",
+        "নির্ধারণযোগ্য নয়"
+      ],
+      "answer": "জোড় সংখ্যা",
+      "explanation": "দুটি জোড় সংখ্যার গুণফল সর্বদা জোড় সংখ্যা হয়, কারণ প্রতিটি জোড় সংখ্যায় ২ একটি উৎপাদক থাকে। (সূত্র: গণিত — সংখ্যাতত্ত্ব)"
+    },
+    {
+      "question": "৫ জন শ্রমিকের দৈনিক মজুরি মোট ১০০০ টাকা হলে ৮ জন শ্রমিকের দৈনিক মজুরি কত হবে?",
+      "options": [
+        "১৬০০ টাকা",
+        "১২৫০ টাকা",
+        "১৪০০ টাকা",
+        "২০০০ টাকা"
+      ],
+      "answer": "১৬০০ টাকা",
+      "explanation": "একজনের মজুরি = ১০০০/৫ = ২০০ টাকা; ৮ জনের মজুরি = ২০০×৮ = ১৬০০ টাকা। (সূত্র: গণিত — ঐকিক নিয়ম)"
+    },
+    {
+      "question": "একটি ক্লাসের ছাত্রদের গড় বয়স ১২ বছর। নতুন একজন ১৮ বছর বয়সী ছাত্র ভর্তি হলে এবং মোট ছাত্র ২১ জন হলে (আগে ২০ জন ছিল), নতুন গড় বয়স কত হবে?",
+      "options": [
+        "১২.৩ বছর (প্রায়)",
+        "১৩ বছর",
+        "১২ বছর",
+        "১৪ বছর"
+      ],
+      "answer": "১২.৩ বছর (প্রায়)",
+      "explanation": "পুরাতন সমষ্টি = ১২×২০=২৪০; নতুন সমষ্টি = ২৪০+১৮=২৫৮; নতুন গড় = ২৫৮/২১ ≈ ১২.৩ বছর। (সূত্র: গণিত — গড়)"
+    },
+    {
+      "question": "৩ঃ৪ঃ৫ অনুপাতে ৪৮ কে ভাগ করলে মধ্যম অংশ কত হবে?",
+      "options": [
+        "১৬",
+        "১২",
+        "২০",
+        "৮"
+      ],
+      "answer": "১৬",
+      "explanation": "মোট অনুপাত অংশ = ৩+৪+৫=১২; মধ্যম অংশ = (৪/১২)×৪৮ = ১৬। (সূত্র: গণিত — অনুপাত)"
+    },
+    {
+      "question": "২ ১/২ + ১ ১/৩ এর সমষ্টি কত?",
+      "options": [
+        "৩ ৫/৬",
+        "৩ ১/৬",
+        "৪ ১/৬",
+        "৩ ২/৩"
+      ],
+      "answer": "৩ ৫/৬",
+      "explanation": "মিশ্র ভগ্নাংশকে ভগ্নাংশে রূপান্তর: ৫/২ + ৪/৩ = ১৫/৬+৮/৬ = ২৩/৬ = ৩ ৫/৬। (সূত্র: গণিত — মিশ্র ভগ্নাংশ)"
+    },
+    {
+      "question": "বাংলাদেশ কয়টি দেশের সাথে স্থল সীমান্ত ভাগ করে?",
+      "options": [
+        "২টি (ভারত ও মিয়ানমার)",
+        "১টি (ভারত)",
+        "৩টি",
+        "৪টি"
+      ],
+      "answer": "২টি (ভারত ও মিয়ানমার)",
+      "explanation": "বাংলাদেশের স্থল সীমান্ত রয়েছে ভারত ও মিয়ানমারের সাথে। (সূত্র: বাংলাদেশের ভূগোল)"
+    },
+    {
+      "question": "বাংলাদেশে ইউনেস্কো স্বীকৃত বিশ্ব ঐতিহ্য স্থান (World Heritage Site) কয়টি?",
+      "options": [
+        "৩টি",
+        "২টি",
+        "৪টি",
+        "৫টি"
+      ],
+      "answer": "৩টি",
+      "explanation": "বাংলাদেশের তিনটি ইউনেস্কো বিশ্ব ঐতিহ্য স্থান হলো সুন্দরবন, ষাট গম্বুজ মসজিদ (বাগেরহাট) এবং পাহাড়পুরের বৌদ্ধ বিহার (নওগাঁ)। (সূত্র: বাংলাদেশ বিষয়াবলি — সংস্কৃতি)"
+    },
+    {
+      "question": "ষাট গম্বুজ মসজিদ বাংলাদেশের কোন জেলায় অবস্থিত?",
+      "options": [
+        "বাগেরহাট",
+        "নওগাঁ",
+        "দিনাজপুর",
+        "কুমিল্লা"
+      ],
+      "answer": "বাগেরহাট",
+      "explanation": "ঐতিহাসিক ষাট গম্বুজ মসজিদ বাগেরহাট জেলায় অবস্থিত এবং এটি ইউনেস্কো বিশ্ব ঐতিহ্যের স্বীকৃতি পেয়েছে। (সূত্র: বাংলাদেশ বিষয়াবলি — সংস্কৃতি)"
+    },
+    {
+      "question": "পাহাড়পুরের বৌদ্ধ বিহার (সোমপুর মহাবিহার) বাংলাদেশের কোন জেলায় অবস্থিত?",
+      "options": [
+        "নওগাঁ",
+        "বাগেরহাট",
+        "রাজশাহী",
+        "দিনাজপুর"
+      ],
+      "answer": "নওগাঁ",
+      "explanation": "সোমপুর মহাবিহার নওগাঁ জেলায় অবস্থিত একটি প্রাচীন বৌদ্ধ বিহার, যা ইউনেস্কো বিশ্ব ঐতিহ্যের স্বীকৃতি পেয়েছে। (সূত্র: বাংলাদেশ বিষয়াবলি — সংস্কৃতি)"
+    },
+    {
+      "question": "লালবাগ কেল্লা কোন আমলে নির্মিত হয়?",
+      "options": [
+        "মুঘল আমল",
+        "সুলতানি আমল",
+        "ব্রিটিশ আমল",
+        "পাল আমল"
+      ],
+      "answer": "মুঘল আমল",
+      "explanation": "লালবাগ কেল্লা ঢাকায় মুঘল আমলে (১৭শ শতকে) নির্মিত একটি ঐতিহাসিক দুর্গ। (সূত্র: বাংলাদেশ বিষয়াবলি — ইতিহাস)"
+    },
+    {
+      "question": "ঢাকা বিশ্ববিদ্যালয় প্রতিষ্ঠিত হয় কত সালে?",
+      "options": [
+        "১৯২১",
+        "১৯১১",
+        "১৯৪৭",
+        "১৯০৫"
+      ],
+      "answer": "১৯২১",
+      "explanation": "ঢাকা বিশ্ববিদ্যালয় ১৯২১ সালে প্রতিষ্ঠিত হয় এবং এটি বাংলাদেশের প্রাচীনতম বিশ্ববিদ্যালয়। (সূত্র: বাংলাদেশ বিষয়াবলি — শিক্ষা)"
+    },
+    {
+      "question": "১৯৭১ সালের ২৬ মার্চ চট্টগ্রাম বেতার কেন্দ্র থেকে স্বাধীনতার ঘোষণা পাঠ করেন কে?",
+      "options": [
+        "মেজর জিয়াউর রহমান",
+        "তাজউদ্দীন আহমদ",
+        "এম এ জি ওসমানী",
+        "খালেদ মোশাররফ"
+      ],
+      "answer": "মেজর জিয়াউর রহমান",
+      "explanation": "১৯৭১ সালের ২৬ মার্চ মেজর জিয়াউর রহমান চট্টগ্রাম বেতার কেন্দ্র থেকে বঙ্গবন্ধুর পক্ষে স্বাধীনতার ঘোষণা পাঠ করেন। (সূত্র: বাংলাদেশের ইতিহাস — মুক্তিযুদ্ধ)"
+    },
+    {
+      "question": "বিশ্বের আয়তনে বৃহত্তম দেশ কোনটি?",
+      "options": [
+        "রাশিয়া",
+        "কানাডা",
+        "চীন",
+        "যুক্তরাষ্ট্র"
+      ],
+      "answer": "রাশিয়া",
+      "explanation": "আয়তনের বিচারে রাশিয়া বিশ্বের বৃহত্তম দেশ। (সূত্র: বিশ্ব ভূগোল)"
+    },
+    {
+      "question": "বিশ্বের ক্ষুদ্রতম মহাদেশ কোনটি?",
+      "options": [
+        "অস্ট্রেলিয়া",
+        "ইউরোপ",
+        "অ্যান্টার্কটিকা",
+        "দক্ষিণ আমেরিকা"
+      ],
+      "answer": "অস্ট্রেলিয়া",
+      "explanation": "আয়তনের বিচারে অস্ট্রেলিয়া বিশ্বের ক্ষুদ্রতম মহাদেশ। (সূত্র: বিশ্ব ভূগোল)"
+    },
+    {
+      "question": "বিশ্বের উচ্চতম জলপ্রপাত কোনটি?",
+      "options": [
+        "এঞ্জেল জলপ্রপাত",
+        "নায়াগ্রা জলপ্রপাত",
+        "ভিক্টোরিয়া জলপ্রপাত",
+        "ইগুয়াজু জলপ্রপাত"
+      ],
+      "answer": "এঞ্জেল জলপ্রপাত",
+      "explanation": "ভেনিজুয়েলায় অবস্থিত এঞ্জেল জলপ্রপাত বিশ্বের উচ্চতম জলপ্রপাত। (সূত্র: বিশ্ব ভূগোল)"
+    },
+    {
+      "question": "অণুজীব (ব্যাকটেরিয়া) পর্যবেক্ষণে অগ্রণী বিজ্ঞানী কে ছিলেন?",
+      "options": [
+        "অ্যান্টনি ভন লিউয়েনহুক",
+        "লুই পাস্তুর",
+        "রবার্ট কচ",
+        "আলেকজান্ডার ফ্লেমিং"
+      ],
+      "answer": "অ্যান্টনি ভন লিউয়েনহুক",
+      "explanation": "ডাচ বিজ্ঞানী অ্যান্টনি ভন লিউয়েনহুক নিজ নির্মিত অণুবীক্ষণ যন্ত্রের সাহায্যে প্রথম ব্যাকটেরিয়া পর্যবেক্ষণ করেন। (সূত্র: সাধারণ বিজ্ঞান — জীববিজ্ঞান)"
+    },
+    {
+      "question": "মানবদেহের ওজনের কত শতাংশ পানি?",
+      "options": [
+        "প্রায় ৬০%",
+        "প্রায় ৩০%",
+        "প্রায় ৯০%",
+        "প্রায় ৪০%"
+      ],
+      "answer": "প্রায় ৬০%",
+      "explanation": "একজন স্বাভাবিক প্রাপ্তবয়স্ক মানুষের দেহের ওজনের প্রায় ৬০% পানি। (সূত্র: সাধারণ বিজ্ঞান — জীববিজ্ঞান)"
+    },
+    {
+      "question": "মানবদেহের রক্তের স্বাভাবিক pH মান কত?",
+      "options": [
+        "প্রায় ৭.৪ (ক্ষারীয়)",
+        "প্রায় ৫.৫ (অম্লীয়)",
+        "৭.০ (নিরপেক্ষ)",
+        "প্রায় ৯.০ (তীব্র ক্ষারীয়)"
+      ],
+      "answer": "প্রায় ৭.৪ (ক্ষারীয়)",
+      "explanation": "স্বাভাবিক মানবদেহে রক্তের pH মান প্রায় ৭.৩৫-৭.৪৫ এর মধ্যে থাকে, যা সামান্য ক্ষারীয়। (সূত্র: সাধারণ বিজ্ঞান — জীববিজ্ঞান)"
+    },
+    {
+      "question": "উদ্ভিদ শ্বসনের সময় কোন গ্যাস গ্রহণ করে?",
+      "options": [
+        "অক্সিজেন",
+        "কার্বন ডাই-অক্সাইড",
+        "নাইট্রোজেন",
+        "হাইড্রোজেন"
+      ],
+      "answer": "অক্সিজেন",
+      "explanation": "সালোকসংশ্লেষণের বিপরীতে, শ্বসন প্রক্রিয়ায় উদ্ভিদ অক্সিজেন গ্রহণ করে এবং কার্বন ডাই-অক্সাইড ত্যাগ করে। (সূত্র: সাধারণ বিজ্ঞান — জীববিজ্ঞান)"
     }
   ]
 }
