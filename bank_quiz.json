@@ -1,0 +1,1885 @@
+{
+  "bank_quiz": [
+    {
+      "question": "'যা বলার যোগ্য নয়' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "অকথ্য",
+        "অনুক্ত",
+        "অবাচ্য",
+        "অবক্তব্য"
+      ],
+      "answer": "অবাচ্য",
+      "explanation": "'যা বলার যোগ্য নয়'-কে এক কথায় অবাচ্য বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'ঊষর' শব্দের বিপরীত শব্দ কী?",
+      "options": [
+        "উর্বর",
+        "শুষ্ক",
+        "রুক্ষ",
+        "বন্ধুর"
+      ],
+      "answer": "উর্বর",
+      "explanation": "'ঊষর' অর্থ অনুর্বর বা ফসল না জন্মানো জমি; এর বিপরীত শব্দ 'উর্বর'। (সূত্র: বাংলা ব্যাকরণ — বিপরীত শব্দ)"
+    },
+    {
+      "question": "'তামার বিষ' বাগধারাটির অর্থ কী?",
+      "options": [
+        "ধনসম্পদের কুপ্রভাব",
+        "শারীরিক অসুখ",
+        "মানসিক দুশ্চিন্তা",
+        "সাংসারিক দুঃখ"
+      ],
+      "answer": "ধনসম্পদের কুপ্রভাব",
+      "explanation": "'তামার বিষ' বাগধারার অর্থ অতিরিক্ত অর্থ বা সম্পদের কুপ্রভাব, যা মানুষের চরিত্র নষ্ট করে। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'তিলে তৈল হয়' — এখানে 'তিলে' কোন কারক?",
+      "options": [
+        "অধিকরণ কারক",
+        "অপাদান কারক",
+        "কর্মকারক",
+        "করণকারক"
+      ],
+      "answer": "অধিকরণ কারক",
+      "explanation": "যে বস্তুতে ক্রিয়া নিষ্পন্ন হয় তা অধিকরণ কারক; তিলের মধ্যেই তেল উৎপন্ন হয়। (সূত্র: বাংলা ব্যাকরণ — কারক)"
+    },
+    {
+      "question": "বাংলা ভাষায় মোট ধ্বনি কয় প্রকার?",
+      "options": [
+        "২ প্রকার (স্বরধ্বনি ও ব্যঞ্জনধ্বনি)",
+        "৩ প্রকার",
+        "৪ প্রকার",
+        "৫ প্রকার"
+      ],
+      "answer": "২ প্রকার (স্বরধ্বনি ও ব্যঞ্জনধ্বনি)",
+      "explanation": "বাংলা ভাষার ধ্বনিকে মূলত দুই ভাগে ভাগ করা হয়— স্বরধ্বনি ও ব্যঞ্জনধ্বনি। (সূত্র: বাংলা ব্যাকরণ — ধ্বনিতত্ত্ব)"
+    },
+    {
+      "question": "'ঢাক ঢাক গুড় গুড়' বাগধারাটির অর্থ কী?",
+      "options": [
+        "গোপন রাখার প্রয়াস",
+        "প্রকাশ্য ঘোষণা",
+        "আনন্দ প্রকাশ",
+        "কঠিন কাজ"
+      ],
+      "answer": "গোপন রাখার প্রয়াস",
+      "explanation": "'ঢাক ঢাক গুড় গুড়' বাগধারাটির অর্থ কোনো বিষয় গোপন রাখার চেষ্টা করা। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'তুমি যাও, আমি আসছি' — এটি কোন প্রকার বাক্য?",
+      "options": [
+        "যৌগিক বাক্য",
+        "সরল বাক্য",
+        "জটিল বাক্য",
+        "মিশ্র বাক্য"
+      ],
+      "answer": "যৌগিক বাক্য",
+      "explanation": "দুটি সরল বাক্য একত্রে (এখানে কমা দ্বারা সংযুক্ত ভাব বহন করে) অর্থগতভাবে যৌগিক বাক্যের রূপ নেয়। (সূত্র: বাংলা ব্যাকরণ — বাক্যের প্রকারভেদ)"
+    },
+    {
+      "question": "'নীলাম্বর' শব্দের সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+      "options": [
+        "নীল + অম্বর",
+        "নীলা + অম্বর",
+        "নীল + সম্বর",
+        "নীলা + সম্বর"
+      ],
+      "answer": "নীল + অম্বর",
+      "explanation": "'নীলাম্বর' = নীল + অম্বর (আকাশ); অ + অ = আ হওয়ায় নীলাম্বর গঠিত হয়েছে। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'রাশি রাশি ভারা ভারা' গানটির/পঙক্তির রচয়িতা কে?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম",
+        "দ্বিজেন্দ্রলাল রায়",
+        "অতুলপ্রসাদ সেন"
+      ],
+      "answer": "রবীন্দ্রনাথ ঠাকুর",
+      "explanation": "'রাশি রাশি ভারা ভারা ধান কাটা হলো সারা' রবীন্দ্রনাথ ঠাকুরের 'সোনার তরী' কবিতার প্রথম পঙক্তি। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "'অলীক' শব্দের সমার্থক শব্দ কোনটি?",
+      "options": [
+        "কাল্পনিক",
+        "বাস্তব",
+        "সত্য",
+        "নিশ্চিত"
+      ],
+      "answer": "কাল্পনিক",
+      "explanation": "'অলীক' অর্থ মিথ্যা বা অবাস্তব, যার সমার্থক শব্দ কাল্পনিক। (সূত্র: বাংলা ব্যাকরণ — সমার্থক শব্দ)"
+    },
+    {
+      "question": "বাংলা বানানে 'মূর্ধন্য ণ' এর ব্যবহারবিধিকে কী বলে?",
+      "options": [
+        "ণ-ত্ব বিধান",
+        "ষ-ত্ব বিধান",
+        "ণত্ববিধি সংশোধন",
+        "বর্ণ পরিবর্তন নিয়ম"
+      ],
+      "answer": "ণ-ত্ব বিধান",
+      "explanation": "তৎসম শব্দে মূর্ধন্য 'ণ' এর সঠিক প্রয়োগবিধিকে ণ-ত্ব বিধান বলা হয়। (সূত্র: বাংলা ব্যাকরণ — বানান রীতি)"
+    },
+    {
+      "question": "'কূপমণ্ডূক' শব্দটির অর্থ কী?",
+      "options": [
+        "সীমিত জ্ঞানসম্পন্ন ব্যক্তি",
+        "বিশাল জ্ঞানসম্পন্ন ব্যক্তি",
+        "সাহসী ব্যক্তি",
+        "ধনী ব্যক্তি"
+      ],
+      "answer": "সীমিত জ্ঞানসম্পন্ন ব্যক্তি",
+      "explanation": "'কূপমণ্ডূক' শব্দটি সীমিত জ্ঞান ও সংকীর্ণ দৃষ্টিভঙ্গিসম্পন্ন ব্যক্তিকে বোঝাতে ব্যবহৃত হয় (কুয়োর মধ্যে বসবাসকারী ব্যাঙের উপমা থেকে)। (সূত্র: বাংলা ব্যাকরণ — শব্দার্থ)"
+    },
+    {
+      "question": "'বীরবল' ছদ্মনামে কে লিখতেন?",
+      "options": [
+        "প্রমথ চৌধুরী",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "শরৎচন্দ্র চট্টোপাধ্যায়",
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়"
+      ],
+      "answer": "প্রমথ চৌধুরী",
+      "explanation": "প্রমথ চৌধুরী 'বীরবল' ছদ্মনামে রচনা করতেন এবং তিনি চলিত রীতির বাংলা গদ্যের অন্যতম পথিকৃৎ। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "বাংলা গদ্যে চলিত রীতি প্রবর্তনের ক্ষেত্রে কোন পত্রিকার ভূমিকা উল্লেখযোগ্য?",
+      "options": [
+        "সবুজপত্র",
+        "বঙ্গদর্শন",
+        "কল্লোল",
+        "সমকাল"
+      ],
+      "answer": "সবুজপত্র",
+      "explanation": "প্রমথ চৌধুরী সম্পাদিত 'সবুজপত্র' পত্রিকা বাংলা গদ্যে চলিত রীতি প্রতিষ্ঠায় গুরুত্বপূর্ণ ভূমিকা রাখে। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "'যে উপকারীর অপকার করে' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "কৃতঘ্ন",
+        "কৃতজ্ঞ",
+        "উপকারী",
+        "অকৃতজ্ঞ"
+      ],
+      "answer": "কৃতঘ্ন",
+      "explanation": "'যে উপকারীর অপকার করে'-কে এক কথায় কৃতঘ্ন বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'কষ্টে লব্ধ' এর বিপরীত অর্থে ব্যবহৃত শব্দ কোনটি?",
+      "options": [
+        "সুলভ",
+        "দুর্লভ",
+        "অলভ্য",
+        "প্রাপ্য"
+      ],
+      "answer": "সুলভ",
+      "explanation": "'কষ্টে লব্ধ' বা দুর্লভের বিপরীত শব্দ 'সুলভ', যার অর্থ সহজে পাওয়া যায়। (সূত্র: বাংলা ব্যাকরণ — বিপরীত শব্দ)"
+    },
+    {
+      "question": "'ভানুসিংহ' ছদ্মনামটি কার?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম",
+        "সত্যেন্দ্রনাথ দত্ত",
+        "যতীন্দ্রনাথ সেনগুপ্ত"
+      ],
+      "answer": "রবীন্দ্রনাথ ঠাকুর",
+      "explanation": "রবীন্দ্রনাথ ঠাকুর কিশোর বয়সে 'ভানুসিংহ ঠাকুর' ছদ্মনামে রচনা করতেন। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "'দুর্মূল্য' শব্দটির সঠিক সন্ধি বিচ্ছেদ কোনটি?",
+      "options": [
+        "দুঃ + মূল্য",
+        "দুর + মূল্য",
+        "দু + মূল্য",
+        "দুস + মূল্য"
+      ],
+      "answer": "দুঃ + মূল্য",
+      "explanation": "'দুর্মূল্য' = দুঃ (উপসর্গ) + মূল্য; বিসর্গ সন্ধির নিয়মে দুঃ এর পরিবর্তন ঘটে। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "বচন বিচারে 'চশমা' শব্দটি কোন বচনে ব্যবহৃত হয়?",
+      "options": [
+        "একবচন",
+        "বহুবচন",
+        "উভয় বচনে সমান",
+        "নির্ধারণযোগ্য নয়"
+      ],
+      "answer": "একবচন",
+      "explanation": "'চশমা' শব্দটি একবচনে ব্যবহৃত হলেও একাধিক বস্তুর (দুই লেন্স) সমাহার বোঝায়; ব্যাকরণিকভাবে এটি একবচন পদ। (সূত্র: বাংলা ব্যাকরণ — বচন)"
+    },
+    {
+      "question": "'শর্বরী' শব্দের অর্থ কী?",
+      "options": [
+        "রাত্রি",
+        "দিন",
+        "সকাল",
+        "সন্ধ্যা"
+      ],
+      "answer": "রাত্রি",
+      "explanation": "'শর্বরী' শব্দের অর্থ রাত্রি বা রজনী। (সূত্র: বাংলা ব্যাকরণ — শব্দার্থ)"
+    },
+    {
+      "question": "'নদী' শব্দের স্ত্রীবাচক রূপ কোনটি প্রয়োগ করা হয় না, কারণ এটি ইতিমধ্যে স্ত্রীলিঙ্গ?",
+      "options": [
+        "নদী নিজেই স্ত্রীলিঙ্গবাচক শব্দ",
+        "নদা",
+        "নদ",
+        "নদিনী"
+      ],
+      "answer": "নদী নিজেই স্ত্রীলিঙ্গবাচক শব্দ",
+      "explanation": "'নদী' শব্দটি স্বভাবতই স্ত্রীলিঙ্গবাচক; এর পুরুষবাচক রূপ 'নদ' (যেমন ব্রহ্মপুত্র নদ)। (সূত্র: বাংলা ব্যাকরণ — লিঙ্গ)"
+    },
+    {
+      "question": "'কাঁচা হাত' বাগধারাটির অর্থ কী?",
+      "options": [
+        "অনভিজ্ঞ",
+        "দক্ষ",
+        "শক্তিশালী",
+        "সুন্দর"
+      ],
+      "answer": "অনভিজ্ঞ",
+      "explanation": "'কাঁচা হাত' বাগধারার অর্থ কোনো কাজে অনভিজ্ঞ বা অদক্ষ হওয়া। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'তেপান্তর' শব্দটি কোন সমাসের উদাহরণ?",
+      "options": [
+        "বহুব্রীহি সমাস",
+        "তৎপুরুষ সমাস",
+        "দ্বিগু সমাস",
+        "কর্মধারয় সমাস"
+      ],
+      "answer": "দ্বিগু সমাস",
+      "explanation": "সংখ্যাবাচক পদের সাথে অন্য পদ যুক্ত হয়ে সমষ্টি বোঝালে তাকে দ্বিগু সমাস বলে; তেপান্তর = তিন প্রান্তরের সমষ্টি। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "Choose the correct sentence: The manager, along with his staff, ___ present at the meeting.",
+      "options": [
+        "was",
+        "were",
+        "are",
+        "have been"
+      ],
+      "answer": "was",
+      "explanation": "When a subject is followed by 'along with', 'together with', or 'as well as', the verb agrees with the main subject, not the accompanying noun. (Source: English Grammar — Subject-Verb Agreement)"
+    },
+    {
+      "question": "Choose the correct sentence: Scarcely had he arrived ___ it started to rain.",
+      "options": [
+        "when",
+        "than",
+        "then",
+        "that"
+      ],
+      "answer": "when",
+      "explanation": "'Scarcely...when' is the correct idiomatic pairing used to indicate that one event happened immediately after another. (Source: English Grammar — Correlative Structures)"
+    },
+    {
+      "question": "The synonym of 'Prudent' is —",
+      "options": [
+        "Wise",
+        "Careless",
+        "Foolish",
+        "Reckless"
+      ],
+      "answer": "Wise",
+      "explanation": "'Prudent' means acting with care and thought for the future; its synonym is 'Wise'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "The antonym of 'Meager' is —",
+      "options": [
+        "Abundant",
+        "Scanty",
+        "Scarce",
+        "Insufficient"
+      ],
+      "answer": "Abundant",
+      "explanation": "'Meager' means lacking in quantity; its opposite is 'Abundant'. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the correct sentence: No sooner ___ the bell rung than the students left.",
+      "options": [
+        "had",
+        "did",
+        "has",
+        "does"
+      ],
+      "answer": "had",
+      "explanation": "'No sooner...than' requires the past perfect tense ('had') in the clause following 'no sooner'. (Source: English Grammar — Correlative Structures)"
+    },
+    {
+      "question": "Choose the correct passive voice: 'Someone has stolen my wallet.'",
+      "options": [
+        "My wallet has been stolen.",
+        "My wallet was stolen.",
+        "My wallet is stolen.",
+        "My wallet had been stolen."
+      ],
+      "answer": "My wallet has been stolen.",
+      "explanation": "Present perfect active ('has stolen') becomes present perfect passive: 'has/have been + V3'. (Source: English Grammar — Voice Change)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A person who repairs watches'?",
+      "options": [
+        "Watchmaker",
+        "Horologist",
+        "Chronologist",
+        "Timekeeper"
+      ],
+      "answer": "Horologist",
+      "explanation": "A person who makes or repairs clocks and watches is technically called a 'Horologist'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "Choose the correct meaning of the idiom 'a white elephant':",
+      "options": [
+        "A costly but useless possession",
+        "A rare animal",
+        "A valuable asset",
+        "A generous gift"
+      ],
+      "answer": "A costly but useless possession",
+      "explanation": "This idiom refers to a possession that is expensive to maintain but has little practical use or value. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "Choose the correct sentence: I would rather ___ at home than go out today.",
+      "options": [
+        "stay",
+        "staying",
+        "to stay",
+        "stayed"
+      ],
+      "answer": "stay",
+      "explanation": "'Would rather' is followed by the bare infinitive (base form of the verb without 'to'). (Source: English Grammar — Would Rather)"
+    },
+    {
+      "question": "Choose the correct preposition: He is capable ___ solving this problem.",
+      "options": [
+        "of",
+        "in",
+        "for",
+        "with"
+      ],
+      "answer": "of",
+      "explanation": "The adjective 'capable' is idiomatically followed by the preposition 'of'. (Source: English Grammar — Prepositions)"
+    },
+    {
+      "question": "Which sentence correctly uses 'either...or'?",
+      "options": [
+        "Either you or your brother is responsible.",
+        "Either you or your brother are responsible.",
+        "Either you or your brother be responsible.",
+        "Either you and your brother is responsible."
+      ],
+      "answer": "Either you or your brother is responsible.",
+      "explanation": "With 'either...or', the verb agrees with the subject nearer to it — here 'your brother' (singular), so 'is' is correct. (Source: English Grammar — Subject-Verb Agreement)"
+    },
+    {
+      "question": "Choose the correct sentence: The report ___ by the committee next week.",
+      "options": [
+        "will be submitted",
+        "will submit",
+        "is submitted",
+        "submits"
+      ],
+      "answer": "will be submitted",
+      "explanation": "Future passive voice is formed with 'will be + past participle', appropriate here since the report is the object receiving the action. (Source: English Grammar — Voice Change)"
+    },
+    {
+      "question": "The synonym of 'Concise' is —",
+      "options": [
+        "Brief",
+        "Lengthy",
+        "Vague",
+        "Detailed"
+      ],
+      "answer": "Brief",
+      "explanation": "'Concise' means giving information clearly in a few words; its synonym is 'Brief'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "What is the one-word substitution for 'Government by the rich'?",
+      "options": [
+        "Plutocracy",
+        "Democracy",
+        "Aristocracy",
+        "Monarchy"
+      ],
+      "answer": "Plutocracy",
+      "explanation": "A form of government controlled by the wealthy is called a 'Plutocracy'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "Choose the correct sentence: Had I known about the meeting, I ___ attended.",
+      "options": [
+        "would have",
+        "will have",
+        "would",
+        "had"
+      ],
+      "answer": "would have",
+      "explanation": "This is a third conditional sentence (unreal past); the main clause requires 'would have + past participle'. (Source: English Grammar — Conditional Sentences)"
+    },
+    {
+      "question": "Choose the correct antonym of 'Verbose':",
+      "options": [
+        "Concise",
+        "Wordy",
+        "Talkative",
+        "Lengthy"
+      ],
+      "answer": "Concise",
+      "explanation": "'Verbose' means using more words than needed; its opposite is 'Concise'. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the correct sentence: It is high time we ___ this problem.",
+      "options": [
+        "solved",
+        "solve",
+        "will solve",
+        "have solved"
+      ],
+      "answer": "solved",
+      "explanation": "The idiomatic expression 'it is high time' is followed by the past tense form, even though it refers to a present obligation. (Source: English Grammar — Idiomatic Structures)"
+    },
+    {
+      "question": "What is the meaning of the idiom 'to bite the bullet'?",
+      "options": [
+        "To face a difficult situation bravely",
+        "To eat quickly",
+        "To avoid a problem",
+        "To argue fiercely"
+      ],
+      "answer": "To face a difficult situation bravely",
+      "explanation": "This idiom means to endure a painful or unpleasant situation with courage. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "Choose the correct sentence: The number of unemployed people ___ increasing every year.",
+      "options": [
+        "is",
+        "are",
+        "were",
+        "have"
+      ],
+      "answer": "is",
+      "explanation": "'The number of' is treated as singular, so it takes a singular verb ('is'), unlike 'a number of' which takes a plural verb. (Source: English Grammar — Subject-Verb Agreement)"
+    },
+    {
+      "question": "The synonym of 'Frugal' is —",
+      "options": [
+        "Thrifty",
+        "Wasteful",
+        "Generous",
+        "Extravagant"
+      ],
+      "answer": "Thrifty",
+      "explanation": "'Frugal' means economical or sparing in the use of resources; its synonym is 'Thrifty'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "একটি ব্যাংকে বার্ষিক ৮% সরল সুদে কত বছরে আসল দ্বিগুণ হবে?",
+      "options": [
+        "১২.৫ বছর",
+        "১০ বছর",
+        "৮ বছর",
+        "১৫ বছর"
+      ],
+      "answer": "১২.৫ বছর",
+      "explanation": "সরল সুদে আসল দ্বিগুণ হওয়ার সময় = ১০০/হার = ১০০/৮ = ১২.৫ বছর। (সূত্র: গণিত — সরল সুদ)"
+    },
+    {
+      "question": "একটি কোম্পানির শেয়ারের দাম প্রথমে ২০% বৃদ্ধি পায় এবং পরে ২০% হ্রাস পায়। প্রকৃত পরিবর্তন কত?",
+      "options": [
+        "৪% হ্রাস",
+        "কোনো পরিবর্তন নয়",
+        "৪% বৃদ্ধি",
+        "৪০% হ্রাস"
+      ],
+      "answer": "৪% হ্রাস",
+      "explanation": "ধরি মূল দাম ১০০; ২০% বৃদ্ধিতে ১২০; পরে ২০% হ্রাসে ১২০×০.৮=৯৬; নিট পরিবর্তন = ১০০-৯৬ = ৪% হ্রাস। (সূত্র: গণিত — ক্রমিক শতকরা পরিবর্তন)"
+    },
+    {
+      "question": "দুই অঙ্কের একটি সংখ্যার অঙ্কদ্বয়ের সমষ্টি ৯। সংখ্যাটি থেকে ৯ বিয়োগ করলে অঙ্কদ্বয়ের স্থান পরিবর্তন হয়। সংখ্যাটি কত?",
+      "options": [
+        "৫৪",
+        "৪৫",
+        "৬৩",
+        "৭২"
+      ],
+      "answer": "৫৪",
+      "explanation": "ধরি সংখ্যা = ১০a+b, যেখানে a+b=৯। শর্তানুযায়ী (১০a+b)-৯=১০b+a ⇒ ৯a-৯b=৯ ⇒ a-b=১; a+b=৯ ও a-b=১ সমাধানে a=৫,b=৪; সংখ্যা ৫৪। (সূত্র: গণিত — সংখ্যা সমস্যা)"
+    },
+    {
+      "question": "একটি ব্যাংক ঋণের ওপর বার্ষিক ১২% সুদ ধার্য করে। ৫০,০০০ টাকার ওপর ৬ মাসের সুদ কত?",
+      "options": [
+        "৩,০০০ টাকা",
+        "৬,০০০ টাকা",
+        "১,৫০০ টাকা",
+        "২,৫০০ টাকা"
+      ],
+      "answer": "৩,০০০ টাকা",
+      "explanation": "সরল সুদ = (আসল×হার×সময়)/১০০ = (৫০,০০০×১২×০.৫)/১০০ = ৩,০০০ টাকা। (সূত্র: গণিত — সরল সুদ)"
+    },
+    {
+      "question": "একটি অ্যাকাউন্টে ৫% বার্ষিক চক্রবৃদ্ধি সুদে ১০০০ টাকা জমা রাখলে ২ বছর পর সুদ কত হবে?",
+      "options": [
+        "১০২.৫০ টাকা",
+        "১০০ টাকা",
+        "৫০ টাকা",
+        "১১০ টাকা"
+      ],
+      "answer": "১০২.৫০ টাকা",
+      "explanation": "চক্রবৃদ্ধি সমূল = ১০০০×(১.০৫)² = ১১০২.৫০; সুদ = ১১০২.৫০-১০০০ = ১০২.৫০ টাকা। (সূত্র: গণিত — চক্রবৃদ্ধি সুদ)"
+    },
+    {
+      "question": "একজন ব্যক্তি তার মাসিক আয়ের ৩০% সঞ্চয় করেন। মাসিক আয় ৪০,০০০ টাকা হলে তার মাসিক ব্যয় কত?",
+      "options": [
+        "২৮,০০০ টাকা",
+        "১২,০০০ টাকা",
+        "৩০,০০০ টাকা",
+        "২৫,০০০ টাকা"
+      ],
+      "answer": "২৮,০০০ টাকা",
+      "explanation": "সঞ্চয় = ৪০,০০০ এর ৩০% = ১২,০০০ টাকা; ব্যয় = ৪০,০০০-১২,০০০ = ২৮,০০০ টাকা। (সূত্র: গণিত — শতকরা)"
+    },
+    {
+      "question": "দুটি সংখ্যার অনুপাত ৩ঃ৪। তাদের গসাগু ৫ হলে সংখ্যা দুটি কত?",
+      "options": [
+        "১৫ ও ২০",
+        "৩ ও ৪",
+        "৩০ ও ৪০",
+        "১২ ও ১৬"
+      ],
+      "answer": "১৫ ও ২০",
+      "explanation": "অনুপাত ৩ঃ৪ ও গসাগু ৫ হলে সংখ্যা দুটি ৩×৫=১৫ এবং ৪×৫=২০। (সূত্র: গণিত — অনুপাত ও গসাগু)"
+    },
+    {
+      "question": "একটি পরীক্ষায় পাস নম্বর ৪০%। একজন পরীক্ষার্থী ১৮০ নম্বর পেয়ে ২০ নম্বরের জন্য ফেল করলে পূর্ণমান কত?",
+      "options": [
+        "৫০০",
+        "৪০০",
+        "৪৫০",
+        "৫৫০"
+      ],
+      "answer": "৫০০",
+      "explanation": "পাস নম্বর = ১৮০+২০ = ২০০, যা পূর্ণমানের ৪০%; পূর্ণমান = ২০০/০.৪ = ৫০০। (সূত্র: গণিত — শতকরা)"
+    },
+    {
+      "question": "একটি সংখ্যার ১/৩ অংশ তার ১/৫ অংশের চেয়ে ৮ বেশি হলে সংখ্যাটি কত?",
+      "options": [
+        "৬০",
+        "৪০",
+        "৫০",
+        "৩০"
+      ],
+      "answer": "৬০",
+      "explanation": "ধরি সংখ্যা x। x/3 - x/5 = 8 ⇒ (5x-3x)/15=8 ⇒ 2x=120 ⇒ x=৬০। (সূত্র: গণিত — ভগ্নাংশ ও সমীকরণ)"
+    },
+    {
+      "question": "বার্ষিক ১০% হারে ২ বছরের সরল সুদ ও চক্রবৃদ্ধি সুদের পার্থক্য ৫০ টাকা হলে আসল কত?",
+      "options": [
+        "৫,০০০ টাকা",
+        "৪,০০০ টাকা",
+        "৫,৫০০ টাকা",
+        "৬,০০০ টাকা"
+      ],
+      "answer": "৫,০০০ টাকা",
+      "explanation": "২ বছরের সরল ও চক্রবৃদ্ধি সুদের পার্থক্য = আসল×(হার/১০০)² ; ৫০ = আসল×(০.১)² ⇒ আসল = ৫০/০.০১ = ৫,০০০ টাকা। (সূত্র: গণিত — সুদের পার্থক্য)"
+    },
+    {
+      "question": "একটি ট্রেন ৯০ কিমি/ঘণ্টা বেগে চলে ২.৫ ঘণ্টায় কত দূরত্ব অতিক্রম করবে?",
+      "options": [
+        "২২৫ কিমি",
+        "২৫০ কিমি",
+        "২০০ কিমি",
+        "১৮০ কিমি"
+      ],
+      "answer": "২২৫ কিমি",
+      "explanation": "দূরত্ব = গতিবেগ × সময় = ৯০×২.৫ = ২২৫ কিমি। (সূত্র: গণিত — গতি, দূরত্ব ও সময়)"
+    },
+    {
+      "question": "৪৮ এর সকল গুণনীয়কের সংখ্যা কত?",
+      "options": [
+        "১০টি",
+        "৮টি",
+        "১২টি",
+        "৬টি"
+      ],
+      "answer": "১০টি",
+      "explanation": "৪৮ = ২⁴×৩; গুণনীয়ক সংখ্যা = (৪+১)×(১+১) = ৫×২ = ১০টি। (সূত্র: গণিত — গুণনীয়ক নির্ণয়)"
+    },
+    {
+      "question": "একটি সংখ্যাকে ৩ দিয়ে ভাগ করলে যে ভাগফল পাওয়া যায়, তা মূল সংখ্যা থেকে ১০ কম। সংখ্যাটি কত?",
+      "options": [
+        "১৫",
+        "৩০",
+        "৪৫",
+        "২০"
+      ],
+      "answer": "১৫",
+      "explanation": "ধরি সংখ্যা x। x/3 = x-10 ⇒ x = 3x-30 ⇒ 2x=30 ⇒ x=১৫। (সূত্র: গণিত — সমীকরণ)"
+    },
+    {
+      "question": "CPU এর পূর্ণরূপ কী?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Unit",
+        "Control Processing Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "explanation": "CPU এর পূর্ণরূপ Central Processing Unit, যা কম্পিউটারের মূল প্রক্রিয়াকরণ অংশ। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "RAM এর পূর্ণরূপ কী?",
+      "options": [
+        "Random Access Memory",
+        "Read Access Memory",
+        "Random Available Memory",
+        "Read Available Memory"
+      ],
+      "answer": "Random Access Memory",
+      "explanation": "RAM এর পূর্ণরূপ Random Access Memory, যা কম্পিউটারের অস্থায়ী স্মৃতি। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "১ বাইট সমান কত বিট?",
+      "options": [
+        "৮ বিট",
+        "৪ বিট",
+        "১৬ বিট",
+        "৩২ বিট"
+      ],
+      "answer": "৮ বিট",
+      "explanation": "কম্পিউটিং-এ ১ বাইট = ৮ বিট। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "বাইনারি সংখ্যা পদ্ধতির ভিত্তি (base) কত?",
+      "options": [
+        "২",
+        "১০",
+        "৮",
+        "১৬"
+      ],
+      "answer": "২",
+      "explanation": "বাইনারি সংখ্যা পদ্ধতি ০ এবং ১ — এই দুটি অঙ্ক নিয়ে গঠিত, তাই এর ভিত্তি ২। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "World Wide Web (WWW) আবিষ্কার করেন কে?",
+      "options": [
+        "টিম বার্নার্স-লি",
+        "বিল গেটস",
+        "স্টিভ জবস",
+        "মার্ক জাকারবার্গ"
+      ],
+      "answer": "টিম বার্নার্স-লি",
+      "explanation": "১৯৮৯ সালে টিম বার্নার্স-লি ওয়ার্ল্ড ওয়াইড ওয়েব (WWW) আবিষ্কার করেন। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "HTML এর পূর্ণরূপ কী?",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Text Markup Language",
+        "Hyper Transfer Markup Language",
+        "Hyper Text Machine Language"
+      ],
+      "answer": "Hyper Text Markup Language",
+      "explanation": "HTML এর পূর্ণরূপ Hyper Text Markup Language, যা ওয়েব পেজ তৈরিতে ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "URL এর পূর্ণরূপ কী?",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Locator",
+        "Uniform Reference Locator",
+        "United Resource Link"
+      ],
+      "answer": "Uniform Resource Locator",
+      "explanation": "URL এর পূর্ণরূপ Uniform Resource Locator, যা ইন্টারনেটে কোনো নির্দিষ্ট রিসোর্সের ঠিকানা নির্দেশ করে। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "ই-মেইল আদান-প্রদানে ব্যবহৃত মূল প্রোটোকল কোনটি?",
+      "options": [
+        "SMTP",
+        "HTTP",
+        "FTP",
+        "TCP"
+      ],
+      "answer": "SMTP",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) ই-মেইল পাঠানোর জন্য ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "কম্পিউটার ভাইরাস থেকে সুরক্ষার জন্য কোন সফটওয়্যার ব্যবহৃত হয়?",
+      "options": [
+        "অ্যান্টিভাইরাস",
+        "অপারেটিং সিস্টেম",
+        "কম্পাইলার",
+        "ব্রাউজার"
+      ],
+      "answer": "অ্যান্টিভাইরাস",
+      "explanation": "কম্পিউটার ভাইরাস প্রতিরোধ ও দূরীকরণের জন্য অ্যান্টিভাইরাস সফটওয়্যার ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "নিচের কোনটি একটি অপারেটিং সিস্টেমের উদাহরণ?",
+      "options": [
+        "Linux",
+        "MS Word",
+        "Photoshop",
+        "Chrome"
+      ],
+      "answer": "Linux",
+      "explanation": "Linux একটি অপারেটিং সিস্টেম, যেখানে MS Word একটি অ্যাপ্লিকেশন সফটওয়্যার এবং Chrome একটি ব্রাউজার। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "একটি নেটওয়ার্কে অননুমোদিত প্রবেশ রোধ করতে কোন সিস্টেম ব্যবহৃত হয়?",
+      "options": [
+        "ফায়ারওয়াল",
+        "ব্রাউজার",
+        "কম্পাইলার",
+        "স্প্রেডশিট"
+      ],
+      "answer": "ফায়ারওয়াল",
+      "explanation": "ফায়ারওয়াল একটি নিরাপত্তা ব্যবস্থা, যা নেটওয়ার্কে অননুমোদিত প্রবেশ প্রতিরোধ করে। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "MS Excel-এ একাধিক সংখ্যার সমষ্টি নির্ণয়ের জন্য কোন ফাংশন ব্যবহৃত হয়?",
+      "options": [
+        "SUM",
+        "AVERAGE",
+        "COUNT",
+        "MAX"
+      ],
+      "answer": "SUM",
+      "explanation": "MS Excel-এ একাধিক কক্ষের সংখ্যার সমষ্টি নির্ণয়ের জন্য SUM ফাংশন ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "কম্পিউটারের স্থায়ী স্মৃতি (যা বিদ্যুৎ সংযোগ বিচ্ছিন্ন হলেও তথ্য মুছে যায় না) কোনটি?",
+      "options": [
+        "ROM",
+        "RAM",
+        "Cache",
+        "Register"
+      ],
+      "answer": "ROM",
+      "explanation": "ROM (Read Only Memory) একটি স্থায়ী স্মৃতি, যার তথ্য বিদ্যুৎ সংযোগ বিচ্ছিন্ন হলেও মুছে যায় না, RAM এর বিপরীতে। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "ইন্টারনেটে তথ্য আদান-প্রদানের মৌলিক প্রোটোকল স্যুট কোনটি?",
+      "options": [
+        "TCP/IP",
+        "HTTP/FTP",
+        "SMTP/POP",
+        "USB/HDMI"
+      ],
+      "answer": "TCP/IP",
+      "explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) ইন্টারনেটে তথ্য আদান-প্রদানের মৌলিক প্রোটোকল স্যুট। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "একটি ওয়েবসাইটের ঠিকানার শেষে '.bd' থাকলে এটি কোন দেশের সাথে সম্পর্কিত বোঝায়?",
+      "options": [
+        "বাংলাদেশ",
+        "ব্রাজিল",
+        "বেলজিয়াম",
+        "ভুটান"
+      ],
+      "answer": "বাংলাদেশ",
+      "explanation": "'.bd' বাংলাদেশের জন্য নির্ধারিত কান্ট্রি কোড টপ-লেভেল ডোমেইন (ccTLD)। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "তথ্য এনক্রিপ্ট করার প্রধান উদ্দেশ্য কী?",
+      "options": [
+        "তথ্যের সুরক্ষা নিশ্চিত করা",
+        "তথ্যের আকার বৃদ্ধি করা",
+        "তথ্য মুছে ফেলা",
+        "তথ্য দ্রুত স্থানান্তর করা"
+      ],
+      "answer": "তথ্যের সুরক্ষা নিশ্চিত করা",
+      "explanation": "এনক্রিপশনের মূল উদ্দেশ্য তথ্যকে সাংকেতিক রূপে রূপান্তর করে অননুমোদিত ব্যক্তির কাছ থেকে সুরক্ষিত রাখা। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "প্রথম ব্যবহারিক ইলেকট্রনিক কম্পিউটার হিসেবে কোনটি পরিচিত?",
+      "options": [
+        "ENIAC",
+        "UNIVAC",
+        "IBM PC",
+        "Apple I"
+      ],
+      "answer": "ENIAC",
+      "explanation": "১৯৪৫ সালে নির্মিত ENIAC (Electronic Numerical Integrator and Computer) প্রথম সাধারণ-উদ্দেশ্য ইলেকট্রনিক কম্পিউটার হিসেবে পরিচিত। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "স্মার্টফোনে ব্যবহৃত 'অ্যান্ড্রয়েড' কী?",
+      "options": [
+        "একটি অপারেটিং সিস্টেম",
+        "একটি হার্ডওয়্যার",
+        "একটি ব্রাউজার",
+        "একটি প্রসেসর"
+      ],
+      "answer": "একটি অপারেটিং সিস্টেম",
+      "explanation": "অ্যান্ড্রয়েড গুগল কর্তৃক তৈরি একটি মোবাইল অপারেটিং সিস্টেম। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "কম্পিউটার নেটওয়ার্কে IP এর পূর্ণরূপ কী?",
+      "options": [
+        "Internet Protocol",
+        "Internal Program",
+        "Internet Provider",
+        "Information Protocol"
+      ],
+      "answer": "Internet Protocol",
+      "explanation": "IP এর পূর্ণরূপ Internet Protocol, যা নেটওয়ার্কে ডিভাইস চিহ্নিতকরণ ও তথ্য প্রেরণে ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "বাংলাদেশ ব্যাংকের প্রথম গভর্নর কে ছিলেন?",
+      "options": [
+        "এ এন এম হামিদুল্লাহ",
+        "মোহাম্মদ ফরাস উদ্দিন",
+        "ফজলে কবির",
+        "আতিউর রহমান"
+      ],
+      "answer": "এ এন এম হামিদুল্লাহ",
+      "explanation": "১৯৭২ সালের ১৮ জানুয়ারি এ এন এম হামিদুল্লাহ বাংলাদেশ ব্যাংকের প্রথম গভর্নর হিসেবে দায়িত্ব গ্রহণ করেন। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "বাংলাদেশের কেন্দ্রীয় ব্যাংকের নাম কী?",
+      "options": [
+        "বাংলাদেশ ব্যাংক",
+        "সোনালী ব্যাংক",
+        "জনতা ব্যাংক",
+        "রূপালী ব্যাংক"
+      ],
+      "answer": "বাংলাদেশ ব্যাংক",
+      "explanation": "বাংলাদেশ ব্যাংক দেশের কেন্দ্রীয় ব্যাংক, যা মুদ্রানীতি প্রণয়ন ও তদারকির দায়িত্বে রয়েছে। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "বাংলাদেশের বৃহত্তম রাষ্ট্রায়ত্ত বাণিজ্যিক ব্যাংক কোনটি?",
+      "options": [
+        "সোনালী ব্যাংক",
+        "জনতা ব্যাংক",
+        "অগ্রণী ব্যাংক",
+        "রূপালী ব্যাংক"
+      ],
+      "answer": "সোনালী ব্যাংক",
+      "explanation": "সোনালী ব্যাংক বাংলাদেশের বৃহত্তম রাষ্ট্রায়ত্ত বাণিজ্যিক ব্যাংক, যা ১৯৭২ সালে প্রতিষ্ঠিত হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "ক্ষুদ্রঋণ কার্যক্রমের মাধ্যমে নোবেল শান্তি পুরস্কার (২০০৬) লাভ করেন কে?",
+      "options": [
+        "ড. মুহাম্মদ ইউনূস",
+        "অমর্ত্য সেন",
+        "আবুল কালাম আজাদ",
+        "কাজী খলীকুজ্জামান"
+      ],
+      "answer": "ড. মুহাম্মদ ইউনূস",
+      "explanation": "গ্রামীণ ব্যাংক প্রতিষ্ঠাতা ড. মুহাম্মদ ইউনূস ক্ষুদ্রঋণ কার্যক্রমের অগ্রণী ভূমিকার জন্য ২০০৬ সালে নোবেল শান্তি পুরস্কার লাভ করেন। (সূত্র: বাংলাদেশ বিষয়াবলি)"
+    },
+    {
+      "question": "SWIFT কোড ব্যাংকিং ব্যবস্থায় কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "আন্তর্জাতিক ব্যাংক লেনদেন সনাক্তকরণে",
+        "ATM কার্ড তৈরিতে",
+        "চেক ছাপাতে",
+        "সুদের হার নির্ধারণে"
+      ],
+      "answer": "আন্তর্জাতিক ব্যাংক লেনদেন সনাক্তকরণে",
+      "explanation": "SWIFT কোড একটি নির্দিষ্ট ব্যাংক বা শাখাকে সনাক্ত করতে আন্তর্জাতিক অর্থ স্থানান্তরে ব্যবহৃত হয়। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "ATM এর পূর্ণরূপ কী?",
+      "options": [
+        "Automated Teller Machine",
+        "Automatic Transfer Machine",
+        "Automated Transaction Machine",
+        "Auto Teller Money-machine"
+      ],
+      "answer": "Automated Teller Machine",
+      "explanation": "ATM এর পূর্ণরূপ Automated Teller Machine, যার মাধ্যমে গ্রাহক নগদ টাকা উত্তোলন করতে পারেন। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "GDP এর পূর্ণরূপ কী?",
+      "options": [
+        "Gross Domestic Product",
+        "General Domestic Product",
+        "Gross Development Product",
+        "Global Domestic Product"
+      ],
+      "answer": "Gross Domestic Product",
+      "explanation": "GDP এর পূর্ণরূপ Gross Domestic Product, যা একটি দেশের অভ্যন্তরে উৎপাদিত সকল দ্রব্য ও সেবার মোট আর্থিক মূল্য নির্দেশ করে। (সূত্র: অর্থনীতি বিষয়াবলি)"
+    },
+    {
+      "question": "VAT এর পূর্ণরূপ কী?",
+      "options": [
+        "Value Added Tax",
+        "Variable Added Tax",
+        "Value Assessment Tax",
+        "Value Allocation Tax"
+      ],
+      "answer": "Value Added Tax",
+      "explanation": "VAT এর পূর্ণরূপ Value Added Tax, যা পণ্য বা সেবার প্রতিটি উৎপাদন স্তরে যোগ হওয়া মূল্যের ওপর আরোপিত পরোক্ষ কর। (সূত্র: অর্থনীতি বিষয়াবলি)"
+    },
+    {
+      "question": "আয়কর কোন প্রকার করের উদাহরণ?",
+      "options": [
+        "প্রত্যক্ষ কর",
+        "পরোক্ষ কর",
+        "সম্পদ কর",
+        "আমদানি শুল্ক"
+      ],
+      "answer": "প্রত্যক্ষ কর",
+      "explanation": "আয়কর সরাসরি ব্যক্তি বা প্রতিষ্ঠানের আয়ের ওপর আরোপিত হয় বলে এটি প্রত্যক্ষ করের উদাহরণ। (সূত্র: অর্থনীতি বিষয়াবলি)"
+    },
+    {
+      "question": "আন্তর্জাতিক মুদ্রা তহবিল (IMF) ও বিশ্বব্যাংকের সদর দপ্তর কোথায়?",
+      "options": [
+        "ওয়াশিংটন ডিসি",
+        "নিউইয়র্ক",
+        "জেনেভা",
+        "লন্ডন"
+      ],
+      "answer": "ওয়াশিংটন ডিসি",
+      "explanation": "IMF ও বিশ্বব্যাংক উভয়ের সদর দপ্তর যুক্তরাষ্ট্রের ওয়াশিংটন ডিসিতে অবস্থিত। (সূত্র: আন্তর্জাতিক অর্থনৈতিক সংস্থা)"
+    },
+    {
+      "question": "এশীয় উন্নয়ন ব্যাংক (ADB)-এর সদর দপ্তর কোথায়?",
+      "options": [
+        "ম্যানিলা",
+        "টোকিও",
+        "সিঙ্গাপুর",
+        "ব্যাংকক"
+      ],
+      "answer": "ম্যানিলা",
+      "explanation": "এশীয় উন্নয়ন ব্যাংক (ADB)-এর সদর দপ্তর ফিলিপাইনের ম্যানিলায় অবস্থিত। (সূত্র: আন্তর্জাতিক অর্থনৈতিক সংস্থা)"
+    },
+    {
+      "question": "বাংলাদেশের রপ্তানি আয়ের প্রধান খাত কোনটি?",
+      "options": [
+        "তৈরি পোশাক শিল্প",
+        "কৃষিপণ্য",
+        "চামড়া শিল্প",
+        "পাট শিল্প"
+      ],
+      "answer": "তৈরি পোশাক শিল্প",
+      "explanation": "তৈরি পোশাক শিল্প (RMG) বাংলাদেশের রপ্তানি আয়ের সবচেয়ে বড় খাত। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "মুদ্রাস্ফীতি (Inflation) বলতে কী বোঝায়?",
+      "options": [
+        "দ্রব্যমূল্যের সাধারণ ও ক্রমাগত বৃদ্ধি",
+        "দ্রব্যমূল্যের হ্রাস",
+        "মুদ্রার মান বৃদ্ধি",
+        "উৎপাদন বৃদ্ধি"
+      ],
+      "answer": "দ্রব্যমূল্যের সাধারণ ও ক্রমাগত বৃদ্ধি",
+      "explanation": "মুদ্রাস্ফীতি বলতে একটি অর্থনীতিতে দ্রব্য ও সেবার সাধারণ মূল্যস্তরের ক্রমাগত বৃদ্ধিকে বোঝায়। (সূত্র: অর্থনীতি বিষয়াবলি)"
+    },
+    {
+      "question": "বাংলাদেশের বৈদেশিক মুদ্রা আয়ের একটি প্রধান উৎস প্রবাসী শ্রমিকদের পাঠানো অর্থকে কী বলা হয়?",
+      "options": [
+        "রেমিটেন্স",
+        "বৈদেশিক ঋণ",
+        "অনুদান",
+        "রপ্তানি ভর্তুকি"
+      ],
+      "answer": "রেমিটেন্স",
+      "explanation": "প্রবাসী বাংলাদেশি শ্রমিকদের দেশে পাঠানো অর্থকে রেমিটেন্স বলা হয়, যা দেশের বৈদেশিক মুদ্রার একটি প্রধান উৎস। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "চেক ডিজঅনার (Cheque Dishonour) হয় সাধারণত কোন কারণে?",
+      "options": [
+        "হিসাবে পর্যাপ্ত অর্থ না থাকলে",
+        "চেক নতুন হলে",
+        "স্বাক্ষর সুন্দর না হলে",
+        "ব্যাংক বন্ধ থাকলে"
+      ],
+      "answer": "হিসাবে পর্যাপ্ত অর্থ না থাকলে",
+      "explanation": "সাধারণত হিসাবধারীর অ্যাকাউন্টে পর্যাপ্ত তহবিল না থাকলে চেক ডিজঅনার বা প্রত্যাখ্যাত হয়। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "বাংলাদেশের মুদ্রার নাম কী?",
+      "options": [
+        "টাকা",
+        "রুপি",
+        "রিয়াল",
+        "দিনার"
+      ],
+      "answer": "টাকা",
+      "explanation": "বাংলাদেশের সরকারি মুদ্রার নাম টাকা, যার প্রতীক ৳। (সূত্র: বাংলাদেশ বিষয়াবলি)"
+    },
+    {
+      "question": "একটি দেশের কেন্দ্রীয় ব্যাংকের প্রধান কাজ কোনটি?",
+      "options": [
+        "মুদ্রানীতি প্রণয়ন ও বাস্তবায়ন",
+        "সরাসরি গ্রাহকদের ঋণ প্রদান",
+        "শেয়ারবাজার পরিচালনা",
+        "কর আদায়"
+      ],
+      "answer": "মুদ্রানীতি প্রণয়ন ও বাস্তবায়ন",
+      "explanation": "কেন্দ্রীয় ব্যাংকের প্রধান কাজ মুদ্রানীতি প্রণয়ন, মুদ্রা সরবরাহ নিয়ন্ত্রণ এবং ব্যাংকিং ব্যবস্থা তদারকি করা। (সূত্র: অর্থনীতি বিষয়াবলি)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 3, 6, 12, 24, ?",
+      "options": [
+        "৪৮",
+        "৩৬",
+        "৪০",
+        "৩০"
+      ],
+      "answer": "৪৮",
+      "explanation": "প্রতিটি পদ পূর্ববর্তী পদের দ্বিগুণ; ২৪×২ = ৪৮। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 2, 5, 10, 17, 26, ?",
+      "options": [
+        "৩৭",
+        "৩৫",
+        "৩৬",
+        "৩৯"
+      ],
+      "answer": "৩৭",
+      "explanation": "পদগুলোর মধ্যে পার্থক্য ৩, ৫, ৭, ৯ — অর্থাৎ প্রতিবার ২ বৃদ্ধি পায়; পরের পার্থক্য ১১, তাই ২৬+১১=৩৭। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 1, 1, 2, 3, 5, 8, ?",
+      "options": [
+        "১৩",
+        "১১",
+        "১৫",
+        "১০"
+      ],
+      "answer": "১৩",
+      "explanation": "এটি ফিবোনাচি সিরিজ, যেখানে প্রতিটি পদ পূর্ববর্তী দুটি পদের সমষ্টি; ৫+৮=১৩। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "সাদৃশ্য নির্ণয় করুন: Doctor : Hospital :: Teacher : ?",
+      "options": [
+        "School",
+        "Book",
+        "Student",
+        "Class"
+      ],
+      "answer": "School",
+      "explanation": "যেমন ডাক্তার হাসপাতালে কর্মরত থাকেন, তেমনি শিক্ষক বিদ্যালয়ে কর্মরত থাকেন। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "সাদৃশ্য নির্ণয় করুন: Pen : Write :: Knife : ?",
+      "options": [
+        "Cut",
+        "Draw",
+        "Read",
+        "Sharpen"
+      ],
+      "answer": "Cut",
+      "explanation": "যেমন কলম লেখার উপকরণ, তেমনি ছুরি কাটার উপকরণ। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "সাদৃশ্য নির্ণয় করুন: Author : Book :: Sculptor : ?",
+      "options": [
+        "Statue",
+        "Chisel",
+        "Museum",
+        "Stone"
+      ],
+      "answer": "Statue",
+      "explanation": "যেমন লেখক বই সৃষ্টি করেন, তেমনি ভাস্কর মূর্তি সৃষ্টি করেন। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "বিজোড় শব্দ খুঁজুন: Rose, Lotus, Jasmine, Mango",
+      "options": [
+        "Mango",
+        "Rose",
+        "Lotus",
+        "Jasmine"
+      ],
+      "answer": "Mango",
+      "explanation": "Rose, Lotus, Jasmine ফুল হলেও Mango একটি ফল; তাই Mango বিজোড়। (সূত্র: বিশ্লেষণী দক্ষতা — বিজোড় নির্ণয়)"
+    },
+    {
+      "question": "বিজোড় সংখ্যা খুঁজুন: 2, 3, 5, 9",
+      "options": [
+        "৯",
+        "২",
+        "৩",
+        "৫"
+      ],
+      "answer": "৯",
+      "explanation": "২, ৩, ৫ মৌলিক সংখ্যা, কিন্তু ৯ (=৩×৩) মৌলিক সংখ্যা নয়; তাই ৯ বিজোড়। (সূত্র: বিশ্লেষণী দক্ষতা — বিজোড় নির্ণয়)"
+    },
+    {
+      "question": "বর্ণ সিরিজ সম্পন্ন করুন: B, D, F, H, ?",
+      "options": [
+        "J",
+        "I",
+        "K",
+        "G"
+      ],
+      "answer": "J",
+      "explanation": "প্রতিটি বর্ণের পর একটি বর্ণ বাদ দিয়ে পরের বর্ণ নেওয়া হয়েছে (B,_,D,_,F,_,H,_,J); তাই পরের বর্ণ J। (সূত্র: বিশ্লেষণী দক্ষতা — বর্ণ সিরিজ)"
+    },
+    {
+      "question": "বর্ণ সিরিজ সম্পন্ন করুন: Z, X, V, T, ?",
+      "options": [
+        "R",
+        "S",
+        "Q",
+        "U"
+      ],
+      "answer": "R",
+      "explanation": "প্রতিটি বর্ণ থেকে দুটি বর্ণ পিছিয়ে যাওয়া হয়েছে (Z-2=X, X-2=V, V-2=T, T-2=R)। (সূত্র: বিশ্লেষণী দক্ষতা — বর্ণ সিরিজ)"
+    },
+    {
+      "question": "A হলো B এর ভাই। C হলো B এর মা। D হলো C এর পিতা। D এর সাথে A এর সম্পর্ক কী?",
+      "options": [
+        "নানা",
+        "দাদা",
+        "মামা",
+        "চাচা"
+      ],
+      "answer": "নানা",
+      "explanation": "C হলো A ও B এর মা, এবং D হলো C এর পিতা, অর্থাৎ D হলো A এর মায়ের পিতা — বাংলায় যাকে নানা বলা হয় (পিতার পিতাকে বলা হয় দাদা)। (সূত্র: বিশ্লেষণী দক্ষতা — রক্তসম্পর্ক)"
+    },
+    {
+      "question": "একজন ব্যক্তি বলল, 'উনি আমার পিতার একমাত্র বোনের মেয়ে।' মহিলাটি ব্যক্তির সাথে কী সম্পর্কিত?",
+      "options": [
+        "কাজিন (ফুফুর মেয়ে)",
+        "বোন",
+        "মা",
+        "খালা"
+      ],
+      "answer": "কাজিন (ফুফুর মেয়ে)",
+      "explanation": "'পিতার একমাত্র বোন' হলো ফুফু; ফুফুর মেয়ে হলো কাজিন। (সূত্র: বিশ্লেষণী দক্ষতা — রক্তসম্পর্ক)"
+    },
+    {
+      "question": "একজন ব্যক্তি ৩ কিমি উত্তরে এবং তারপর ৪ কিমি পূর্বে হাঁটলেন। তিনি শুরুর স্থান থেকে সরলরেখায় কত দূরে আছেন?",
+      "options": [
+        "৫ কিমি",
+        "৭ কিমি",
+        "১ কিমি",
+        "৬ কিমি"
+      ],
+      "answer": "৫ কিমি",
+      "explanation": "পিথাগোরাসের উপপাদ্য অনুযায়ী, দূরত্ব = √(৩²+৪²) = √(৯+১৬) = √২৫ = ৫ কিমি। (সূত্র: বিশ্লেষণী দক্ষতা — দিকনির্দেশনা)"
+    },
+    {
+      "question": "একজন ব্যক্তি উত্তরদিকে মুখ করে দাঁড়িয়ে ৯০° ডানে (ক্লকওয়াইজ) ঘুরলেন, তারপর আরও ১৮০° ঘুরলেন। তিনি এখন কোন দিকে মুখ করে আছেন?",
+      "options": [
+        "পশ্চিম",
+        "পূর্ব",
+        "দক্ষিণ",
+        "উত্তর"
+      ],
+      "answer": "পশ্চিম",
+      "explanation": "উত্তর থেকে ৯০° ডানে ঘুরে পূর্বমুখী হন, তারপর আরও ১৮০° ঘুরলে সম্পূর্ণ বিপরীত দিক অর্থাৎ পশ্চিমমুখী হবেন। (সূত্র: বিশ্লেষণী দক্ষতা — দিকনির্দেশনা)"
+    },
+    {
+      "question": "একটি শ্রেণিতে রহিম উপর থেকে ৫ম এবং নিচ থেকে ২০তম স্থানে আছে। শ্রেণিতে মোট ছাত্র সংখ্যা কত?",
+      "options": [
+        "২৪",
+        "২৫",
+        "২৩",
+        "২৬"
+      ],
+      "answer": "২৪",
+      "explanation": "মোট ছাত্র = (উপর থেকে স্থান-১) + (নিচ থেকে স্থান-১) + ১ = (৫-১)+(২০-১)+১ = ৪+১৯+১ = ২৪। (সূত্র: বিশ্লেষণী দক্ষতা — র‍্যাংকিং সমস্যা)"
+    },
+    {
+      "question": "যদি কোনো কোড ভাষায় 'RAIN' কে 'SBJO' লেখা হয় (প্রতিটি বর্ণ ১ ধাপ পরে), তাহলে 'SNOW' কে কীভাবে লেখা হবে?",
+      "options": [
+        "TOPX",
+        "TOPY",
+        "ROPW",
+        "TNPX"
+      ],
+      "answer": "TOPX",
+      "explanation": "প্রতিটি বর্ণকে পরবর্তী বর্ণে রূপান্তর করা হয়েছে: S→T, N→O, O→P, W→X, তাই SNOW হবে TOPX। (সূত্র: বিশ্লেষণী দক্ষতা — কোডিং-ডিকোডিং)"
+    },
+    {
+      "question": "যদি A=1, B=2, C=3 ... Z=26 হয়, তবে 'CAT' শব্দের বর্ণগুলোর সাংখ্যিক মানের সমষ্টি কত?",
+      "options": [
+        "২৪",
+        "২০",
+        "২৬",
+        "২২"
+      ],
+      "answer": "২৪",
+      "explanation": "C=৩, A=১, T=২০; সমষ্টি = ৩+১+২০ = ২৪। (সূত্র: বিশ্লেষণী দক্ষতা — কোডিং-ডিকোডিং)"
+    },
+    {
+      "question": "অনুপাত সম্পর্ক নির্ণয় করুন: Kilogram : Weight :: Metre : ?",
+      "options": [
+        "Length",
+        "Time",
+        "Volume",
+        "Speed"
+      ],
+      "answer": "Length",
+      "explanation": "যেমন কিলোগ্রাম ওজন পরিমাপের একক, তেমনি মিটার দৈর্ঘ্য পরিমাপের একক। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 100, 90, 81, 73, ?",
+      "options": [
+        "৬৬",
+        "৬৫",
+        "৬৮",
+        "৬৪"
+      ],
+      "answer": "৬৬",
+      "explanation": "পার্থক্যগুলো ক্রমান্বয়ে -১০, -৯, -৮; পরের পার্থক্য -৭, তাই ৭৩-৭=৬৬। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "'যে স্ত্রীর সন্তান হয় না' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "বন্ধ্যা",
+        "বিধবা",
+        "অনূঢ়া",
+        "সধবা"
+      ],
+      "answer": "বন্ধ্যা",
+      "explanation": "'যে স্ত্রীর সন্তান হয় না'-কে এক কথায় বন্ধ্যা বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'নিজের চেষ্টায় যা লাভ করা হয়' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "স্বোপার্জিত",
+        "উপার্জিত",
+        "পরার্জিত",
+        "অর্জিত"
+      ],
+      "answer": "স্বোপার্জিত",
+      "explanation": "'নিজের চেষ্টায় যা লাভ করা হয়'-কে এক কথায় স্বোপার্জিত বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'প্রখর' শব্দের বিপরীত শব্দ কী?",
+      "options": [
+        "স্নিগ্ধ",
+        "তীক্ষ্ণ",
+        "উজ্জ্বল",
+        "কঠোর"
+      ],
+      "answer": "স্নিগ্ধ",
+      "explanation": "'প্রখর' অর্থ তীব্র বা কড়া; এর বিপরীত শব্দ 'স্নিগ্ধ' অর্থ কোমল বা শান্ত। (সূত্র: বাংলা ব্যাকরণ — বিপরীত শব্দ)"
+    },
+    {
+      "question": "'ঐচ্ছিক' শব্দের বিপরীত শব্দ কী?",
+      "options": [
+        "আবশ্যিক",
+        "স্বেচ্ছা",
+        "পছন্দনীয়",
+        "প্রয়োজনীয়"
+      ],
+      "answer": "আবশ্যিক",
+      "explanation": "'ঐচ্ছিক' অর্থ ইচ্ছাধীন বা অপশনাল; এর বিপরীত শব্দ 'আবশ্যিক' অর্থ বাধ্যতামূলক। (সূত্র: বাংলা ব্যাকরণ — বিপরীত শব্দ)"
+    },
+    {
+      "question": "'চোখের বালি' বাগধারাটির অর্থ কী?",
+      "options": [
+        "চক্ষুশূল বা অপ্রিয় ব্যক্তি",
+        "প্রিয় ব্যক্তি",
+        "চোখের রোগ",
+        "সামান্য সমস্যা"
+      ],
+      "answer": "চক্ষুশূল বা অপ্রিয় ব্যক্তি",
+      "explanation": "'চোখের বালি' বাগধারাটি এমন ব্যক্তিকে বোঝায় যাকে দেখতে অপছন্দ বা অসহ্য লাগে। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'আকাশ কুসুম' বাগধারাটির অর্থ কী?",
+      "options": [
+        "অসম্ভব কল্পনা",
+        "বাস্তব পরিকল্পনা",
+        "সহজ সমাধান",
+        "নিশ্চিত সাফল্য"
+      ],
+      "answer": "অসম্ভব কল্পনা",
+      "explanation": "'আকাশ কুসুম' বাগধারাটি এমন কল্পনাকে বোঝায় যা বাস্তবে কখনো সম্ভব নয়। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'নয়-ছয়' বাগধারাটির অর্থ কী?",
+      "options": [
+        "অপচয় বা তালগোল পাকানো",
+        "সুষ্ঠু ব্যবস্থাপনা",
+        "সততা",
+        "সঞ্চয়"
+      ],
+      "answer": "অপচয় বা তালগোল পাকানো",
+      "explanation": "'নয়-ছয়' বাগধারাটি অর্থ বা সম্পদের অপচয় এবং হিসাবে জটিলতা সৃষ্টি করাকে বোঝায়। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'কুমারের হাতে মাটি যেমন গড়া যায়' — এখানে 'হাতে' কোন কারক?",
+      "options": [
+        "করণকারক",
+        "অধিকরণ কারক",
+        "কর্মকারক",
+        "কর্তৃকারক"
+      ],
+      "answer": "করণকারক",
+      "explanation": "যে অঙ্গ বা উপকরণের মাধ্যমে কাজ সম্পন্ন হয়, তা করণকারক; এখানে হাত মাটি গড়ার উপকরণ। (সূত্র: বাংলা ব্যাকরণ — কারক)"
+    },
+    {
+      "question": "একই শব্দ পুনরায় ব্যবহার করে যে সমাস গঠিত হয়, তাকে কী বলে?",
+      "options": [
+        "নিত্য সমাস",
+        "অলুক সমাস",
+        "প্রাদি সমাস",
+        "উপপদ তৎপুরুষ সমাস"
+      ],
+      "answer": "অলুক সমাস",
+      "explanation": "যে তৎপুরুষ সমাসে বিভক্তির লোপ হয় না, তাকে অলুক তৎপুরুষ সমাস বলে; যেমন 'তলায় ঝাড়ু'। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'অন্নদামঙ্গল' কাব্যের রচয়িতা কে?",
+      "options": [
+        "ভারতচন্দ্র রায়গুণাকর",
+        "মুকুন্দরাম চক্রবর্তী",
+        "কৃত্তিবাস ওঝা",
+        "কাশীরাম দাস"
+      ],
+      "answer": "ভারতচন্দ্র রায়গুণাকর",
+      "explanation": "ভারতচন্দ্র রায়গুণাকর রচিত 'অন্নদামঙ্গল' মধ্যযুগীয় বাংলা মঙ্গলকাব্যের একটি উল্লেখযোগ্য গ্রন্থ। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "'চণ্ডীমঙ্গল' কাব্যের রচয়িতা কে?",
+      "options": [
+        "মুকুন্দরাম চক্রবর্তী",
+        "ভারতচন্দ্র রায়গুণাকর",
+        "বিজয় গুপ্ত",
+        "দ্বিজ মাধব"
+      ],
+      "answer": "মুকুন্দরাম চক্রবর্তী",
+      "explanation": "মুকুন্দরাম চক্রবর্তী (কবিকংকণ) রচিত 'চণ্ডীমঙ্গল' মধ্যযুগীয় বাংলা সাহিত্যের একটি বিখ্যাত মঙ্গলকাব্য। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "রামায়ণের বাংলা অনুবাদক হিসেবে কে বিখ্যাত?",
+      "options": [
+        "কৃত্তিবাস ওঝা",
+        "কাশীরাম দাস",
+        "মুকুন্দরাম চক্রবর্তী",
+        "ভারতচন্দ্র রায়গুণাকর"
+      ],
+      "answer": "কৃত্তিবাস ওঝা",
+      "explanation": "কৃত্তিবাস ওঝা মধ্যযুগে বাংলা ভাষায় রামায়ণ অনুবাদ করে বিখ্যাত হন। (সূত্র: বাংলা সাহিত্যের ইতিহাস)"
+    },
+    {
+      "question": "দুটি সমীপবর্তী স্বরধ্বনির প্রভাবে একটির উচ্চারণ পরিবর্তিত হয়ে অন্যটির সদৃশ হওয়াকে কী বলে?",
+      "options": [
+        "স্বরসংগতি",
+        "অভিশ্রুতি",
+        "সমীভবন",
+        "অন্তর্হতি"
+      ],
+      "answer": "স্বরসংগতি",
+      "explanation": "একটি স্বরধ্বনির প্রভাবে পাশের স্বরধ্বনি পরিবর্তিত হয়ে সদৃশ হওয়াকে স্বরসংগতি বলে; যেমন দেশি > দিশি। (সূত্র: বাংলা ব্যাকরণ — ধ্বনিতত্ত্ব)"
+    },
+    {
+      "question": "'মোজা' শব্দটি কোন ভাষা থেকে বাংলায় এসেছে?",
+      "options": [
+        "পর্তুগিজ",
+        "ফারসি",
+        "আরবি",
+        "তুর্কি"
+      ],
+      "answer": "পর্তুগিজ",
+      "explanation": "'মোজা', 'আলমারি', 'চাবি' প্রভৃতি শব্দ পর্তুগিজ ভাষা থেকে বাংলায় এসেছে। (সূত্র: বাংলা ব্যাকরণ — বিদেশি শব্দ)"
+    },
+    {
+      "question": "Choose the correct sentence: I have been waiting for you ___ two hours.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "at"
+      ],
+      "answer": "for",
+      "explanation": "'For' is used to indicate a duration of time; the present perfect continuous tense fits here to show an action continuing up to now. (Source: English Grammar — Tense)"
+    },
+    {
+      "question": "The synonym of 'Vigilant' is —",
+      "options": [
+        "Watchful",
+        "Careless",
+        "Sleepy",
+        "Ignorant"
+      ],
+      "answer": "Watchful",
+      "explanation": "'Vigilant' means keeping careful watch for possible danger; its synonym is 'Watchful'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "The synonym of 'Lucid' is —",
+      "options": [
+        "Clear",
+        "Confusing",
+        "Vague",
+        "Complex"
+      ],
+      "answer": "Clear",
+      "explanation": "'Lucid' means expressed clearly and easy to understand; its synonym is 'Clear'. (Source: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "The antonym of 'Tedious' is —",
+      "options": [
+        "Interesting",
+        "Boring",
+        "Lengthy",
+        "Dull"
+      ],
+      "answer": "Interesting",
+      "explanation": "'Tedious' means too long and dull; its opposite is 'Interesting'. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "The antonym of 'Adamant' is —",
+      "options": [
+        "Flexible",
+        "Stubborn",
+        "Firm",
+        "Rigid"
+      ],
+      "answer": "Flexible",
+      "explanation": "'Adamant' means refusing to change one's mind; its opposite is 'Flexible'. (Source: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "'A piece of cake' means —",
+      "options": [
+        "Something very easy",
+        "A dessert item",
+        "Something difficult",
+        "A small portion"
+      ],
+      "answer": "Something very easy",
+      "explanation": "This idiom is used to describe a task that is very easy to accomplish. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "'To break the ice' means —",
+      "options": [
+        "To initiate conversation in a social setting",
+        "To cause a conflict",
+        "To end a relationship",
+        "To solve a cold problem"
+      ],
+      "answer": "To initiate conversation in a social setting",
+      "explanation": "This idiom means to say or do something to relieve tension or get a conversation started, especially among strangers. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "'The tip of the iceberg' means —",
+      "options": [
+        "A small visible part of a much larger problem",
+        "A cold environment",
+        "A complete solution",
+        "An obvious fact"
+      ],
+      "answer": "A small visible part of a much larger problem",
+      "explanation": "This idiom refers to a small, noticeable part of a much bigger issue that remains mostly hidden. (Source: English Idioms & Phrases)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A feeling of longing for the past'?",
+      "options": [
+        "Nostalgia",
+        "Amnesia",
+        "Anxiety",
+        "Euphoria"
+      ],
+      "answer": "Nostalgia",
+      "explanation": "A sentimental longing for a past time or period is called 'Nostalgia'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "What is the one-word substitution for 'A person who talks too much'?",
+      "options": [
+        "Loquacious",
+        "Reticent",
+        "Taciturn",
+        "Eloquent"
+      ],
+      "answer": "Loquacious",
+      "explanation": "A person who talks excessively is described as 'Loquacious'. (Source: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "Choose the correct preposition: Please congratulate him ___ his success.",
+      "options": [
+        "on",
+        "for",
+        "at",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "The verb 'congratulate' is idiomatically followed by 'on' when referring to an achievement. (Source: English Grammar — Prepositions)"
+    },
+    {
+      "question": "Choose the correct preposition: He apologized ___ being late.",
+      "options": [
+        "for",
+        "of",
+        "on",
+        "at"
+      ],
+      "answer": "for",
+      "explanation": "The verb 'apologize' is idiomatically followed by 'for' before a gerund describing the reason. (Source: English Grammar — Prepositions)"
+    },
+    {
+      "question": "Choose the correct sentence describing a past habit: When I was a child, I ___ play in the park every day.",
+      "options": [
+        "would",
+        "will",
+        "should",
+        "can"
+      ],
+      "answer": "would",
+      "explanation": "'Would' is used to describe a repeated action or habit in the past, similar to 'used to'. (Source: English Grammar — Modal Verbs)"
+    },
+    {
+      "question": "Find the error: 'She don't know the answer to this question.'",
+      "options": [
+        "'don't' should be 'doesn't'",
+        "'know' should be 'knows'",
+        "'answer' should be 'answers'",
+        "No error"
+      ],
+      "answer": "'don't' should be 'doesn't'",
+      "explanation": "With third-person singular subjects (she), the correct auxiliary is 'doesn't', not 'don't'. (Source: English Grammar — Error Correction)"
+    },
+    {
+      "question": "একটি দ্রব্যের ক্রয়মূল্য ৪০০ টাকা। বিক্রেতা প্রথমে দাম ২৫% বাড়িয়ে পরে ১০% ছাড় দিলে বিক্রয়মূল্য কত হবে?",
+      "options": [
+        "৪৫০ টাকা",
+        "৪০০ টাকা",
+        "৫০০ টাকা",
+        "৪৭৫ টাকা"
+      ],
+      "answer": "৪৫০ টাকা",
+      "explanation": "২৫% বৃদ্ধিতে দাম হয় ৪০০×১.২৫=৫০০; তারপর ১০% ছাড়ে দাম হয় ৫০০×০.৯=৪৫০ টাকা। (সূত্র: গণিত — ক্রমিক শতকরা পরিবর্তন)"
+    },
+    {
+      "question": "A, B এবং C একটি কাজ একা যথাক্রমে ১০, ১৫ ও ৩০ দিনে করতে পারে। তারা একসাথে কাজটি কত দিনে শেষ করবে?",
+      "options": [
+        "৫ দিন",
+        "৬ দিন",
+        "১০ দিন",
+        "১৫ দিন"
+      ],
+      "answer": "৫ দিন",
+      "explanation": "একসাথে দৈনিক কাজ = ১/১০+১/১৫+১/৩০ = ৩/৩০+২/৩০+১/৩০ = ৬/৩০ = ১/৫; তারা ৫ দিনে কাজ শেষ করবে। (সূত্র: গণিত — কাজ ও সময়)"
+    },
+    {
+      "question": "তিনটি সংখ্যার গড় ১৮। প্রথম দুটি সংখ্যার গড় ১৫ হলে তৃতীয় সংখ্যাটি কত?",
+      "options": [
+        "২৪",
+        "২১",
+        "২৭",
+        "১৮"
+      ],
+      "answer": "২৪",
+      "explanation": "তিন সংখ্যার সমষ্টি = ১৮×৩=৫৪; প্রথম দুটির সমষ্টি = ১৫×২=৩০; তৃতীয় সংখ্যা = ৫৪-৩০=২৪। (সূত্র: গণিত — গড়)"
+    },
+    {
+      "question": "পিতা ও পুত্রের বয়সের অনুপাত ৭ঃ৩। ৫ বছর পর অনুপাত হবে ২ঃ১। পুত্রের বর্তমান বয়স কত?",
+      "options": [
+        "১৫ বছর",
+        "২১ বছর",
+        "১০ বছর",
+        "১২ বছর"
+      ],
+      "answer": "১৫ বছর",
+      "explanation": "ধরি বয়স ৭x ও ৩x। (৭x+৫)/(৩x+৫)=২/১ ⇒ ৭x+৫=৬x+১০ ⇒ x=৫; পুত্রের বয়স=৩×৫=১৫ বছর। (সূত্র: গণিত — বয়স সংক্রান্ত সমস্যা)"
+    },
+    {
+      "question": "দুটি ঘড়ির কাঁটা প্রতি ৩ ও ৪ মিনিটে একসাথে বাজে। তারা পুনরায় একসাথে কত মিনিট পর বাজবে?",
+      "options": [
+        "১২ মিনিট",
+        "৭ মিনিট",
+        "২৪ মিনিট",
+        "৬ মিনিট"
+      ],
+      "answer": "১২ মিনিট",
+      "explanation": "৩ ও ৪ এর লসাগু = ১২; তারা পুনরায় ১২ মিনিট পর একসাথে বাজবে। (সূত্র: গণিত — লসাগুর ব্যবহারিক প্রয়োগ)"
+    },
+    {
+      "question": "একটি নির্বাচনে মোট ভোটারের ৭০% ভোট প্রদান করেন এবং তার মধ্যে ৬০% ভোট একজন প্রার্থী পান। মোট ভোটার ১০,০০০ হলে সেই প্রার্থী কত ভোট পেয়েছেন?",
+      "options": [
+        "৪,২০০",
+        "৬,০০০",
+        "৭,০০০",
+        "৩,৬০০"
+      ],
+      "answer": "৪,২০০",
+      "explanation": "প্রদত্ত ভোট = ১০,০০০ এর ৭০% = ৭,০০০; প্রার্থীর ভোট = ৭,০০০ এর ৬০% = ৪,২০০। (সূত্র: গণিত — শতকরার ধারাবাহিক প্রয়োগ)"
+    },
+    {
+      "question": "একটি সংখ্যার ৪০% যদি ৮০ হয়, তবে সংখ্যাটির ৭৫% কত?",
+      "options": [
+        "১৫০",
+        "১২০",
+        "১৮০",
+        "২০০"
+      ],
+      "answer": "১৫০",
+      "explanation": "সংখ্যাটি = ৮০/০.৪ = ২০০; তার ৭৫% = ২০০×০.৭৫ = ১৫০। (সূত্র: গণিত — শতকরা)"
+    },
+    {
+      "question": "কম্পিউটারে কপি করার শর্টকাট কী কোনটি?",
+      "options": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + X",
+        "Ctrl + Z"
+      ],
+      "answer": "Ctrl + C",
+      "explanation": "Ctrl+C কপি করার শর্টকাট, Ctrl+V পেস্ট করার, এবং Ctrl+X কাট করার শর্টকাট কী। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "ইন্টারনেট সংযোগের জন্য ব্যবহৃত তারবিহীন প্রযুক্তির নাম কী?",
+      "options": [
+        "Wi-Fi",
+        "USB",
+        "HDMI",
+        "VGA"
+      ],
+      "answer": "Wi-Fi",
+      "explanation": "Wi-Fi একটি তারবিহীন (ওয়্যারলেস) নেটওয়ার্ক প্রযুক্তি, যা ইন্টারনেট সংযোগে ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "তথ্য সংরক্ষণের জন্য ব্যবহৃত সুসংগঠিত সংগ্রহকে কী বলে?",
+      "options": [
+        "ডেটাবেস",
+        "সফটওয়্যার",
+        "হার্ডওয়্যার",
+        "নেটওয়ার্ক"
+      ],
+      "answer": "ডেটাবেস",
+      "explanation": "সুসংগঠিতভাবে সংরক্ষিত তথ্যের সংগ্রহকে ডেটাবেস বলা হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "নিচের কোনটি একটি ইনপুট ডিভাইস?",
+      "options": [
+        "কিবোর্ড",
+        "মনিটর",
+        "প্রিন্টার",
+        "স্পিকার"
+      ],
+      "answer": "কিবোর্ড",
+      "explanation": "কিবোর্ড একটি ইনপুট ডিভাইস, যার মাধ্যমে কম্পিউটারে তথ্য প্রবেশ করানো হয়; মনিটর, প্রিন্টার ও স্পিকার আউটপুট ডিভাইস। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "নিচের কোনটি একটি আউটপুট ডিভাইস?",
+      "options": [
+        "মনিটর",
+        "কিবোর্ড",
+        "মাউস",
+        "স্ক্যানার"
+      ],
+      "answer": "মনিটর",
+      "explanation": "মনিটর একটি আউটপুট ডিভাইস, যা কম্পিউটারের প্রক্রিয়াকৃত তথ্য প্রদর্শন করে। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "দূরবর্তী সার্ভারে তথ্য সংরক্ষণ ও প্রক্রিয়াকরণের ব্যবস্থাকে কী বলে?",
+      "options": [
+        "ক্লাউড কম্পিউটিং",
+        "গ্রিড কম্পিউটিং",
+        "এজ কম্পিউটিং",
+        "কোয়ান্টাম কম্পিউটিং"
+      ],
+      "answer": "ক্লাউড কম্পিউটিং",
+      "explanation": "ইন্টারনেটের মাধ্যমে দূরবর্তী সার্ভারে তথ্য সংরক্ষণ ও প্রক্রিয়াকরণের ব্যবস্থাকে ক্লাউড কম্পিউটিং বলা হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "MS Office প্যাকেজের একটি স্প্রেডশিট প্রোগ্রামের নাম কী?",
+      "options": [
+        "MS Excel",
+        "MS Word",
+        "MS PowerPoint",
+        "MS Access"
+      ],
+      "answer": "MS Excel",
+      "explanation": "MS Excel একটি স্প্রেডশিট প্রোগ্রাম, যা হিসাব-নিকাশ ও তথ্য বিশ্লেষণে ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "কম্পিউটার নেটওয়ার্কে ব্লুটুথ প্রযুক্তি সাধারণত কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "স্বল্প দূরত্বে তারবিহীন তথ্য আদান-প্রদান",
+        "ইন্টারনেট প্রদান",
+        "দূরবর্তী সার্ভার সংযোগ",
+        "ওয়েবসাইট তৈরি"
+      ],
+      "answer": "স্বল্প দূরত্বে তারবিহীন তথ্য আদান-প্রদান",
+      "explanation": "ব্লুটুথ একটি স্বল্প-পরিসরের তারবিহীন প্রযুক্তি, যা কাছাকাছি ডিভাইসের মধ্যে তথ্য আদান-প্রদানে ব্যবহৃত হয়। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+    },
+    {
+      "question": "যে সুদের হারে কেন্দ্রীয় ব্যাংক বাণিজ্যিক ব্যাংকগুলোকে ঋণ প্রদান করে, তাকে কী বলা হয়?",
+      "options": [
+        "রেপো রেট (Repo Rate)",
+        "কল মানি রেট",
+        "প্রাইম রেট",
+        "ব্যাংক গ্যারান্টি"
+      ],
+      "answer": "রেপো রেট (Repo Rate)",
+      "explanation": "রেপো রেট হলো সেই সুদের হার, যাতে কেন্দ্রীয় ব্যাংক বাণিজ্যিক ব্যাংকগুলোকে স্বল্পমেয়াদি ঋণ প্রদান করে। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "ব্যাংকগুলোর মধ্যে অতি স্বল্পমেয়াদি (সাধারণত একদিনের) আন্তঃব্যাংক ঋণ লেনদেনকে কী বলা হয়?",
+      "options": [
+        "কল মানি",
+        "রেপো",
+        "ফিক্সড ডিপোজিট",
+        "ব্যাংক ড্রাফট"
+      ],
+      "answer": "কল মানি",
+      "explanation": "কল মানি মার্কেট হলো ব্যাংকগুলোর মধ্যে অত্যন্ত স্বল্পমেয়াদি তারল্য সমন্বয়ের বাজার। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "বাংলাদেশের প্রথম বেসরকারি ব্যাংক হিসেবে কোনটি পরিচিত?",
+      "options": [
+        "এবি ব্যাংক লিমিটেড",
+        "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
+        "ব্র্যাক ব্যাংক",
+        "ঢাকা ব্যাংক"
+      ],
+      "answer": "এবি ব্যাংক লিমিটেড",
+      "explanation": "১৯৮২ সালে প্রতিষ্ঠিত এবি ব্যাংক লিমিটেড (তৎকালীন আরব বাংলাদেশ ব্যাংক) বাংলাদেশের প্রথম বেসরকারি ব্যাংক। (সূত্র: বাংলাদেশ বিষয়াবলি — ব্যাংকিং)"
+    },
+    {
+      "question": "বাংলাদেশের প্রথম শরিয়াভিত্তিক ইসলামী ব্যাংক কোনটি?",
+      "options": [
+        "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
+        "এবি ব্যাংক",
+        "সোনালী ব্যাংক",
+        "আল-আরাফাহ ব্যাংক"
+      ],
+      "answer": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
+      "explanation": "১৯৮৩ সালে প্রতিষ্ঠিত ইসলামী ব্যাংক বাংলাদেশ লিমিটেড দেশের প্রথম শরিয়াভিত্তিক ব্যাংক। (সূত্র: বাংলাদেশ বিষয়াবলি — ব্যাংকিং)"
+    },
+    {
+      "question": "ঢাকা স্টক এক্সচেঞ্জ (DSE) কী ধরনের প্রতিষ্ঠান?",
+      "options": [
+        "শেয়ারবাজার/পুঁজিবাজার প্রতিষ্ঠান",
+        "কেন্দ্রীয় ব্যাংক",
+        "বাণিজ্যিক ব্যাংক",
+        "বিমা প্রতিষ্ঠান"
+      ],
+      "answer": "শেয়ারবাজার/পুঁজিবাজার প্রতিষ্ঠান",
+      "explanation": "ঢাকা স্টক এক্সচেঞ্জ (DSE) বাংলাদেশের একটি প্রধান শেয়ারবাজার, যেখানে কোম্পানির শেয়ার লেনদেন হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — পুঁজিবাজার)"
+    },
+    {
+      "question": "ক্রেডিট কার্ড ও ডেবিট কার্ডের মধ্যে মূল পার্থক্য কী?",
+      "options": [
+        "ক্রেডিট কার্ডে ধারে টাকা খরচ করা যায়, ডেবিট কার্ডে নিজের জমা টাকা",
+        "দুটোই একই কাজ করে",
+        "ডেবিট কার্ডে সুদ দিতে হয়",
+        "ক্রেডিট কার্ড শুধু বিদেশে ব্যবহার হয়"
+      ],
+      "answer": "ক্রেডিট কার্ডে ধারে টাকা খরচ করা যায়, ডেবিট কার্ডে নিজের জমা টাকা",
+      "explanation": "ক্রেডিট কার্ড ব্যাংক থেকে ধার করা অর্থ ব্যবহারের সুযোগ দেয়, যা পরে পরিশোধ করতে হয়; ডেবিট কার্ড গ্রাহকের নিজের হিসাবে জমা থাকা অর্থ থেকেই খরচ করে। (সূত্র: ব্যাংকিং বিষয়াবলি)"
+    },
+    {
+      "question": "ক্ষুদ্র ও কুটির শিল্পে অর্থায়নের জন্য বাংলাদেশে কোন প্রতিষ্ঠান বিশেষভাবে কাজ করে?",
+      "options": [
+        "এসএমই ফাউন্ডেশন",
+        "বাংলাদেশ ব্যাংক",
+        "সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন",
+        "বীমা উন্নয়ন কর্তৃপক্ষ"
+      ],
+      "answer": "এসএমই ফাউন্ডেশন",
+      "explanation": "এসএমই ফাউন্ডেশন ক্ষুদ্র ও মাঝারি শিল্প উন্নয়ন ও অর্থায়ন সহায়তায় বিশেষভাবে কাজ করে। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 4, 9, 16, 25, ?",
+      "options": [
+        "৩৬",
+        "৩০",
+        "৩৫",
+        "৪০"
+      ],
+      "answer": "৩৬",
+      "explanation": "সংখ্যাগুলো ২², ৩², ৪², ৫² — অর্থাৎ ক্রমিক সংখ্যার বর্গ; পরের পদ ৬²=৩৬। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "সিরিজ সম্পন্ন করুন: 7, 14, 28, 56, ?",
+      "options": [
+        "১১২",
+        "৮৪",
+        "৯০",
+        "১০০"
+      ],
+      "answer": "১১২",
+      "explanation": "প্রতিটি পদ পূর্ববর্তী পদের দ্বিগুণ; ৫৬×২=১১২। (সূত্র: বিশ্লেষণী দক্ষতা — সংখ্যা সিরিজ)"
+    },
+    {
+      "question": "সাদৃশ্য নির্ণয় করুন: Fish : Water :: Bird : ?",
+      "options": [
+        "Sky",
+        "Nest",
+        "Tree",
+        "Cage"
+      ],
+      "answer": "Sky",
+      "explanation": "যেমন মাছ পানিতে বসবাস করে, তেমনি পাখি আকাশে বিচরণ করে। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "সাদৃশ্য নির্ণয় করুন: Thermometer : Temperature :: Speedometer : ?",
+      "options": [
+        "Speed",
+        "Distance",
+        "Time",
+        "Weight"
+      ],
+      "answer": "Speed",
+      "explanation": "যেমন থার্মোমিটার তাপমাত্রা পরিমাপ করে, তেমনি স্পিডোমিটার গতি পরিমাপ করে। (সূত্র: বিশ্লেষণী দক্ষতা — সাদৃশ্য)"
+    },
+    {
+      "question": "বিজোড় শব্দ খুঁজুন: Triangle, Square, Circle, Wood",
+      "options": [
+        "Wood",
+        "Triangle",
+        "Square",
+        "Circle"
+      ],
+      "answer": "Wood",
+      "explanation": "Triangle, Square, Circle জ্যামিতিক আকৃতি, কিন্তু Wood একটি উপাদান/বস্তু; তাই Wood বিজোড়। (সূত্র: বিশ্লেষণী দক্ষতা — বিজোড় নির্ণয়)"
+    },
+    {
+      "question": "বর্ণ সিরিজ সম্পন্ন করুন: A, D, G, J, ?",
+      "options": [
+        "M",
+        "L",
+        "N",
+        "K"
+      ],
+      "answer": "M",
+      "explanation": "প্রতিটি বর্ণের পর ২টি বর্ণ বাদ দিয়ে (৩ ধাপ এগিয়ে) পরের বর্ণ নেওয়া হয়েছে; J থেকে ৩ ধাপ পরে M। (সূত্র: বিশ্লেষণী দক্ষতা — বর্ণ সিরিজ)"
+    },
+    {
+      "question": "P, Q এর পিতা। R, Q এর ভাই। S, R এর মা। S এর সাথে P এর সম্পর্ক কী?",
+      "options": [
+        "স্ত্রী",
+        "মা",
+        "বোন",
+        "কন্যা"
+      ],
+      "answer": "স্ত্রী",
+      "explanation": "P হলো Q এর পিতা এবং S হলো Q ও R এর মা; সুতরাং S হলো P এর স্ত্রী। (সূত্র: বিশ্লেষণী দক্ষতা — রক্তসম্পর্ক)"
+    },
+    {
+      "question": "একজন ব্যক্তি দক্ষিণমুখী হয়ে ৯০° বামে ঘুরলেন। তিনি এখন কোন দিকে মুখ করে আছেন?",
+      "options": [
+        "পূর্ব",
+        "পশ্চিম",
+        "উত্তর",
+        "দক্ষিণ"
+      ],
+      "answer": "পূর্ব",
+      "explanation": "দক্ষিণমুখী অবস্থায় ৯০° বামে (কাউন্টারক্লকওয়াইজ) ঘুরলে পূর্বমুখী হওয়া যায়। (সূত্র: বিশ্লেষণী দক্ষতা — দিকনির্দেশনা)"
+    },
+    {
+      "question": "যদি কোনো কোড ভাষায় BOOK কে ANNJ লেখা হয় (প্রতিটি বর্ণ ১ ধাপ পূর্বে), তাহলে PAGE কে কীভাবে লেখা হবে?",
+      "options": [
+        "OZFD",
+        "OZFE",
+        "PZFD",
+        "OAFD"
+      ],
+      "answer": "OZFD",
+      "explanation": "প্রতিটি বর্ণকে ১ ধাপ পূর্বের বর্ণে রূপান্তর করা হয়েছে: P→O, A→Z, G→F, E→D, তাই PAGE হবে OZFD। (সূত্র: বিশ্লেষণী দক্ষতা — কোডিং-ডিকোডিং)"
+    },
+    {
+      "question": "একটি ক্লাসে ৪০ জন ছাত্রের মধ্যে রহিমের অবস্থান উপর থেকে ১২তম। নিচ থেকে তার অবস্থান কত?",
+      "options": [
+        "২৯তম",
+        "২৮তম",
+        "৩০তম",
+        "২৭তম"
+      ],
+      "answer": "২৯তম",
+      "explanation": "নিচ থেকে অবস্থান = মোট ছাত্র - উপর থেকে অবস্থান + ১ = ৪০-১২+১ = ২৯তম। (সূত্র: বিশ্লেষণী দক্ষতা — র‍্যাংকিং সমস্যা)"
+    }
+  ]
+}
