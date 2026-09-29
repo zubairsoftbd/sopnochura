@@ -1,0 +1,566 @@
+{
+  "live_quizzes": [
+    {
+      "id": "live-bank-2026-10-19",
+      "title": "ব্যাংক জব প্রস্তুতি লাইভ কুইজ",
+      "category": "bank",
+      "start_time": "2026-10-19 20:00",
+      "end_time": "2026-10-19 21:30",
+      "duration_minutes": 40,
+      "result_publish_time": "2026-10-20 12:00",
+      "total_questions": 50,
+      "questions": [
+        {
+          "question": "'শ্রীকৃষ্ণকীর্তন' কাব্যের রচয়িতা কে?",
+          "options": [
+            "বিদ্যাপতি",
+            "গোবিন্দদাস",
+            "জ্ঞানদাস",
+            "বড়ু চণ্ডীদাস"
+          ],
+          "answer": "বড়ু চণ্ডীদাস",
+          "explanation": "বড়ু চণ্ডীদাস রচিত শ্রীকৃষ্ণকীর্তন মধ্যযুগের প্রথম নিদর্শন হিসেবে বিবেচিত। (সূত্র: বাংলা সাহিত্য — মধ্যযুগ)"
+        },
+        {
+          "question": "'নীলদর্পণ' নাটকের রচয়িতা কে?",
+          "options": [
+            "দীনবন্ধু মিত্র",
+            "গিরিশচন্দ্র ঘোষ",
+            "রামনারায়ণ তর্করত্ন",
+            "মাইকেল মধুসূদন দত্ত"
+          ],
+          "answer": "দীনবন্ধু মিত্র",
+          "explanation": "নীলকরদের অত্যাচার নিয়ে দীনবন্ধু মিত্র ১৮৬০ সালে 'নীলদর্পণ' রচনা করেন। (সূত্র: বাংলা সাহিত্য — নাটক)"
+        },
+        {
+          "question": "'রাজপুত্র' শব্দের সমাস কোনটি?",
+          "options": [
+            "কর্মধারয়",
+            "ষষ্ঠী তৎপুরুষ",
+            "বহুব্রীহি",
+            "দ্বন্দ্ব"
+          ],
+          "answer": "ষষ্ঠী তৎপুরুষ",
+          "explanation": "ব্যাসবাক্য: রাজার পুত্র; পূর্বপদে ষষ্ঠী বিভক্তি লোপ পেয়েছে। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+        },
+        {
+          "question": "'যার আদি নেই' — এক কথায় প্রকাশ কী?",
+          "options": [
+            "অজর",
+            "অনন্ত",
+            "অনাদি",
+            "অসীম"
+          ],
+          "answer": "অনাদি",
+          "explanation": "যার আদি নেই তা অনাদি; যার অন্ত নেই তা অনন্ত। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+        },
+        {
+          "question": "'অপরাহ্ন' শব্দের সন্ধি বিচ্ছেদ কোনটি?",
+          "options": [
+            "অপর + অহ্ন",
+            "অপরা + অহ্ন",
+            "অপ + অহ্ন",
+            "অপ + রাহ্ন"
+          ],
+          "answer": "অপর + অহ্ন",
+          "explanation": "অ + অ = আ (স্বরসন্ধি); অপর + অহ্ন = অপরাহ্ন। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+        },
+        {
+          "question": "কোনটি শুদ্ধ বানান?",
+          "options": [
+            "পরিশ্কার",
+            "পরীষ্কার",
+            "পরিস্কার",
+            "পরিষ্কার"
+          ],
+          "answer": "পরিষ্কার",
+          "explanation": "শুদ্ধ বানান 'পরিষ্কার'। (সূত্র: বাংলা একাডেমি প্রমিত বানানরীতি)"
+        },
+        {
+          "question": "Choose the synonym of 'Abundant'.",
+          "options": [
+            "Scarce",
+            "Limited",
+            "Rare",
+            "Plentiful"
+          ],
+          "answer": "Plentiful",
+          "explanation": "'Abundant' means existing in large quantities, i.e. plentiful. (Source: English — Vocabulary)"
+        },
+        {
+          "question": "Choose the antonym of 'Optimistic'.",
+          "options": [
+            "Hopeful",
+            "Cheerful",
+            "Confident",
+            "Pessimistic"
+          ],
+          "answer": "Pessimistic",
+          "explanation": "An optimistic person expects good outcomes; a pessimistic person expects bad ones. (Source: English — Vocabulary)"
+        },
+        {
+          "question": "He has been living here ___ 2015.",
+          "options": [
+            "from",
+            "since",
+            "for",
+            "by"
+          ],
+          "answer": "since",
+          "explanation": "'Since' is used with a specific point in time. (Source: English Grammar — Preposition)"
+        },
+        {
+          "question": "What does the idiom 'A piece of cake' mean?",
+          "options": [
+            "Very difficult",
+            "A small share",
+            "A dessert",
+            "Very easy"
+          ],
+          "answer": "Very easy",
+          "explanation": "'A piece of cake' refers to something very easy to do. (Source: English — Idioms)"
+        },
+        {
+          "question": "Neither of the boys ___ present.",
+          "options": [
+            "have been",
+            "were",
+            "are",
+            "was"
+          ],
+          "answer": "was",
+          "explanation": "'Neither' takes a singular verb when it is followed by 'of + plural noun'. (Source: English Grammar — Subject-Verb Agreement)"
+        },
+        {
+          "question": "What does 'Break the ice' mean?",
+          "options": [
+            "Start a conversation in a social situation",
+            "Break something",
+            "Melt the snow",
+            "Feel very cold"
+          ],
+          "answer": "Start a conversation in a social situation",
+          "explanation": "'Break the ice' means to ease tension and begin a conversation. (Source: English — Idioms)"
+        },
+        {
+          "question": "One word for 'a person who cannot read or write':",
+          "options": [
+            "Illiterate",
+            "Amateur",
+            "Novice",
+            "Ignorant"
+          ],
+          "answer": "Illiterate",
+          "explanation": "An illiterate person cannot read or write. (Source: English — One-word Substitution)"
+        },
+        {
+          "question": "Choose the correct spelling.",
+          "options": [
+            "Occurrance",
+            "Occurrence",
+            "Ocurrence",
+            "Occurence"
+          ],
+          "answer": "Occurrence",
+          "explanation": "The correct spelling is 'occurrence' (double c, double r). (Source: English — Spelling)"
+        },
+        {
+          "question": "He is good ___ mathematics.",
+          "options": [
+            "on",
+            "at",
+            "with",
+            "in"
+          ],
+          "answer": "at",
+          "explanation": "The correct collocation is 'good at' a subject or skill. (Source: English Grammar — Preposition)"
+        },
+        {
+          "question": "১০ জন লোক একটি কাজ ১২ দিনে করতে পারে। ২০ জন লোক কাজটি কত দিনে করতে পারবে?",
+          "options": [
+            "৮ দিন",
+            "২৪ দিন",
+            "৬ দিন",
+            "৫ দিন"
+          ],
+          "answer": "৬ দিন",
+          "explanation": "মোট কাজ = ১০ × ১২ = ১২০ জন-দিন; ২০ জনে ১২০ ÷ ২০ = ৬ দিন। (সূত্র: গণিত — কাজ ও সময়)"
+        },
+        {
+          "question": "১০,০০০ টাকার ১০% হারে ২ বছরের চক্রবৃদ্ধি মুনাফা কত?",
+          "options": [
+            "২,৪০০ টাকা",
+            "২,০০০ টাকা",
+            "২,২০০ টাকা",
+            "২,১০০ টাকা"
+          ],
+          "answer": "২,১০০ টাকা",
+          "explanation": "চক্রবৃদ্ধি মূলধন = ১০,০০০ × (১.১)² = ১২,১০০ টাকা; মুনাফা = ২,১০০ টাকা। (সূত্র: গণিত — সুদকষা)"
+        },
+        {
+          "question": "একটি সংখ্যার ৩০% = ৯০ হলে সংখ্যাটি কত?",
+          "options": [
+            "২০০",
+            "৩৩০",
+            "২৭০",
+            "৩০০"
+          ],
+          "answer": "৩০০",
+          "explanation": "সংখ্যা = ৯০ × ১০০ ÷ ৩০ = ৩০০। (সূত্র: গণিত — শতকরা)"
+        },
+        {
+          "question": "৭ সেমি ব্যাসার্ধবিশিষ্ট বৃত্তের পরিধি কত? (π = ২২/৭)",
+          "options": [
+            "৪৯ সেমি",
+            "২২ সেমি",
+            "১৫৪ সেমি",
+            "৪৪ সেমি"
+          ],
+          "answer": "৪৪ সেমি",
+          "explanation": "পরিধি = ২πr = ২ × (২২/৭) × ৭ = ৪৪ সেমি। (সূত্র: গণিত — পরিমিতি)"
+        },
+        {
+          "question": "৫৬০ টাকা দুইজনের মধ্যে ৩ : ৫ অনুপাতে ভাগ করলে বড় অংশ কত হবে?",
+          "options": [
+            "৩৫০ টাকা",
+            "২৮০ টাকা",
+            "২১০ টাকা",
+            "৪২০ টাকা"
+          ],
+          "answer": "৩৫০ টাকা",
+          "explanation": "একভাগ = ৫৬০ ÷ ৮ = ৭০ টাকা; বড় অংশ = ৫ × ৭০ = ৩৫০ টাকা। (সূত্র: গণিত — অনুপাত)"
+        },
+        {
+          "question": "৫, ৭, ৯, ১১, ১৩ এর গড় কত?",
+          "options": [
+            "১১",
+            "১০",
+            "৯",
+            "৮"
+          ],
+          "answer": "৯",
+          "explanation": "যোগফল = ৪৫; গড় = ৪৫ ÷ ৫ = ৯। (সূত্র: গণিত — গড়)"
+        },
+        {
+          "question": "২x + ৫ = ২১ হলে x এর মান কত?",
+          "options": [
+            "৭",
+            "৬",
+            "১০",
+            "৮"
+          ],
+          "answer": "৮",
+          "explanation": "২x = ১৬, অতএব x = ৮। (সূত্র: বীজগণিত — সমীকরণ)"
+        },
+        {
+          "question": "x + ১/x = ৩ হলে x² + ১/x² = কত?",
+          "options": [
+            "১১",
+            "৭",
+            "৯",
+            "৫"
+          ],
+          "answer": "৭",
+          "explanation": "(x + ১/x)² = x² + ২ + ১/x²; ৯ = x² + ১/x² + ২, অতএব মান ৭। (সূত্র: বীজগণিত — সূত্রাবলি)"
+        },
+        {
+          "question": "৮০০ টাকায় কেনা একটি জিনিস ২০% ক্ষতিতে বিক্রি করলে বিক্রয়মূল্য কত?",
+          "options": [
+            "৭২০ টাকা",
+            "৬০০ টাকা",
+            "৬৪০ টাকা",
+            "৬৮০ টাকা"
+          ],
+          "answer": "৬৪০ টাকা",
+          "explanation": "ক্ষতি = ৮০০ এর ২০% = ১৬০ টাকা; বিক্রয়মূল্য = ৮০০ − ১৬০ = ৬৪০ টাকা। (সূত্র: গণিত — লাভ-ক্ষতি)"
+        },
+        {
+          "question": "৬ সেমি বাহুবিশিষ্ট ঘনকের আয়তন কত?",
+          "options": [
+            "২১৬ ঘন সেমি",
+            "২৫৬ ঘন সেমি",
+            "৩৬ ঘন সেমি",
+            "১৪৪ ঘন সেমি"
+          ],
+          "answer": "২১৬ ঘন সেমি",
+          "explanation": "ঘনকের আয়তন = বাহু³ = ৬³ = ২১৬ ঘন সেমি। (সূত্র: গণিত — পরিমিতি)"
+        },
+        {
+          "question": "বাংলাদেশ ব্যাংকের প্রধান নির্বাহীকে কী বলা হয়?",
+          "options": [
+            "চেয়ারম্যান",
+            "গভর্নর",
+            "মহাপরিচালক",
+            "ব্যবস্থাপনা পরিচালক"
+          ],
+          "answer": "গভর্নর",
+          "explanation": "বাংলাদেশের কেন্দ্রীয় ব্যাংক 'বাংলাদেশ ব্যাংক'-এর প্রধান নির্বাহী গভর্নর। (সূত্র: ব্যাংকিং ও অর্থনীতি)"
+        },
+        {
+          "question": "কেন্দ্রীয় ব্যাংক বাণিজ্যিক ব্যাংকগুলোকে যে সুদের হারে ঋণ দেয় তাকে কী বলে?",
+          "options": [
+            "ব্যাংক রেট",
+            "বিনিময় হার",
+            "মুদ্রাস্ফীতির হার",
+            "প্রবৃদ্ধির হার"
+          ],
+          "answer": "ব্যাংক রেট",
+          "explanation": "কেন্দ্রীয় ব্যাংক যে হারে বাণিজ্যিক ব্যাংককে ঋণ দেয় তাকে ব্যাংক রেট বলে। (সূত্র: ব্যাংকিং ও অর্থনীতি — মুদ্রানীতি)"
+        },
+        {
+          "question": "ব্যাংকিং খাতে CRR-এর পূর্ণরূপ কী?",
+          "options": [
+            "Credit Rate Regulation",
+            "Cash Reserve Ratio",
+            "Cash Return Rate",
+            "Central Reserve Rule"
+          ],
+          "answer": "Cash Reserve Ratio",
+          "explanation": "CRR = Cash Reserve Ratio (নগদ জমা অনুপাত), যা বাণিজ্যিক ব্যাংককে কেন্দ্রীয় ব্যাংকে জমা রাখতে হয়। (সূত্র: ব্যাংকিং ও অর্থনীতি)"
+        },
+        {
+          "question": "বাংলাদেশের প্রথম ইসলামী ব্যাংক কোনটি?",
+          "options": [
+            "সোশ্যাল ইসলামী ব্যাংক",
+            "আল-আরাফাহ ইসলামী ব্যাংক",
+            "ফার্স্ট সিকিউরিটি ইসলামী ব্যাংক",
+            "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড"
+          ],
+          "answer": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড",
+          "explanation": "ইসলামী ব্যাংক বাংলাদেশ লিমিটেড ১৯৮৩ সালে যাত্রা শুরু করে। (সূত্র: ব্যাংকিং ও অর্থনীতি)"
+        },
+        {
+          "question": "গ্রামীণ ব্যাংক ও মুহাম্মদ ইউনূস কত সালে নোবেল শান্তি পুরস্কার লাভ করেন?",
+          "options": [
+            "২০০৮",
+            "২০০৪",
+            "২০০৬",
+            "২০১০"
+          ],
+          "answer": "২০০৬",
+          "explanation": "২০০৬ সালে ক্ষুদ্রঋণের মাধ্যমে দারিদ্র্য বিমোচনে অবদানের জন্য তাঁরা যৌথভাবে এই পুরস্কার পান। (সূত্র: বাংলাদেশ বিষয়াবলি)"
+        },
+        {
+          "question": "বাংলাদেশে একটি চেক ইস্যুর তারিখ থেকে সাধারণত কত মাস বৈধ থাকে?",
+          "options": [
+            "১২ মাস",
+            "৯ মাস",
+            "৩ মাস",
+            "৬ মাস"
+          ],
+          "answer": "৬ মাস",
+          "explanation": "বাংলাদেশে চেকের বৈধতার মেয়াদ ইস্যুর তারিখ থেকে ৬ মাস। (সূত্র: ব্যাংকিং — চেক)"
+        },
+        {
+          "question": "ATM-এর পূর্ণরূপ কী?",
+          "options": [
+            "Automated Transaction Method",
+            "Automatic Transfer Money",
+            "Any Time Money",
+            "Automated Teller Machine"
+          ],
+          "answer": "Automated Teller Machine",
+          "explanation": "ATM = Automated Teller Machine। (সূত্র: ব্যাংকিং ও তথ্যপ্রযুক্তি)"
+        },
+        {
+          "question": "SWIFT-এর পূর্ণরূপ কী?",
+          "options": [
+            "Secure World Interbank Fund Transfer",
+            "Society for World Investment and Financial Trade",
+            "Society for Worldwide Interbank Financial Telecommunication",
+            "System for Worldwide International Funds Transaction"
+          ],
+          "answer": "Society for Worldwide Interbank Financial Telecommunication",
+          "explanation": "SWIFT আন্তর্জাতিক ব্যাংকিং লেনদেনের বার্তা আদান-প্রদানের নেটওয়ার্ক। (সূত্র: ব্যাংকিং — আন্তর্জাতিক লেনদেন)"
+        },
+        {
+          "question": "আমদানি-রপ্তানি বাণিজ্যে ব্যবহৃত L/C-এর পূর্ণরূপ কী?",
+          "options": [
+            "Loan of Capital",
+            "Letter of Contract",
+            "Letter of Credit",
+            "Local Currency"
+          ],
+          "answer": "Letter of Credit",
+          "explanation": "L/C = Letter of Credit (ঋণপত্র), যা ক্রেতার ব্যাংক বিক্রেতাকে পেমেন্টের নিশ্চয়তা দিয়ে ইস্যু করে। (সূত্র: ব্যাংকিং — বৈদেশিক বাণিজ্য)"
+        },
+        {
+          "question": "সাধারণ দামস্তর ক্রমাগত বৃদ্ধি পাওয়াকে অর্থনীতিতে কী বলে?",
+          "options": [
+            "বেকারত্ব",
+            "মুদ্রাস্ফীতি",
+            "মুদ্রা সংকোচন",
+            "অর্থনৈতিক মন্দা"
+          ],
+          "answer": "মুদ্রাস্ফীতি",
+          "explanation": "মুদ্রাস্ফীতিতে জিনিসপত্রের দাম বাড়ে এবং মুদ্রার ক্রয়ক্ষমতা কমে। (সূত্র: অর্থনীতি — সামষ্টিক অর্থনীতি)"
+        },
+        {
+          "question": "নিচের কোনটি রাষ্ট্রায়ত্ত বাণিজ্যিক ব্যাংক?",
+          "options": [
+            "সোনালী ব্যাংক",
+            "ইসলামী ব্যাংক",
+            "ডাচ্-বাংলা ব্যাংক",
+            "ব্র্যাক ব্যাংক"
+          ],
+          "answer": "সোনালী ব্যাংক",
+          "explanation": "সোনালী, জনতা, অগ্রণী ও রূপালী — এই চারটি রাষ্ট্রায়ত্ত বাণিজ্যিক ব্যাংক। (সূত্র: ব্যাংকিং ও অর্থনীতি)"
+        },
+        {
+          "question": "এশীয় উন্নয়ন ব্যাংক (ADB)-এর সদর দপ্তর কোথায়?",
+          "options": [
+            "বেইজিং",
+            "সিঙ্গাপুর",
+            "টোকিও",
+            "ম্যানিলা"
+          ],
+          "answer": "ম্যানিলা",
+          "explanation": "ADB-এর সদর দপ্তর ফিলিপাইনের রাজধানী ম্যানিলায়। (সূত্র: আন্তর্জাতিক সংস্থা)"
+        },
+        {
+          "question": "RAM-এর পূর্ণরূপ কী?",
+          "options": [
+            "Random Application Module",
+            "Rapid Action Memory",
+            "Read Access Memory",
+            "Random Access Memory"
+          ],
+          "answer": "Random Access Memory",
+          "explanation": "RAM কম্পিউটারের অস্থায়ী (ভোলাটাইল) মেমোরি। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+        },
+        {
+          "question": "১ বাইট কত বিটের সমান?",
+          "options": [
+            "১৬ বিট",
+            "৪ বিট",
+            "১০ বিট",
+            "৮ বিট"
+          ],
+          "answer": "৮ বিট",
+          "explanation": "১ বাইট = ৮ বিট। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+        },
+        {
+          "question": "নিচের কোনটি ইনপুট ডিভাইস?",
+          "options": [
+            "স্পিকার",
+            "মনিটর",
+            "কীবোর্ড",
+            "প্রিন্টার"
+          ],
+          "answer": "কীবোর্ড",
+          "explanation": "কীবোর্ড দিয়ে কম্পিউটারে ডেটা ইনপুট দেওয়া হয়; বাকিগুলো আউটপুট ডিভাইস। (সূত্র: কম্পিউটার ও তথ্যপ্রযুক্তি)"
+        },
+        {
+          "question": "বাংলাদেশের সংবিধানের কোন ভাগে মৌলিক অধিকার বর্ণিত আছে?",
+          "options": [
+            "প্রথম ভাগ",
+            "চতুর্থ ভাগ",
+            "তৃতীয় ভাগ",
+            "দ্বিতীয় ভাগ"
+          ],
+          "answer": "তৃতীয় ভাগ",
+          "explanation": "সংবিধানের তৃতীয় ভাগে (অনুচ্ছেদ ২৬–৪৭ক) মৌলিক অধিকার বর্ণিত। (সূত্র: বাংলাদেশের সংবিধান)"
+        },
+        {
+          "question": "জাতীয় স্মৃতিসৌধের স্থপতি কে?",
+          "options": [
+            "মাজহারুল ইসলাম",
+            "সৈয়দ মাইনুল হোসেন",
+            "লুই আই কান",
+            "হামিদুর রহমান"
+          ],
+          "answer": "সৈয়দ মাইনুল হোসেন",
+          "explanation": "সাভারের জাতীয় স্মৃতিসৌধের নকশাকার সৈয়দ মাইনুল হোসেন। (সূত্র: বাংলাদেশ বিষয়াবলি)"
+        },
+        {
+          "question": "জাতীয় সংসদ ভবন ঢাকার কোন এলাকায় অবস্থিত?",
+          "options": [
+            "গুলশান",
+            "মতিঝিল",
+            "রমনা",
+            "শেরেবাংলা নগর"
+          ],
+          "answer": "শেরেবাংলা নগর",
+          "explanation": "লুই আই কান-এর নকশায় নির্মিত সংসদ ভবন শেরেবাংলা নগরে অবস্থিত। (সূত্র: বাংলাদেশ বিষয়াবলি)"
+        },
+        {
+          "question": "OPEC-এর সদর দপ্তর কোথায়?",
+          "options": [
+            "জেনেভা",
+            "ভিয়েনা",
+            "রিয়াদ",
+            "দুবাই"
+          ],
+          "answer": "ভিয়েনা",
+          "explanation": "তেল রপ্তানিকারক দেশগুলোর সংস্থা OPEC-এর সদর দপ্তর অস্ট্রিয়ার ভিয়েনায়। (সূত্র: আন্তর্জাতিক সংস্থা)"
+        },
+        {
+          "question": "নিচের কোন দেশটি G-7 এর সদস্য নয়?",
+          "options": [
+            "রাশিয়া",
+            "জাপান",
+            "কানাডা",
+            "ইতালি"
+          ],
+          "answer": "রাশিয়া",
+          "explanation": "G-7 এর সদস্য: যুক্তরাষ্ট্র, যুক্তরাজ্য, ফ্রান্স, জার্মানি, ইতালি, কানাডা ও জাপান। রাশিয়া ২০১৪ সালে G-8 থেকে বাদ পড়ে। (সূত্র: আন্তর্জাতিক সংস্থা)"
+        },
+        {
+          "question": "সৌরজগতের বৃহত্তম গ্রহ কোনটি?",
+          "options": [
+            "বৃহস্পতি",
+            "শনি",
+            "পৃথিবী",
+            "নেপচুন"
+          ],
+          "answer": "বৃহস্পতি",
+          "explanation": "বৃহস্পতি সৌরজগতের বৃহত্তম গ্রহ। (সূত্র: সাধারণ বিজ্ঞান)"
+        },
+        {
+          "question": "বাংলাদেশ কত সালে কমনওয়েলথের সদস্যপদ লাভ করে?",
+          "options": [
+            "১৯৭৪",
+            "১৯৭২",
+            "১৯৭১",
+            "১৯৭৫"
+          ],
+          "answer": "১৯৭২",
+          "explanation": "১৯৭২ সালের ১৮ এপ্রিল বাংলাদেশ কমনওয়েলথের সদস্য হয়। (সূত্র: আন্তর্জাতিক সম্পর্ক — বাংলাদেশ)"
+        },
+        {
+          "question": "কোনটি বেমানান? আম, জাম, কাঁঠাল, গোলাপ",
+          "options": [
+            "কাঁঠাল",
+            "জাম",
+            "গোলাপ",
+            "আম"
+          ],
+          "answer": "গোলাপ",
+          "explanation": "আম, জাম ও কাঁঠাল ফল; গোলাপ ফুল। (সূত্র: মানসিক দক্ষতা — বেমানান নির্ণয়)"
+        },
+        {
+          "question": "ধারাটির পরবর্তী সংখ্যা কত? ৩, ৯, ২৭, ৮১, ?",
+          "options": [
+            "১৬২",
+            "২১৬",
+            "২৪৩",
+            "২৭০"
+          ],
+          "answer": "২৪৩",
+          "explanation": "প্রতিটি সংখ্যা আগেরটির ৩ গুণ; ৮১ × ৩ = ২৪৩। (সূত্র: মানসিক দক্ষতা — ধারা)"
+        },
+        {
+          "question": "রহিম করিমের ভাই। করিম সালমার পিতা। রহিম সালমার কে হন?",
+          "options": [
+            "চাচা",
+            "মামা",
+            "ভাই",
+            "দাদা"
+          ],
+          "answer": "চাচা",
+          "explanation": "রহিম সালমার পিতা করিমের ভাই, তাই চাচা। (সূত্র: মানসিক দক্ষতা — সম্পর্ক নির্ণয়)"
+        }
+      ]
+    }
+  ]
+}
