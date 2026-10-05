@@ -1,0 +1,2237 @@
+{
+  "bank_quiz": [
+    {
+      "question": "'যা বলার যোগ্য নয়' — এক কথায় প্রকাশ কী?",
+      "options": [
+        "অকথ্য",
+        "অনুক্ত",
+        "অবাচ্য",
+        "অবক্তব্য"
+      ],
+      "answer": "অবাচ্য",
+      "explanation": "'যা বলার যোগ্য নয়'-কে এক কথায় অবাচ্য বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'ঊষর' শব্দের বিপরীত শব্দ কী?",
+      "options": [
+        "উর্বর",
+        "শুষ্ক",
+        "রুক্ষ",
+        "বন্ধুর"
+      ],
+      "answer": "উর্বর",
+      "explanation": "'ঊষর' অর্থ অনুর্বর জমি; এর বিপরীত শব্দ 'উর্বর'। (সূত্র: বাংলা ব্যাকরণ — বিপরীত শব্দ)"
+    },
+    {
+      "question": "চর্যাপদ কে আবিষ্কার করেন?",
+      "options": [
+        "দীনেশচন্দ্র সেন",
+        "হরপ্রসাদ শাস্ত্রী",
+        "মুহম্মদ শহীদুল্লাহ",
+        "সুনীতিকুমার চট্টোপাধ্যায়"
+      ],
+      "answer": "হরপ্রসাদ শাস্ত্রী",
+      "explanation": "১৯০৭ সালে হরপ্রসাদ শাস্ত্রী চর্যাপদ আবিষ্কার করেন। (সূত্র: বাংলা সাহিত্য — প্রাচীন যুগ)"
+    },
+    {
+      "question": "চর্যাপদ কোথা থেকে আবিষ্কৃত হয়েছিল?",
+      "options": [
+        "এশিয়াটিক সোসাইটি, কলকাতা",
+        "তিব্বতের মঠ",
+        "নেপালের রাজদরবারের গ্রন্থশালা",
+        "ঢাকা জাদুঘর"
+      ],
+      "answer": "নেপালের রাজদরবারের গ্রন্থশালা",
+      "explanation": "চর্যাপদের পুঁথি নেপালের রাজদরবারের গ্রন্থশালায় পাওয়া যায়। (সূত্র: বাংলা সাহিত্য — প্রাচীন যুগ)"
+    },
+    {
+      "question": "চর্যাপদ কোন যুগের নিদর্শন?",
+      "options": [
+        "মধ্যযুগ",
+        "আধুনিক যুগ",
+        "প্রাচীন যুগ",
+        "অন্ধকার যুগ"
+      ],
+      "answer": "প্রাচীন যুগ",
+      "explanation": "চর্যাপদ বাংলা ভাষার আদি নিদর্শন, প্রাচীন যুগের রচনা। (সূত্র: বাংলা সাহিত্য — যুগবিভাগ)"
+    },
+    {
+      "question": "'শ্রীকৃষ্ণকীর্তন' কাব্যের রচয়িতা কে?",
+      "options": [
+        "বড়ু চণ্ডীদাস",
+        "দ্বিজ চণ্ডীদাস",
+        "কৃত্তিবাস ওঝা",
+        "বিদ্যাপতি"
+      ],
+      "answer": "বড়ু চণ্ডীদাস",
+      "explanation": "শ্রীকৃষ্ণকীর্তন রচনা করেছেন বড়ু চণ্ডীদাস। (সূত্র: বাংলা সাহিত্য — মধ্যযুগ)"
+    },
+    {
+      "question": "'শ্রীকৃষ্ণকীর্তন' কাব্যের পুঁথি কে আবিষ্কার করেন?",
+      "options": [
+        "হরপ্রসাদ শাস্ত্রী",
+        "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ",
+        "দীনেশচন্দ্র সেন",
+        "আহমদ শরীফ"
+      ],
+      "answer": "বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ",
+      "explanation": "১৯০৯ সালে বসন্তরঞ্জন রায় বিদ্বদ্বল্লভ এটি আবিষ্কার করেন। (সূত্র: বাংলা সাহিত্য — মধ্যযুগ)"
+    },
+    {
+      "question": "'মেঘনাদবধ কাব্য' কোন ছন্দে রচিত?",
+      "options": [
+        "অক্ষরবৃত্ত",
+        "মাত্রাবৃত্ত",
+        "অমিত্রাক্ষর",
+        "স্বরবৃত্ত"
+      ],
+      "answer": "অমিত্রাক্ষর",
+      "explanation": "মাইকেল মধুসূদন দত্ত বাংলায় অমিত্রাক্ষর ছন্দের প্রবর্তক। (সূত্র: বাংলা সাহিত্য — আধুনিক যুগ)"
+    },
+    {
+      "question": "কাজী নজরুল ইসলামের 'বিদ্রোহী' কবিতা প্রথম কোন পত্রিকায় প্রকাশিত হয়?",
+      "options": [
+        "সবুজপত্র",
+        "বিজলী",
+        "ধূমকেতু",
+        "কল্লোল"
+      ],
+      "answer": "বিজলী",
+      "explanation": "'বিদ্রোহী' প্রথম প্রকাশিত হয় সাপ্তাহিক 'বিজলী' পত্রিকায়। (সূত্র: বাংলা সাহিত্য — নজরুল)"
+    },
+    {
+      "question": "রবীন্দ্রনাথ ঠাকুর কত সালে নোবেল পুরস্কার লাভ করেন?",
+      "options": [
+        "১৯১১",
+        "১৯১৩",
+        "১৯১৫",
+        "১৯২১"
+      ],
+      "answer": "১৯১৩",
+      "explanation": "'গীতাঞ্জলি'-র ইংরেজি অনুবাদের জন্য তিনি ১৯১৩ সালে সাহিত্যে নোবেল পান। (সূত্র: বাংলা সাহিত্য — রবীন্দ্রনাথ)"
+    },
+    {
+      "question": "'পথের পাঁচালী' উপন্যাসের লেখক কে?",
+      "options": [
+        "মানিক বন্দ্যোপাধ্যায়",
+        "তারাশঙ্কর বন্দ্যোপাধ্যায়",
+        "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+        "শরৎচন্দ্র চট্টোপাধ্যায়"
+      ],
+      "answer": "বিভূতিভূষণ বন্দ্যোপাধ্যায়",
+      "explanation": "পথের পাঁচালী বিভূতিভূষণ বন্দ্যোপাধ্যায়ের রচনা। (সূত্র: বাংলা সাহিত্য — উপন্যাস)"
+    },
+    {
+      "question": "'লালসালু' উপন্যাসের রচয়িতা কে?",
+      "options": [
+        "সৈয়দ ওয়ালীউল্লাহ",
+        "শহীদুল্লা কায়সার",
+        "আবু ইসহাক",
+        "জহির রায়হান"
+      ],
+      "answer": "সৈয়দ ওয়ালীউল্লাহ",
+      "explanation": "লালসালু (১৯৪৮) সৈয়দ ওয়ালীউল্লাহর রচনা। (সূত্র: বাংলা সাহিত্য — উপন্যাস)"
+    },
+    {
+      "question": "'আনন্দমঠ' উপন্যাসের লেখক কে?",
+      "options": [
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "মীর মশাররফ হোসেন",
+        "দীনবন্ধু মিত্র",
+        "প্যারীচাঁদ মিত্র"
+      ],
+      "answer": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+      "explanation": "আনন্দমঠ বঙ্কিমচন্দ্র চট্টোপাধ্যায়ের উপন্যাস। (সূত্র: বাংলা সাহিত্য — উপন্যাস)"
+    },
+    {
+      "question": "'পদ্মাবতী' কাব্যের রচয়িতা কে?",
+      "options": [
+        "আলাওল",
+        "দৌলত কাজী",
+        "সৈয়দ সুলতান",
+        "শাহ মুহম্মদ সগীর"
+      ],
+      "answer": "আলাওল",
+      "explanation": "পদ্মাবতী আলাওলের রচনা, মূল উৎস মালিক মুহম্মদ জায়সীর 'পদুমাবৎ'। (সূত্র: বাংলা সাহিত্য — মধ্যযুগ)"
+    },
+    {
+      "question": "'ইউসুফ-জোলেখা' কাব্যের রচয়িতা কে?",
+      "options": [
+        "শাহ মুহম্মদ সগীর",
+        "আলাওল",
+        "সৈয়দ আলাওল",
+        "দোনাগাজী"
+      ],
+      "answer": "শাহ মুহম্মদ সগীর",
+      "explanation": "ইউসুফ-জোলেখা শাহ মুহম্মদ সগীরের রচনা। (সূত্র: বাংলা সাহিত্য — মধ্যযুগ)"
+    },
+    {
+      "question": "'অন্নদামঙ্গল' কাব্যের রচয়িতা কে?",
+      "options": [
+        "মুকুন্দরাম চক্রবর্তী",
+        "ভারতচন্দ্র রায়গুণাকর",
+        "বিজয় গুপ্ত",
+        "কেতকাদাস ক্ষেমানন্দ"
+      ],
+      "answer": "ভারতচন্দ্র রায়গুণাকর",
+      "explanation": "অন্নদামঙ্গল ভারতচন্দ্র রায়গুণাকরের রচনা। (সূত্র: বাংলা সাহিত্য — মঙ্গলকাব্য)"
+    },
+    {
+      "question": "বাংলায় মহাভারতের জনপ্রিয় অনুবাদক কে?",
+      "options": [
+        "কৃত্তিবাস ওঝা",
+        "কাশীরাম দাস",
+        "কবীন্দ্র পরমেশ্বর",
+        "মালাধর বসু"
+      ],
+      "answer": "কাশীরাম দাস",
+      "explanation": "কাশীরাম দাস বাংলা মহাভারতের সর্বাধিক জনপ্রিয় অনুবাদক। (সূত্র: বাংলা সাহিত্য — অনুবাদ সাহিত্য)"
+    },
+    {
+      "question": "বাংলা সাহিত্যে চলিত রীতির প্রবর্তক কে?",
+      "options": [
+        "প্রমথ চৌধুরী",
+        "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+        "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+        "কালীপ্রসন্ন সিংহ"
+      ],
+      "answer": "প্রমথ চৌধুরী",
+      "explanation": "'সবুজপত্র' পত্রিকার মাধ্যমে প্রমথ চৌধুরী চলিত রীতি প্রবর্তন করেন। (সূত্র: বাংলা সাহিত্য — গদ্যরীতি)"
+    },
+    {
+      "question": "বাংলা বর্ণমালায় ব্যঞ্জনবর্ণ কয়টি (বাংলা একাডেমি অনুসারে)?",
+      "options": [
+        "৩৫টি",
+        "৩৭টি",
+        "৩৯টি",
+        "৪০টি"
+      ],
+      "answer": "৩৯টি",
+      "explanation": "বাংলা বর্ণমালায় স্বরবর্ণ ১১টি ও ব্যঞ্জনবর্ণ ৩৯টি, মোট ৫০টি। (সূত্র: বাংলা ব্যাকরণ — ধ্বনি ও বর্ণ)"
+    },
+    {
+      "question": "ক-বর্গীয় ধ্বনিগুলোকে কোন ধ্বনি বলা হয়?",
+      "options": [
+        "তালব্য",
+        "কণ্ঠ্য",
+        "দন্ত্য",
+        "ওষ্ঠ্য"
+      ],
+      "answer": "কণ্ঠ্য",
+      "explanation": "ক খ গ ঘ ঙ — উচ্চারণস্থান কণ্ঠ, তাই কণ্ঠ্য ধ্বনি। (সূত্র: বাংলা ব্যাকরণ — উচ্চারণস্থান)"
+    },
+    {
+      "question": "ত-বর্গীয় ধ্বনির উচ্চারণ স্থান কোনটি?",
+      "options": [
+        "দন্ত",
+        "মূর্ধা",
+        "ওষ্ঠ",
+        "তালু"
+      ],
+      "answer": "দন্ত",
+      "explanation": "ত থ দ ধ ন দন্ত্য ধ্বনি। (সূত্র: বাংলা ব্যাকরণ — উচ্চারণস্থান)"
+    },
+    {
+      "question": "'বিদ্যালয়' শব্দের সন্ধিবিচ্ছেদ কোনটি?",
+      "options": [
+        "বিদ্যা+লয়",
+        "বিদ্যা+আলয়",
+        "বিদ্য+আলয়",
+        "বিদ+আলয়"
+      ],
+      "answer": "বিদ্যা+আলয়",
+      "explanation": "আ + আ = আ (স্বরসন্ধি): বিদ্যা+আলয় = বিদ্যালয়। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'নীরব' শব্দের সন্ধিবিচ্ছেদ কী?",
+      "options": [
+        "নী+রব",
+        "নির্+রব",
+        "নিঃ+রব",
+        "নিস+রব"
+      ],
+      "answer": "নিঃ+রব",
+      "explanation": "নিঃ+রব = নীরব (ব্যঞ্জনসন্ধি/বিসর্গসন্ধি)। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'সংগীত' শব্দের সন্ধিবিচ্ছেদ কোনটি?",
+      "options": [
+        "সম্+গীত",
+        "সং+গীত",
+        "সন্+গীত",
+        "সাম+গীত"
+      ],
+      "answer": "সম্+গীত",
+      "explanation": "সম্+গীত = সংগীত। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'উন্নতি' শব্দের সন্ধিবিচ্ছেদ কী?",
+      "options": [
+        "উৎ+নতি",
+        "উন্+নতি",
+        "উদ্+নতি",
+        "উপ+নতি"
+      ],
+      "answer": "উৎ+নতি",
+      "explanation": "উৎ+নতি = উন্নতি (ব্যঞ্জনসন্ধি)। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'মনীষা' শব্দের সন্ধিবিচ্ছেদ কোনটি?",
+      "options": [
+        "মনী+ষা",
+        "মন+ঈষা",
+        "মনি+ঈষা",
+        "মনস+ঈষা"
+      ],
+      "answer": "মন+ঈষা",
+      "explanation": "অ + ঈ = ঈ: মন+ঈষা = মনীষা। (সূত্র: বাংলা ব্যাকরণ — সন্ধি)"
+    },
+    {
+      "question": "'রাজপুত্র' কোন সমাস?",
+      "options": [
+        "কর্মধারয়",
+        "বহুব্রীহি",
+        "ষষ্ঠী তৎপুরুষ",
+        "দ্বন্দ্ব"
+      ],
+      "answer": "ষষ্ঠী তৎপুরুষ",
+      "explanation": "রাজার পুত্র — ষষ্ঠী বিভক্তি লোপ। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'নীলাকাশ' কোন সমাস?",
+      "options": [
+        "কর্মধারয়",
+        "দ্বিগু",
+        "অব্যয়ীভাব",
+        "উপপদ তৎপুরুষ"
+      ],
+      "answer": "কর্মধারয়",
+      "explanation": "নীল যে আকাশ — বিশেষণ-বিশেষ্যের কর্মধারয় সমাস। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'আজীবন' কোন সমাস?",
+      "options": [
+        "বহুব্রীহি",
+        "অব্যয়ীভাব",
+        "কর্মধারয়",
+        "দ্বন্দ্ব"
+      ],
+      "answer": "অব্যয়ীভাব",
+      "explanation": "জীবন ব্যাপিয়া — আ (পর্যন্ত) অব্যয়ের অর্থ প্রাধান্য। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'দিনরাত' কোন সমাস?",
+      "options": [
+        "দ্বন্দ্ব",
+        "কর্মধারয়",
+        "বহুব্রীহি",
+        "দ্বিগু"
+      ],
+      "answer": "দ্বন্দ্ব",
+      "explanation": "দিন ও রাত — উভয় পদের প্রাধান্য, দ্বন্দ্ব সমাস। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'পঞ্চবটী' কোন সমাস?",
+      "options": [
+        "দ্বিগু",
+        "বহুব্রীহি",
+        "কর্মধারয়",
+        "নিত্য সমাস"
+      ],
+      "answer": "দ্বিগু",
+      "explanation": "পঞ্চ বটের সমাহার — সমাহার অর্থে দ্বিগু সমাস। (সূত্র: বাংলা ব্যাকরণ — সমাস)"
+    },
+    {
+      "question": "'অরণ্যে রোদন' বাগধারার অর্থ কী?",
+      "options": [
+        "নিষ্ফল আবেদন",
+        "গভীর দুঃখ",
+        "বনবাস",
+        "অকারণ কান্না"
+      ],
+      "answer": "নিষ্ফল আবেদন",
+      "explanation": "যে আবেদনে কেউ কান না দেয় তাকে অরণ্যে রোদন বলে। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'অন্ধের যষ্ঠি' বাগধারার অর্থ কী?",
+      "options": [
+        "একমাত্র অবলম্বন",
+        "অপদার্থ",
+        "অক্ষম ব্যক্তি",
+        "দুর্বল"
+      ],
+      "answer": "একমাত্র অবলম্বন",
+      "explanation": "অন্ধের লাঠিই একমাত্র ভরসা, তাই একমাত্র অবলম্বন। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'তিলকে তাল করা' বাগধারার অর্থ কী?",
+      "options": [
+        "অসম্ভবকে সম্ভব করা",
+        "সামান্য বিষয়কে অতিরঞ্জিত করা",
+        "অপচয় করা",
+        "অসাধ্য সাধন"
+      ],
+      "answer": "সামান্য বিষয়কে অতিরঞ্জিত করা",
+      "explanation": "ছোট জিনিসকে বড় করে দেখানো। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'গোড়ায় গলদ' বাগধারার অর্থ কী?",
+      "options": [
+        "শুরুতেই ভুল",
+        "শেষে ক্ষতি",
+        "অসম্পূর্ণ কাজ",
+        "দুর্বল ভিত্তি তৈরি"
+      ],
+      "answer": "শুরুতেই ভুল",
+      "explanation": "মূলেই ত্রুটি থাকাকে গোড়ায় গলদ বলে। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'চোখের বালি' বাগধারার অর্থ কী?",
+      "options": [
+        "অপ্রিয় ব্যক্তি",
+        "প্রিয় সঙ্গী",
+        "চোখের রোগ",
+        "ক্ষুদ্র বিষয়"
+      ],
+      "answer": "অপ্রিয় ব্যক্তি",
+      "explanation": "যাকে দেখলে বিরক্তি জন্মে, সেই অপ্রিয় ব্যক্তি। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'শাঁখের করাত' বাগধারার অর্থ কী?",
+      "options": [
+        "উভয় সংকট",
+        "ধারালো অস্ত্র",
+        "বিপদে সাহায্য",
+        "সহজ কাজ"
+      ],
+      "answer": "উভয় সংকট",
+      "explanation": "শাঁখ কাটার করাত যেতে-আসতে দুই দিকেই কাটে — উভয় সংকট। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'ধরাকে সরা জ্ঞান করা' বাগধারার অর্থ কী?",
+      "options": [
+        "অহংকারে সবকিছু তুচ্ছ করা",
+        "মাটি নিয়ে খেলা",
+        "অযত্ন করা",
+        "বিনয় প্রকাশ"
+      ],
+      "answer": "অহংকারে সবকিছু তুচ্ছ করা",
+      "explanation": "অহংকারবশত সবকিছুকে তুচ্ছ মনে করা। (সূত্র: বাংলা ব্যাকরণ — বাগধারা)"
+    },
+    {
+      "question": "'যা সহজে লাভ করা যায় না' — এক কথায় কী?",
+      "options": [
+        "দুষ্প্রাপ্য",
+        "দুর্লভ",
+        "অলভ্য",
+        "দুর্বোধ্য"
+      ],
+      "answer": "দুর্লভ",
+      "explanation": "যা সহজে পাওয়া যায় না তাই দুর্লভ। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'সমুদ্র থেকে হিমালয় পর্যন্ত' — এক কথায় কী?",
+      "options": [
+        "আসমুদ্রহিমাচল",
+        "সমুদ্রগিরি",
+        "ভারতবর্ষ",
+        "সর্বব্যাপী"
+      ],
+      "answer": "আসমুদ্রহিমাচল",
+      "explanation": "সমুদ্র থেকে হিমাচল পর্যন্ত বিস্তৃত অঞ্চল — আসমুদ্রহিমাচল। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "'আকাশে বিচরণ করে যে' — এক কথায় কী?",
+      "options": [
+        "খেচর",
+        "জলচর",
+        "উভচর",
+        "নিশাচর"
+      ],
+      "answer": "খেচর",
+      "explanation": "আকাশে বিচরণকারীকে খেচর বলে। (সূত্র: বাংলা ব্যাকরণ — বাক্য সংকোচন)"
+    },
+    {
+      "question": "কোনটি শুদ্ধ বানান?",
+      "options": [
+        "মূহুর্ত",
+        "মুহুর্ত",
+        "মুহূর্ত",
+        "মূহূর্ত"
+      ],
+      "answer": "মুহূর্ত",
+      "explanation": "শুদ্ধ বানান 'মুহূর্ত' (ু-কার ও দীর্ঘ ূ-কার)। (সূত্র: বাংলা ব্যাকরণ — বানান)"
+    },
+    {
+      "question": "Choose the synonym of 'Abandon'.",
+      "options": [
+        "Desert",
+        "Protect",
+        "Keep",
+        "Adopt"
+      ],
+      "answer": "Desert",
+      "explanation": "Abandon means to leave behind; desert is its synonym. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the synonym of 'Candid'.",
+      "options": [
+        "Secretive",
+        "Frank",
+        "Shy",
+        "Cunning"
+      ],
+      "answer": "Frank",
+      "explanation": "Candid means open and honest, i.e. frank. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the synonym of 'Benevolent'.",
+      "options": [
+        "Cruel",
+        "Kind",
+        "Selfish",
+        "Rude"
+      ],
+      "answer": "Kind",
+      "explanation": "Benevolent means well-meaning and kind. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the synonym of 'Ephemeral'.",
+      "options": [
+        "Eternal",
+        "Short-lived",
+        "Heavy",
+        "Ancient"
+      ],
+      "answer": "Short-lived",
+      "explanation": "Ephemeral means lasting a very short time. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the synonym of 'Verbose'.",
+      "options": [
+        "Wordy",
+        "Silent",
+        "Brief",
+        "Quiet"
+      ],
+      "answer": "Wordy",
+      "explanation": "Verbose means using more words than necessary. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the synonym of 'Meticulous'.",
+      "options": [
+        "Careless",
+        "Careful",
+        "Lazy",
+        "Hasty"
+      ],
+      "answer": "Careful",
+      "explanation": "Meticulous means showing great attention to detail. (সূত্র: English Vocabulary — Synonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Generous'.",
+      "options": [
+        "Kind",
+        "Stingy",
+        "Noble",
+        "Liberal"
+      ],
+      "answer": "Stingy",
+      "explanation": "Generous is opposite to stingy (unwilling to give). (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Expand'.",
+      "options": [
+        "Contract",
+        "Extend",
+        "Grow",
+        "Spread"
+      ],
+      "answer": "Contract",
+      "explanation": "Expand means to grow bigger; contract means to shrink. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Victory'.",
+      "options": [
+        "Triumph",
+        "Success",
+        "Defeat",
+        "Win"
+      ],
+      "answer": "Defeat",
+      "explanation": "Victory is opposite to defeat. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Ancient'.",
+      "options": [
+        "Old",
+        "Modern",
+        "Historic",
+        "Antique"
+      ],
+      "answer": "Modern",
+      "explanation": "Ancient means very old; modern is its opposite. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Transparent'.",
+      "options": [
+        "Clear",
+        "Opaque",
+        "Thin",
+        "Visible"
+      ],
+      "answer": "Opaque",
+      "explanation": "Transparent lets light through; opaque does not. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Optimist'.",
+      "options": [
+        "Pessimist",
+        "Realist",
+        "Idealist",
+        "Cynic"
+      ],
+      "answer": "Pessimist",
+      "explanation": "An optimist expects the best; a pessimist expects the worst. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "Choose the antonym of 'Scarce'.",
+      "options": [
+        "Rare",
+        "Abundant",
+        "Limited",
+        "Little"
+      ],
+      "answer": "Abundant",
+      "explanation": "Scarce means in short supply; abundant means plentiful. (সূত্র: English Vocabulary — Antonyms)"
+    },
+    {
+      "question": "One who loves mankind is called —",
+      "options": [
+        "Misanthrope",
+        "Philanthropist",
+        "Philatelist",
+        "Altruist"
+      ],
+      "answer": "Philanthropist",
+      "explanation": "A philanthropist loves and helps mankind. (সূত্র: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "One who knows everything is called —",
+      "options": [
+        "Omnipotent",
+        "Omniscient",
+        "Omnipresent",
+        "Omnivorous"
+      ],
+      "answer": "Omniscient",
+      "explanation": "Omniscient means all-knowing. (সূত্র: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "The scientific study of birds is called —",
+      "options": [
+        "Ornithology",
+        "Entomology",
+        "Zoology",
+        "Ecology"
+      ],
+      "answer": "Ornithology",
+      "explanation": "Ornithology is the study of birds. (সূত্র: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "A person who walks in sleep is called —",
+      "options": [
+        "Insomniac",
+        "Somnambulist",
+        "Hypnotist",
+        "Sleeper"
+      ],
+      "answer": "Somnambulist",
+      "explanation": "Somnambulist means a sleepwalker. (সূত্র: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "Government of the people, by the people, for the people is —",
+      "options": [
+        "Monarchy",
+        "Democracy",
+        "Autocracy",
+        "Oligarchy"
+      ],
+      "answer": "Democracy",
+      "explanation": "This describes democracy. (সূত্র: English Vocabulary — One Word Substitution)"
+    },
+    {
+      "question": "What does the idiom 'a piece of cake' mean?",
+      "options": [
+        "Very easy",
+        "Very sweet",
+        "Very costly",
+        "Very small"
+      ],
+      "answer": "Very easy",
+      "explanation": "A piece of cake means something very easy. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'break the ice' mean?",
+      "options": [
+        "Start a conversation in an awkward situation",
+        "Destroy something",
+        "Feel cold",
+        "Cancel a plan"
+      ],
+      "answer": "Start a conversation in an awkward situation",
+      "explanation": "It means to ease tension and begin interaction. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'once in a blue moon' mean?",
+      "options": [
+        "Very rarely",
+        "Every month",
+        "At night",
+        "Frequently"
+      ],
+      "answer": "Very rarely",
+      "explanation": "It means something that happens very seldom. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'hit the nail on the head' mean?",
+      "options": [
+        "Say exactly the right thing",
+        "Make a mistake",
+        "Build a house",
+        "Hurt oneself"
+      ],
+      "answer": "Say exactly the right thing",
+      "explanation": "It means to be exactly right about something. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'spill the beans' mean?",
+      "options": [
+        "Reveal a secret",
+        "Waste food",
+        "Cook quickly",
+        "Make a mess"
+      ],
+      "answer": "Reveal a secret",
+      "explanation": "To spill the beans is to disclose a secret. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'cost an arm and a leg' mean?",
+      "options": [
+        "Be very expensive",
+        "Cause injury",
+        "Be free",
+        "Be cheap"
+      ],
+      "answer": "Be very expensive",
+      "explanation": "It means to be extremely costly. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "What does 'bite the bullet' mean?",
+      "options": [
+        "Endure a painful situation bravely",
+        "Eat quickly",
+        "Fire a gun",
+        "Avoid a task"
+      ],
+      "answer": "Endure a painful situation bravely",
+      "explanation": "It means to face something unpleasant with courage. (সূত্র: English Idioms and Phrases)"
+    },
+    {
+      "question": "He is good ___ mathematics.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "for"
+      ],
+      "answer": "at",
+      "explanation": "The adjective 'good' takes the preposition 'at' for skills. (সূত্র: English Grammar — Prepositions)"
+    },
+    {
+      "question": "She is married ___ a doctor.",
+      "options": [
+        "with",
+        "to",
+        "by",
+        "from"
+      ],
+      "answer": "to",
+      "explanation": "'Married to' is the correct collocation. (সূত্র: English Grammar — Prepositions)"
+    },
+    {
+      "question": "I am fond ___ music.",
+      "options": [
+        "of",
+        "for",
+        "with",
+        "in"
+      ],
+      "answer": "of",
+      "explanation": "'Fond of' is the correct appropriate preposition. (সূত্র: English Grammar — Appropriate Prepositions)"
+    },
+    {
+      "question": "She is senior ___ me.",
+      "options": [
+        "than",
+        "from",
+        "to",
+        "with"
+      ],
+      "answer": "to",
+      "explanation": "Senior, junior, superior, inferior take 'to'. (সূত্র: English Grammar — Appropriate Prepositions)"
+    },
+    {
+      "question": "Neither of the boys ___ present.",
+      "options": [
+        "were",
+        "was",
+        "are",
+        "have"
+      ],
+      "answer": "was",
+      "explanation": "'Neither of' takes a singular verb. (সূত্র: English Grammar — Subject-Verb Agreement)"
+    },
+    {
+      "question": "By the time he came, I ___ the work.",
+      "options": [
+        "finished",
+        "had finished",
+        "have finished",
+        "was finishing"
+      ],
+      "answer": "had finished",
+      "explanation": "Past perfect is used for the earlier of two past actions. (সূত্র: English Grammar — Tense)"
+    },
+    {
+      "question": "I have been living here ___ 2010.",
+      "options": [
+        "for",
+        "since",
+        "from",
+        "by"
+      ],
+      "answer": "since",
+      "explanation": "'Since' is used with a point of time. (সূত্র: English Grammar — Tense and Prepositions)"
+    },
+    {
+      "question": "He is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article"
+      ],
+      "answer": "an",
+      "explanation": "'Honest' starts with a vowel sound, so 'an' is used. (সূত্র: English Grammar — Articles)"
+    },
+    {
+      "question": "___ Himalayas are the highest mountains in the world.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article"
+      ],
+      "answer": "The",
+      "explanation": "'The' is used before mountain ranges. (সূত্র: English Grammar — Articles)"
+    },
+    {
+      "question": "Each of the students ___ a book.",
+      "options": [
+        "have",
+        "has",
+        "are",
+        "were"
+      ],
+      "answer": "has",
+      "explanation": "'Each of' takes a singular verb. (সূত্র: English Grammar — Subject-Verb Agreement)"
+    },
+    {
+      "question": "If I were a bird, I ___ fly.",
+      "options": [
+        "will",
+        "would",
+        "can",
+        "shall"
+      ],
+      "answer": "would",
+      "explanation": "Second conditional: If + past, would + verb. (সূত্র: English Grammar — Conditionals)"
+    },
+    {
+      "question": "Which spelling is correct?",
+      "options": [
+        "Acommodation",
+        "Accommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "answer": "Accommodation",
+      "explanation": "Correct spelling has double c and double m. (সূত্র: English Vocabulary — Spelling)"
+    },
+    {
+      "question": "Which spelling is correct?",
+      "options": [
+        "Necessary",
+        "Neccessary",
+        "Necesary",
+        "Necessery"
+      ],
+      "answer": "Necessary",
+      "explanation": "One c and double s: necessary. (সূত্র: English Vocabulary — Spelling)"
+    },
+    {
+      "question": "Change into passive: 'The teacher praised the student.'",
+      "options": [
+        "The student praised the teacher.",
+        "The student was praised by the teacher.",
+        "The student is praised by the teacher.",
+        "The teacher was praised by the student."
+      ],
+      "answer": "The student was praised by the teacher.",
+      "explanation": "Simple past active becomes was/were + past participle. (সূত্র: English Grammar — Voice)"
+    },
+    {
+      "question": "What is the plural of 'criterion'?",
+      "options": [
+        "Criterions",
+        "Criteria",
+        "Criterias",
+        "Criterion"
+      ],
+      "answer": "Criteria",
+      "explanation": "Criterion has the Greek plural criteria. (সূত্র: English Grammar — Number)"
+    },
+    {
+      "question": "বাংলাদেশের স্বাধীনতা ঘোষণা করা হয় কত তারিখে?",
+      "options": [
+        "২৫ মার্চ ১৯৭১",
+        "২৬ মার্চ ১৯৭১",
+        "১৬ ডিসেম্বর ১৯৭১",
+        "১৭ এপ্রিল ১৯৭১"
+      ],
+      "answer": "২৬ মার্চ ১৯৭১",
+      "explanation": "২৬ মার্চ স্বাধীনতা দিবস হিসেবে পালিত হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — মুক্তিযুদ্ধ)"
+    },
+    {
+      "question": "মুজিবনগর সরকার কত তারিখে শপথ গ্রহণ করে?",
+      "options": [
+        "২৬ মার্চ ১৯৭১",
+        "১০ এপ্রিল ১৯৭১",
+        "১৭ এপ্রিল ১৯৭১",
+        "১৬ ডিসেম্বর ১৯৭১"
+      ],
+      "answer": "১৭ এপ্রিল ১৯৭১",
+      "explanation": "মেহেরপুরের বৈদ্যনাথতলায় ১৭ এপ্রিল ১৯৭১ শপথ অনুষ্ঠিত হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — মুক্তিযুদ্ধ)"
+    },
+    {
+      "question": "মুজিবনগর সরকারের শপথ অনুষ্ঠান কোথায় হয়েছিল?",
+      "options": [
+        "কুষ্টিয়া",
+        "মেহেরপুরের বৈদ্যনাথতলা",
+        "যশোর",
+        "চুয়াডাঙ্গা"
+      ],
+      "answer": "মেহেরপুরের বৈদ্যনাথতলা",
+      "explanation": "বৈদ্যনাথতলার নাম পরে মুজিবনগর রাখা হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — মুক্তিযুদ্ধ)"
+    },
+    {
+      "question": "ঐতিহাসিক ছয় দফা কর্মসূচি কত সালে উত্থাপিত হয়?",
+      "options": [
+        "১৯৫৪",
+        "১৯৬২",
+        "১৯৬৬",
+        "১৯৬৯"
+      ],
+      "answer": "১৯৬৬",
+      "explanation": "১৯৬৬ সালে লাহোরে শেখ মুজিবুর রহমান ছয় দফা পেশ করেন। (সূত্র: বাংলাদেশ বিষয়াবলি — রাজনৈতিক ইতিহাস)"
+    },
+    {
+      "question": "যুক্তফ্রন্ট নির্বাচন কত সালে অনুষ্ঠিত হয়?",
+      "options": [
+        "১৯৪৬",
+        "১৯৫৪",
+        "১৯৫৮",
+        "১৯৭০"
+      ],
+      "answer": "১৯৫৪",
+      "explanation": "১৯৫৪ সালে পূর্ব বাংলার প্রাদেশিক নির্বাচনে যুক্তফ্রন্ট জয়ী হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — রাজনৈতিক ইতিহাস)"
+    },
+    {
+      "question": "বাংলাদেশের সংবিধান কার্যকর হয় কবে?",
+      "options": [
+        "৪ নভেম্বর ১৯৭২",
+        "১৬ ডিসেম্বর ১৯৭২",
+        "২৬ মার্চ ১৯৭২",
+        "১০ এপ্রিল ১৯৭২"
+      ],
+      "answer": "১৬ ডিসেম্বর ১৯৭২",
+      "explanation": "সংবিধান গৃহীত হয় ৪ নভেম্বর ১৯৭২, কার্যকর হয় ১৬ ডিসেম্বর ১৯৭২। (সূত্র: বাংলাদেশের সংবিধান)"
+    },
+    {
+      "question": "আন্তর্জাতিক মাতৃভাষা দিবস কত তারিখে পালিত হয়?",
+      "options": [
+        "২১ ফেব্রুয়ারি",
+        "২৬ মার্চ",
+        "১৬ ডিসেম্বর",
+        "১৭ মার্চ"
+      ],
+      "answer": "২১ ফেব্রুয়ারি",
+      "explanation": "ইউনেস্কো ১৯৯৯ সালে ঘোষণা করে এবং ২০০০ সাল থেকে এটি পালিত হচ্ছে। (সূত্র: বাংলাদেশ বিষয়াবলি — ভাষা আন্দোলন)"
+    },
+    {
+      "question": "বাংলাদেশ কত সালে জাতিসংঘের সদস্যপদ লাভ করে?",
+      "options": [
+        "১৯৭২",
+        "১৯৭৩",
+        "১৯৭৪",
+        "১৯৭৫"
+      ],
+      "answer": "১৯৭৪",
+      "explanation": "১৭ সেপ্টেম্বর ১৯৭৪ বাংলাদেশ জাতিসংঘের ১৩৬তম সদস্য হয়। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "বাংলাদেশে বিভাগের সংখ্যা কয়টি?",
+      "options": [
+        "৬টি",
+        "৭টি",
+        "৮টি",
+        "৯টি"
+      ],
+      "answer": "৮টি",
+      "explanation": "২০১৫ সালে ময়মনসিংহ বিভাগ হওয়ার পর বিভাগ ৮টি। (সূত্র: বাংলাদেশ বিষয়াবলি — প্রশাসন)"
+    },
+    {
+      "question": "বাংলাদেশের জেলার সংখ্যা কয়টি?",
+      "options": [
+        "৬০টি",
+        "৬৪টি",
+        "৬৮টি",
+        "৭০টি"
+      ],
+      "answer": "৬৪টি",
+      "explanation": "বাংলাদেশে মোট ৬৪টি জেলা রয়েছে। (সূত্র: বাংলাদেশ বিষয়াবলি — প্রশাসন)"
+    },
+    {
+      "question": "জাতীয় সংসদের নির্বাচিত আসন সংখ্যা কত?",
+      "options": [
+        "৩০০",
+        "৩৩০",
+        "৩৫০",
+        "২৫০"
+      ],
+      "answer": "৩০০",
+      "explanation": "সংবিধান অনুযায়ী ৩০০টি নির্বাচিত আসন রয়েছে। (সূত্র: বাংলাদেশের সংবিধান)"
+    },
+    {
+      "question": "বাংলাদেশের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+      "options": [
+        "কেওক্রাডং",
+        "তাজিনডং",
+        "সাকা হাফং",
+        "মোদক মুয়াল"
+      ],
+      "answer": "তাজিনডং",
+      "explanation": "তাজিনডং (বিজয়) বান্দরবানে অবস্থিত। (সূত্র: বাংলাদেশের ভূগোল)"
+    },
+    {
+      "question": "বিশ্বের বৃহত্তম ম্যানগ্রোভ বন কোনটি?",
+      "options": [
+        "সুন্দরবন",
+        "আমাজন",
+        "ভিতরকণিকা",
+        "কঙ্গো"
+      ],
+      "answer": "সুন্দরবন",
+      "explanation": "সুন্দরবন বিশ্বের বৃহত্তম ম্যানগ্রোভ বন। (সূত্র: বাংলাদেশের ভূগোল)"
+    },
+    {
+      "question": "কক্সবাজার সমুদ্রসৈকতের দৈর্ঘ্য প্রায় কত?",
+      "options": [
+        "৮০ কিমি",
+        "১২০ কিমি",
+        "১৫০ কিমি",
+        "১৮০ কিমি"
+      ],
+      "answer": "১২০ কিমি",
+      "explanation": "এটি বিশ্বের দীর্ঘতম অবিচ্ছিন্ন প্রাকৃতিক সমুদ্রসৈকত, প্রায় ১২০ কিমি। (সূত্র: বাংলাদেশের ভূগোল)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় ফুল কোনটি?",
+      "options": [
+        "গোলাপ",
+        "শাপলা",
+        "রজনীগন্ধা",
+        "জবা"
+      ],
+      "answer": "শাপলা",
+      "explanation": "শাপলা বাংলাদেশের জাতীয় ফুল। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় ফল কোনটি?",
+      "options": [
+        "আম",
+        "কাঁঠাল",
+        "লিচু",
+        "জাম"
+      ],
+      "answer": "কাঁঠাল",
+      "explanation": "কাঁঠাল বাংলাদেশের জাতীয় ফল। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় পাখি কোনটি?",
+      "options": [
+        "ময়না",
+        "দোয়েল",
+        "কোকিল",
+        "শালিক"
+      ],
+      "answer": "দোয়েল",
+      "explanation": "দোয়েল বাংলাদেশের জাতীয় পাখি। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় মাছ কোনটি?",
+      "options": [
+        "রুই",
+        "ইলিশ",
+        "কাতলা",
+        "পাঙ্গাস"
+      ],
+      "answer": "ইলিশ",
+      "explanation": "ইলিশ বাংলাদেশের জাতীয় মাছ। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় পশু কোনটি?",
+      "options": [
+        "রয়েল বেঙ্গল টাইগার",
+        "হাতি",
+        "হরিণ",
+        "গণ্ডার"
+      ],
+      "answer": "রয়েল বেঙ্গল টাইগার",
+      "explanation": "রয়েল বেঙ্গল টাইগার জাতীয় পশু। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "বাংলাদেশের জাতীয় সংগীতের রচয়িতা কে?",
+      "options": [
+        "কাজী নজরুল ইসলাম",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "জীবনানন্দ দাশ",
+        "জসীমউদ্দীন"
+      ],
+      "answer": "রবীন্দ্রনাথ ঠাকুর",
+      "explanation": "'আমার সোনার বাংলা' রবীন্দ্রনাথ ঠাকুরের রচনা। (সূত্র: বাংলাদেশ বিষয়াবলি — জাতীয় প্রতীক)"
+    },
+    {
+      "question": "ড. মুহম্মদ ইউনূস কত সালে নোবেল শান্তি পুরস্কার পান?",
+      "options": [
+        "২০০৪",
+        "২০০৬",
+        "২০০৮",
+        "২০১০"
+      ],
+      "answer": "২০০৬",
+      "explanation": "তিনি ও গ্রামীণ ব্যাংক ২০০৬ সালে যৌথভাবে নোবেল শান্তি পুরস্কার পান। (সূত্র: বাংলাদেশ বিষয়াবলি — নোবেল)"
+    },
+    {
+      "question": "কোনটি বাংলাদেশের ইউনেস্কো ঘোষিত বিশ্ব ঐতিহ্যের অংশ নয়?",
+      "options": [
+        "পাহাড়পুর বৌদ্ধবিহার",
+        "ষাট গম্বুজ মসজিদ",
+        "সুন্দরবন",
+        "লালবাগ কেল্লা"
+      ],
+      "answer": "লালবাগ কেল্লা",
+      "explanation": "ষাট গম্বুজ মসজিদ, পাহাড়পুর ও সুন্দরবন বিশ্ব ঐতিহ্যের তালিকায় আছে। (সূত্র: বাংলাদেশ বিষয়াবলি — ইউনেস্কো)"
+    },
+    {
+      "question": "বাংলাদেশের প্রথম উপগ্রহ 'বঙ্গবন্ধু স্যাটেলাইট-১' কত সালে উৎক্ষেপিত হয়?",
+      "options": [
+        "২০১৬",
+        "২০১৮",
+        "২০২০",
+        "২০২২"
+      ],
+      "answer": "২০১৮",
+      "explanation": "২০১৮ সালের ১২ মে উৎক্ষেপণ করা হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — বিজ্ঞান ও প্রযুক্তি)"
+    },
+    {
+      "question": "বাংলাদেশ ব্যাংক কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+        "১৯৭০",
+        "১৯৭২",
+        "১৯৭৪",
+        "১৯৭৫"
+      ],
+      "answer": "১৯৭২",
+      "explanation": "বাংলাদেশ ব্যাংক ১৯৭২ সালে প্রতিষ্ঠিত হয়। (সূত্র: বাংলাদেশ বিষয়াবলি — অর্থনীতি)"
+    },
+    {
+      "question": "জাতিসংঘ কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+        "১৯৩৯",
+        "১৯৪৫",
+        "১৯৪৮",
+        "১৯৫০"
+      ],
+      "answer": "১৯৪৫",
+      "explanation": "২৪ অক্টোবর ১৯৪৫ জাতিসংঘ প্রতিষ্ঠিত হয়। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "জাতিসংঘের সদর দপ্তর কোথায়?",
+      "options": [
+        "জেনেভা",
+        "নিউইয়র্ক",
+        "প্যারিস",
+        "লন্ডন"
+      ],
+      "answer": "নিউইয়র্ক",
+      "explanation": "জাতিসংঘের সদর দপ্তর নিউইয়র্ক সিটিতে। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "নিরাপত্তা পরিষদের স্থায়ী সদস্য কয়টি?",
+      "options": [
+        "৩টি",
+        "৫টি",
+        "৭টি",
+        "১০টি"
+      ],
+      "answer": "৫টি",
+      "explanation": "যুক্তরাষ্ট্র, যুক্তরাজ্য, ফ্রান্স, রাশিয়া ও চীন। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "WHO-এর সদর দপ্তর কোথায়?",
+      "options": [
+        "নিউইয়র্ক",
+        "জেনেভা",
+        "ভিয়েনা",
+        "রোম"
+      ],
+      "answer": "জেনেভা",
+      "explanation": "বিশ্ব স্বাস্থ্য সংস্থার সদর দপ্তর জেনেভায়। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "সার্ক (SAARC) কত সালে প্রতিষ্ঠিত হয়?",
+      "options": [
+        "১৯৭১",
+        "১৯৮০",
+        "১৯৮৫",
+        "১৯৯০"
+      ],
+      "answer": "১৯৮৫",
+      "explanation": "১৯৮৫ সালে ঢাকায় সার্ক সনদ গৃহীত হয়। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "সার্কের সচিবালয় কোথায় অবস্থিত?",
+      "options": [
+        "ঢাকা",
+        "কাঠমান্ডু",
+        "নয়াদিল্লি",
+        "ইসলামাবাদ"
+      ],
+      "answer": "কাঠমান্ডু",
+      "explanation": "সার্ক সচিবালয় নেপালের কাঠমান্ডুতে। (সূত্র: আন্তর্জাতিক বিষয়াবলি)"
+    },
+    {
+      "question": "বিশ্বের সর্বোচ্চ পর্বতশৃঙ্গ কোনটি?",
+      "options": [
+        "কে-টু",
+        "মাউন্ট এভারেস্ট",
+        "কাঞ্চনজঙ্ঘা",
+        "ম্যাকিনলি"
+      ],
+      "answer": "মাউন্ট এভারেস্ট",
+      "explanation": "এভারেস্ট প্রায় ৮,৮৪৮ মিটার উঁচু। (সূত্র: বিশ্বের ভূগোল)"
+    },
+    {
+      "question": "বিশ্বের বৃহত্তম মহাসাগর কোনটি?",
+      "options": [
+        "আটলান্টিক",
+        "প্রশান্ত",
+        "ভারত",
+        "আর্কটিক"
+      ],
+      "answer": "প্রশান্ত",
+      "explanation": "প্রশান্ত মহাসাগর সবচেয়ে বড় ও গভীর। (সূত্র: বিশ্বের ভূগোল)"
+    },
+    {
+      "question": "আয়তনে বিশ্বের বৃহত্তম দেশ কোনটি?",
+      "options": [
+        "কানাডা",
+        "চীন",
+        "রাশিয়া",
+        "যুক্তরাষ্ট্র"
+      ],
+      "answer": "রাশিয়া",
+      "explanation": "রাশিয়া আয়তনে বিশ্বের বৃহত্তম দেশ। (সূত্র: বিশ্বের ভূগোল)"
+    },
+    {
+      "question": "আয়তনে বিশ্বের ক্ষুদ্রতম দেশ কোনটি?",
+      "options": [
+        "মোনাকো",
+        "ভ্যাটিকান সিটি",
+        "নাউরু",
+        "সান মারিনো"
+      ],
+      "answer": "ভ্যাটিকান সিটি",
+      "explanation": "ভ্যাটিকান সিটি সবচেয়ে ছোট স্বীকৃত রাষ্ট্র। (সূত্র: বিশ্বের ভূগোল)"
+    },
+    {
+      "question": "প্রথম বিশ্বযুদ্ধ কত সালে শুরু হয়?",
+      "options": [
+        "১৯১২",
+        "১৯১৪",
+        "১৯১৮",
+        "১৯৩৯"
+      ],
+      "answer": "১৯১৪",
+      "explanation": "১৯১৪ থেকে ১৯১৮ সাল পর্যন্ত চলে। (সূত্র: বিশ্ব ইতিহাস)"
+    },
+    {
+      "question": "ফরাসি বিপ্লব কত সালে সংঘটিত হয়?",
+      "options": [
+        "১৭৫৭",
+        "১৭৮৯",
+        "১৮১৫",
+        "১৮৫৭"
+      ],
+      "answer": "১৭৮৯",
+      "explanation": "১৭৮৯ সালে ফরাসি বিপ্লব শুরু হয়। (সূত্র: বিশ্ব ইতিহাস)"
+    },
+    {
+      "question": "আন্তর্জাতিক নারী দিবস কত তারিখে?",
+      "options": [
+        "৮ মার্চ",
+        "১ মে",
+        "৫ জুন",
+        "১০ ডিসেম্বর"
+      ],
+      "answer": "৮ মার্চ",
+      "explanation": "প্রতি বছর ৮ মার্চ আন্তর্জাতিক নারী দিবস পালিত হয়। (সূত্র: আন্তর্জাতিক বিষয়াবলি — দিবস)"
+    },
+    {
+      "question": "বিশ্ব পরিবেশ দিবস কবে পালিত হয়?",
+      "options": [
+        "৫ জুন",
+        "৭ এপ্রিল",
+        "২২ এপ্রিল",
+        "১ ডিসেম্বর"
+      ],
+      "answer": "৫ জুন",
+      "explanation": "প্রতি বছর ৫ জুন বিশ্ব পরিবেশ দিবস। (সূত্র: আন্তর্জাতিক বিষয়াবলি — দিবস)"
+    },
+    {
+      "question": "আন্তর্জাতিক মানবাধিকার দিবস কত তারিখে?",
+      "options": [
+        "১০ ডিসেম্বর",
+        "১৮ ডিসেম্বর",
+        "১ ডিসেম্বর",
+        "২৪ অক্টোবর"
+      ],
+      "answer": "১০ ডিসেম্বর",
+      "explanation": "১৯৪৮ সালের ১০ ডিসেম্বর মানবাধিকারের সার্বজনীন ঘোষণা গৃহীত হয়। (সূত্র: আন্তর্জাতিক বিষয়াবলি — দিবস)"
+    },
+    {
+      "question": "বিশ্ব স্বাস্থ্য দিবস কবে?",
+      "options": [
+        "৭ এপ্রিল",
+        "১ মে",
+        "২১ ফেব্রুয়ারি",
+        "৮ মার্চ"
+      ],
+      "answer": "৭ এপ্রিল",
+      "explanation": "WHO প্রতিষ্ঠার স্মরণে ৭ এপ্রিল বিশ্ব স্বাস্থ্য দিবস। (সূত্র: আন্তর্জাতিক বিষয়াবলি — দিবস)"
+    },
+    {
+      "question": "২০২২ সালের ফিফা বিশ্বকাপ কোথায় অনুষ্ঠিত হয়?",
+      "options": [
+        "রাশিয়া",
+        "কাতার",
+        "ব্রাজিল",
+        "জার্মানি"
+      ],
+      "answer": "কাতার",
+      "explanation": "২০২২ সালের বিশ্বকাপ কাতারে হয় এবং আর্জেন্টিনা চ্যাম্পিয়ন হয়। (সূত্র: ক্রীড়া সাধারণ জ্ঞান)"
+    },
+    {
+      "question": "নিউটনের প্রথম গতিসূত্রকে কী বলা হয়?",
+      "options": [
+        "জড়তার সূত্র",
+        "ত্বরণের সূত্র",
+        "ক্রিয়া-প্রতিক্রিয়ার সূত্র",
+        "মহাকর্ষ সূত্র"
+      ],
+      "answer": "জড়তার সূত্র",
+      "explanation": "প্রথম সূত্র অনুযায়ী বাহ্যিক বল না থাকলে বস্তুর অবস্থার পরিবর্তন হয় না। (সূত্র: পদার্থবিজ্ঞান — বল ও গতি)"
+    },
+    {
+      "question": "বলের SI একক কী?",
+      "options": [
+        "জুল",
+        "নিউটন",
+        "ওয়াট",
+        "প্যাসকেল"
+      ],
+      "answer": "নিউটন",
+      "explanation": "বলের SI একক নিউটন (N)। (সূত্র: পদার্থবিজ্ঞান — একক)"
+    },
+    {
+      "question": "কাজের SI একক কী?",
+      "options": [
+        "ওয়াট",
+        "জুল",
+        "নিউটন",
+        "অ্যাম্পিয়ার"
+      ],
+      "answer": "জুল",
+      "explanation": "কাজ ও শক্তির SI একক জুল। (সূত্র: পদার্থবিজ্ঞান — কাজ, ক্ষমতা ও শক্তি)"
+    },
+    {
+      "question": "ক্ষমতার SI একক কী?",
+      "options": [
+        "জুল",
+        "ওয়াট",
+        "ভোল্ট",
+        "ওহম"
+      ],
+      "answer": "ওয়াট",
+      "explanation": "ক্ষমতার SI একক ওয়াট (W)। (সূত্র: পদার্থবিজ্ঞান — একক)"
+    },
+    {
+      "question": "শূন্য মাধ্যমে আলোর বেগ প্রায় কত?",
+      "options": [
+        "৩×১০⁸ m/s",
+        "৩×১০⁶ m/s",
+        "৩৪০ m/s",
+        "৩×১০¹⁰ m/s"
+      ],
+      "answer": "৩×১০⁸ m/s",
+      "explanation": "শূন্যস্থানে আলোর বেগ প্রায় ৩×১০⁸ মিটার/সেকেন্ড। (সূত্র: পদার্থবিজ্ঞান — আলো)"
+    },
+    {
+      "question": "ওহমের সূত্র অনুযায়ী V = ?",
+      "options": [
+        "I/R",
+        "IR",
+        "R/I",
+        "I²R"
+      ],
+      "answer": "IR",
+      "explanation": "বিভব পার্থক্য V = প্রবাহ I × রোধ R। (সূত্র: পদার্থবিজ্ঞান — চল তড়িৎ)"
+    },
+    {
+      "question": "চাপের SI একক কী?",
+      "options": [
+        "বার",
+        "প্যাসকেল",
+        "জুল",
+        "নিউটন"
+      ],
+      "answer": "প্যাসকেল",
+      "explanation": "১ প্যাসকেল = ১ নিউটন/বর্গমিটার। (সূত্র: পদার্থবিজ্ঞান — পদার্থের অবস্থা ও চাপ)"
+    },
+    {
+      "question": "ইলেকট্রন কে আবিষ্কার করেন?",
+      "options": [
+        "রাদারফোর্ড",
+        "জে জে থমসন",
+        "বোর",
+        "চ্যাডউইক"
+      ],
+      "answer": "জে জে থমসন",
+      "explanation": "১৮৯৭ সালে জে জে থমসন ইলেকট্রন আবিষ্কার করেন। (সূত্র: পদার্থবিজ্ঞান/রসায়ন — পরমাণুর গঠন)"
+    },
+    {
+      "question": "পরমাণুর নিউক্লিয়াস আবিষ্কার করেন কে?",
+      "options": [
+        "রাদারফোর্ড",
+        "ডালটন",
+        "থমসন",
+        "মেন্ডেলিভ"
+      ],
+      "answer": "রাদারফোর্ড",
+      "explanation": "স্বর্ণপাত পরীক্ষার মাধ্যমে রাদারফোর্ড নিউক্লিয়াস আবিষ্কার করেন। (সূত্র: রসায়ন — পরমাণুর গঠন)"
+    },
+    {
+      "question": "পানির রাসায়নিক সংকেত কী?",
+      "options": [
+        "H₂O₂",
+        "H₂O",
+        "HO",
+        "H₂"
+      ],
+      "answer": "H₂O",
+      "explanation": "পানির অণুতে ২টি হাইড্রোজেন ও ১টি অক্সিজেন পরমাণু থাকে। (সূত্র: রসায়ন — রাসায়নিক সংকেত)"
+    },
+    {
+      "question": "খাবার লবণের রাসায়নিক সংকেত কী?",
+      "options": [
+        "NaCl",
+        "KCl",
+        "NaOH",
+        "CaCl₂"
+      ],
+      "answer": "NaCl",
+      "explanation": "খাবার লবণ সোডিয়াম ক্লোরাইড। (সূত্র: রসায়ন — যৌগ)"
+    },
+    {
+      "question": "পর্যায় সারণির প্রবর্তক কে?",
+      "options": [
+        "মেন্ডেলিভ",
+        "বোর",
+        "ডালটন",
+        "লাভয়সিয়ে"
+      ],
+      "answer": "মেন্ডেলিভ",
+      "explanation": "দিমিত্রি মেন্ডেলিভ পর্যায় সারণি প্রবর্তন করেন। (সূত্র: রসায়ন — পর্যায় সারণি)"
+    },
+    {
+      "question": "অক্সিজেনের পারমাণবিক সংখ্যা কত?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "16"
+      ],
+      "answer": "8",
+      "explanation": "অক্সিজেনের পারমাণবিক সংখ্যা ৮। (সূত্র: রসায়ন — পর্যায় সারণি)"
+    },
+    {
+      "question": "সাধারণ তাপমাত্রায় নিরপেক্ষ দ্রবণের pH কত?",
+      "options": [
+        "০",
+        "৭",
+        "১৪",
+        "১"
+      ],
+      "answer": "৭",
+      "explanation": "pH ৭ হলে দ্রবণ নিরপেক্ষ। (সূত্র: রসায়ন — অ্যাসিড-ক্ষারক)"
+    },
+    {
+      "question": "সবচেয়ে হালকা মৌল কোনটি?",
+      "options": [
+        "হিলিয়াম",
+        "হাইড্রোজেন",
+        "লিথিয়াম",
+        "অক্সিজেন"
+      ],
+      "answer": "হাইড্রোজেন",
+      "explanation": "হাইড্রোজেনের পারমাণবিক সংখ্যা ১ এবং এটি সবচেয়ে হালকা। (সূত্র: রসায়ন — মৌল)"
+    },
+    {
+      "question": "কোন ধাতু সাধারণ তাপমাত্রায় তরল?",
+      "options": [
+        "পারদ",
+        "সোনা",
+        "লোহা",
+        "তামা"
+      ],
+      "answer": "পারদ",
+      "explanation": "পারদ (Hg) সাধারণ তাপমাত্রায় তরল ধাতু। (সূত্র: রসায়ন — ধাতু)"
+    },
+    {
+      "question": "সোনার রাসায়নিক সংকেত কী?",
+      "options": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "answer": "Au",
+      "explanation": "সোনার লাতিন নাম Aurum, তাই Au। (সূত্র: রসায়ন — মৌলের সংকেত)"
+    },
+    {
+      "question": "মিথেনের রাসায়নিক সংকেত কী?",
+      "options": [
+        "CH₄",
+        "C₂H₆",
+        "CO₂",
+        "C₂H₄"
+      ],
+      "answer": "CH₄",
+      "explanation": "মিথেন সরলতম হাইড্রোকার্বন। (সূত্র: রসায়ন — জৈব যৌগ)"
+    },
+    {
+      "question": "গ্লুকোজের আণবিক সংকেত কী?",
+      "options": [
+        "C₆H₁₂O₆",
+        "C₁₂H₂₂O₁₁",
+        "C₂H₅OH",
+        "CH₃COOH"
+      ],
+      "answer": "C₆H₁₂O₆",
+      "explanation": "গ্লুকোজ একটি মনোস্যাকারাইড। (সূত্র: রসায়ন/জীববিজ্ঞান — শর্করা)"
+    },
+    {
+      "question": "সালোকসংশ্লেষণে সূর্যালোক শোষণকারী রঞ্জক কোনটি?",
+      "options": [
+        "ক্লোরোফিল",
+        "হিমোগ্লোবিন",
+        "ক্যারোটিন",
+        "মেলানিন"
+      ],
+      "answer": "ক্লোরোফিল",
+      "explanation": "ক্লোরোফিল সূর্যালোক শোষণ করে খাদ্য তৈরিতে সাহায্য করে। (সূত্র: জীববিজ্ঞান — উদ্ভিদের পুষ্টি)"
+    },
+    {
+      "question": "ভিটামিন C-এর অভাবে কোন রোগ হয়?",
+      "options": [
+        "রাতকানা",
+        "স্কার্ভি",
+        "রিকেটস",
+        "বেরিবেরি"
+      ],
+      "answer": "স্কার্ভি",
+      "explanation": "ভিটামিন C-এর অভাবে স্কার্ভি হয়। (সূত্র: জীববিজ্ঞান — খাদ্য ও পুষ্টি)"
+    },
+    {
+      "question": "ভিটামিন A-এর অভাবে কোন রোগ হয়?",
+      "options": [
+        "রাতকানা",
+        "স্কার্ভি",
+        "রিকেটস",
+        "অ্যানিমিয়া"
+      ],
+      "answer": "রাতকানা",
+      "explanation": "ভিটামিন A-এর অভাবে রাতকানা রোগ হয়। (সূত্র: জীববিজ্ঞান — খাদ্য ও পুষ্টি)"
+    },
+    {
+      "question": "কোন ভিটামিন সূর্যালোকের সাহায্যে ত্বকে তৈরি হয়?",
+      "options": [
+        "ভিটামিন A",
+        "ভিটামিন C",
+        "ভিটামিন D",
+        "ভিটামিন K"
+      ],
+      "answer": "ভিটামিন D",
+      "explanation": "সূর্যালোকে ত্বকে ভিটামিন D সংশ্লেষিত হয়। (সূত্র: জীববিজ্ঞান — ভিটামিন)"
+    },
+    {
+      "question": "মানুষের দেহকোষে ক্রোমোজোম সংখ্যা কত?",
+      "options": [
+        "২৩",
+        "৪৬",
+        "৪৮",
+        "৪৪"
+      ],
+      "answer": "৪৬",
+      "explanation": "মানুষের দেহকোষে ২৩ জোড়া, অর্থাৎ ৪৬টি ক্রোমোজোম থাকে। (সূত্র: জীববিজ্ঞান — বংশগতি)"
+    },
+    {
+      "question": "কোষের শক্তিঘর কোনটি?",
+      "options": [
+        "মাইটোকন্ড্রিয়া",
+        "রাইবোসোম",
+        "নিউক্লিয়াস",
+        "গলগি বডি"
+      ],
+      "answer": "মাইটোকন্ড্রিয়া",
+      "explanation": "মাইটোকন্ড্রিয়ায় ATP তৈরি হয়, তাই একে শক্তিঘর বলে। (সূত্র: জীববিজ্ঞান — কোষ)"
+    },
+    {
+      "question": "ইনসুলিন কোন গ্রন্থি থেকে নিঃসৃত হয়?",
+      "options": [
+        "যকৃৎ",
+        "অগ্ন্যাশয়",
+        "থাইরয়েড",
+        "অ্যাড্রিনাল"
+      ],
+      "answer": "অগ্ন্যাশয়",
+      "explanation": "অগ্ন্যাশয়ের বিটা কোষ ইনসুলিন নিঃসরণ করে। (সূত্র: জীববিজ্ঞান — হরমোন)"
+    },
+    {
+      "question": "মানুষের হৃদপিণ্ডে প্রকোষ্ঠ কয়টি?",
+      "options": [
+        "২টি",
+        "৩টি",
+        "৪টি",
+        "৫টি"
+      ],
+      "answer": "৪টি",
+      "explanation": "২টি অলিন্দ ও ২টি নিলয়, মোট ৪টি প্রকোষ্ঠ। (সূত্র: জীববিজ্ঞান — রক্ত সংবহন)"
+    },
+    {
+      "question": "ম্যালেরিয়া রোগ ছড়ায় কোন মশা?",
+      "options": [
+        "অ্যানোফিলিস",
+        "এডিস",
+        "কিউলেক্স",
+        "ম্যানসোনিয়া"
+      ],
+      "answer": "অ্যানোফিলিস",
+      "explanation": "স্ত্রী অ্যানোফিলিস মশা ম্যালেরিয়ার বাহক। (সূত্র: জীববিজ্ঞান — রোগ)"
+    },
+    {
+      "question": "ডেঙ্গু রোগ ছড়ায় কোন মশা?",
+      "options": [
+        "অ্যানোফিলিস",
+        "এডিস",
+        "কিউলেক্স",
+        "সবগুলো"
+      ],
+      "answer": "এডিস",
+      "explanation": "এডিস ইজিপটাই মশা ডেঙ্গুর বাহক। (সূত্র: জীববিজ্ঞান — রোগ)"
+    },
+    {
+      "question": "রক্তের লোহিত কণিকা কোথায় তৈরি হয়?",
+      "options": [
+        "অস্থিমজ্জা",
+        "যকৃৎ",
+        "হৃদপিণ্ড",
+        "ফুসফুস"
+      ],
+      "answer": "অস্থিমজ্জা",
+      "explanation": "প্রাপ্তবয়স্কদের লোহিত রক্তকণিকা অস্থিমজ্জায় তৈরি হয়। (সূত্র: জীববিজ্ঞান — রক্ত)"
+    },
+    {
+      "question": "১ বাইট সমান কত বিট?",
+      "options": [
+        "৪",
+        "৮",
+        "১০",
+        "১৬"
+      ],
+      "answer": "৮",
+      "explanation": "১ বাইট = ৮ বিট। (সূত্র: ICT — তথ্য ও পরিমাপ)"
+    },
+    {
+      "question": "CPU-এর পূর্ণরূপ কী?",
+      "options": [
+        "Central Processing Unit",
+        "Control Program Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
+      ],
+      "answer": "Central Processing Unit",
+      "explanation": "CPU কম্পিউটারের কেন্দ্রীয় প্রক্রিয়াকরণ একক। (সূত্র: ICT — কম্পিউটার হার্ডওয়্যার)"
+    },
+    {
+      "question": "RAM কী ধরনের মেমোরি?",
+      "options": [
+        "অস্থায়ী (ভোলাটাইল)",
+        "স্থায়ী",
+        "শুধু পঠনযোগ্য",
+        "সেকেন্ডারি"
+      ],
+      "answer": "অস্থায়ী (ভোলাটাইল)",
+      "explanation": "বিদ্যুৎ বন্ধ হলে RAM-এর তথ্য মুছে যায়। (সূত্র: ICT — মেমোরি)"
+    },
+    {
+      "question": "বাইনারি সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "options": [
+        "২",
+        "৮",
+        "১০",
+        "১৬"
+      ],
+      "answer": "২",
+      "explanation": "বাইনারিতে শুধু ০ ও ১ ব্যবহৃত হয়। (সূত্র: ICT — সংখ্যা পদ্ধতি)"
+    },
+    {
+      "question": "বাইনারি (১০১)₂-এর দশমিক মান কত?",
+      "options": [
+        "৩",
+        "৫",
+        "৬",
+        "৭"
+      ],
+      "answer": "৫",
+      "explanation": "১×৪ + ০×২ + ১×১ = ৫। (সূত্র: ICT — সংখ্যা পদ্ধতি)"
+    },
+    {
+      "question": "HTML-এর পূর্ণরূপ কী?",
+      "options": [
+        "HyperText Markup Language",
+        "High Text Machine Language",
+        "HyperTool Markup Link",
+        "Home Text Markup Language"
+      ],
+      "answer": "HyperText Markup Language",
+      "explanation": "HTML ওয়েব পেজ তৈরির মার্কআপ ভাষা। (সূত্র: ICT — ওয়েব ডিজাইন)"
+    },
+    {
+      "question": "ওয়ার্ল্ড ওয়াইড ওয়েব (WWW) আবিষ্কার করেন কে?",
+      "options": [
+        "টিম বার্নার্স-লি",
+        "বিল গেটস",
+        "স্টিভ জবস",
+        "ডেনিস রিচি"
+      ],
+      "answer": "টিম বার্নার্স-লি",
+      "explanation": "১৯৮৯ সালে টিম বার্নার্স-লি WWW প্রস্তাব করেন। (সূত্র: ICT — ইন্টারনেট)"
+    },
+    {
+      "question": "কম্পিউটারে কপি করার শর্টকাট কী কোনটি?",
+      "options": [
+        "Ctrl+C",
+        "Ctrl+V",
+        "Ctrl+X",
+        "Ctrl+Z"
+      ],
+      "answer": "Ctrl+C",
+      "explanation": "Ctrl+C কপি, Ctrl+V পেস্ট, Ctrl+X কাট, Ctrl+Z আনডু। (সূত্র: ICT — অফিস অ্যাপ্লিকেশন)"
+    },
+    {
+      "question": "ডেটাবেজ ম্যানেজমেন্টে বহুল ব্যবহৃত ভাষা কোনটি?",
+      "options": [
+        "SQL",
+        "HTML",
+        "CSS",
+        "XML"
+      ],
+      "answer": "SQL",
+      "explanation": "SQL ডেটাবেজ থেকে তথ্য সংরক্ষণ ও উদ্ধারে ব্যবহৃত হয়। (সূত্র: ICT — ডেটাবেজ)"
+    },
+    {
+      "question": "২০০-এর ১৫% কত?",
+      "options": [
+        "২০",
+        "৩০",
+        "৩৫",
+        "৪০"
+      ],
+      "answer": "৩০",
+      "explanation": "২০০ × ১৫/১০০ = ৩০। (সূত্র: গণিত — শতকরা)"
+    },
+    {
+      "question": "2x + 5 = 15 হলে x এর মান কত?",
+      "options": [
+        "৩",
+        "৪",
+        "৫",
+        "১০"
+      ],
+      "answer": "৫",
+      "explanation": "2x = 10, তাই x = 5। (সূত্র: গণিত — বীজগণিত)"
+    },
+    {
+      "question": "√144 = ?",
+      "options": [
+        "১১",
+        "১২",
+        "১৩",
+        "১৪"
+      ],
+      "answer": "১২",
+      "explanation": "১২ × ১২ = ১৪৪। (সূত্র: গণিত — বর্গমূল)"
+    },
+    {
+      "question": "২৫²-এর মান কত?",
+      "options": [
+        "৫২৫",
+        "৬২৫",
+        "৭২৫",
+        "৬০০"
+      ],
+      "answer": "৬২৫",
+      "explanation": "২৫ × ২৫ = ৬২৫। (সূত্র: গণিত — বর্গ)"
+    },
+    {
+      "question": "৭ একক ব্যাসার্ধের বৃত্তের ক্ষেত্রফল কত? (π = ২২/৭)",
+      "options": [
+        "১৪৪",
+        "১৫৪",
+        "১৬৪",
+        "১৪"
+      ],
+      "answer": "১৫৪",
+      "explanation": "πr² = (২২/৭) × ৪৯ = ১৫৪। (সূত্র: গণিত — পরিমিতি)"
+    },
+    {
+      "question": "১০ ও ৬ একক বাহুবিশিষ্ট আয়তক্ষেত্রের পরিসীমা কত?",
+      "options": [
+        "৩২",
+        "৩০",
+        "৬০",
+        "১৬"
+      ],
+      "answer": "৩২",
+      "explanation": "২(১০+৬) = ৩২। (সূত্র: গণিত — পরিমিতি)"
+    },
+    {
+      "question": "ত্রিভুজের তিন কোণের সমষ্টি কত?",
+      "options": [
+        "৯০°",
+        "১৮০°",
+        "২৭০°",
+        "৩৬০°"
+      ],
+      "answer": "১৮০°",
+      "explanation": "যেকোনো ত্রিভুজের তিন কোণের সমষ্টি ১৮০°। (সূত্র: গণিত — জ্যামিতি)"
+    },
+    {
+      "question": "a² − b² = ?",
+      "options": [
+        "(a+b)(a−b)",
+        "(a−b)²",
+        "(a+b)²",
+        "a²+b²"
+      ],
+      "answer": "(a+b)(a−b)",
+      "explanation": "এটি দুই বর্গের অন্তরের সূত্র। (সূত্র: গণিত — উৎপাদকে বিশ্লেষণ)"
+    },
+    {
+      "question": "(a + b)² = ?",
+      "options": [
+        "a²+b²",
+        "a²+2ab+b²",
+        "a²−2ab+b²",
+        "2a+2b"
+      ],
+      "answer": "a²+2ab+b²",
+      "explanation": "দ্বিপদী বর্গের সূত্র। (সূত্র: গণিত — বীজগণিত)"
+    },
+    {
+      "question": "log₁₀ 1000 = ?",
+      "options": [
+        "২",
+        "৩",
+        "৪",
+        "১০০"
+      ],
+      "answer": "৩",
+      "explanation": "১০³ = ১০০০, তাই লগ = ৩। (সূত্র: গণিত — লগারিদম)"
+    },
+    {
+      "question": "২³ × ২⁴ = ?",
+      "options": [
+        "২⁷",
+        "২¹²",
+        "৪⁷",
+        "২¹"
+      ],
+      "answer": "২⁷",
+      "explanation": "ভিত্তি এক হলে ঘাত যোগ হয়: ২⁷ = ১২৮। (সূত্র: গণিত — সূচক)"
+    },
+    {
+      "question": "১২ ও ১৮ এর ল.সা.গু কত?",
+      "options": [
+        "১২",
+        "১৮",
+        "৩৬",
+        "৭২"
+      ],
+      "answer": "৩৬",
+      "explanation": "১২ = ২²×৩, ১৮ = ২×৩²; ল.সা.গু = ২²×৩² = ৩৬। (সূত্র: গণিত — সংখ্যাতত্ত্ব)"
+    },
+    {
+      "question": "২৪ ও ৩৬ এর গ.সা.গু কত?",
+      "options": [
+        "৬",
+        "১২",
+        "১৮",
+        "২৪"
+      ],
+      "answer": "১২",
+      "explanation": "২৪ = ২³×৩, ৩৬ = ২²×৩²; গ.সা.গু = ২²×৩ = ১২। (সূত্র: গণিত — সংখ্যাতত্ত্ব)"
+    },
+    {
+      "question": "১০০০ টাকার ৫% হারে ২ বছরের সরল সুদ কত?",
+      "options": [
+        "৫০",
+        "১০০",
+        "১৫০",
+        "২০০"
+      ],
+      "answer": "১০০",
+      "explanation": "১০০০ × ৫/১০০ × ২ = ১০০। (সূত্র: গণিত — সুদকষা)"
+    },
+    {
+      "question": "১০০ টাকায় কিনে ১২০ টাকায় বিক্রি করলে শতকরা লাভ কত?",
+      "options": [
+        "১০%",
+        "২০%",
+        "২৫%",
+        "১২০%"
+      ],
+      "answer": "২০%",
+      "explanation": "লাভ ২০ টাকা, ক্রয়মূল্য ১০০, তাই ২০%। (সূত্র: গণিত — লাভ-ক্ষতি)"
+    },
+    {
+      "question": "৫, ১০, ১৫, ২০ এর গড় কত?",
+      "options": [
+        "১০",
+        "১২.৫",
+        "১৫",
+        "১৭.৫"
+      ],
+      "answer": "১২.৫",
+      "explanation": "যোগফল ৫০ ÷ ৪ = ১২.৫। (সূত্র: গণিত — পরিসংখ্যান)"
+    },
+    {
+      "question": "sin 30° = ?",
+      "options": [
+        "১/২",
+        "√৩/২",
+        "১",
+        "১/√২"
+      ],
+      "answer": "১/২",
+      "explanation": "sin 30° এর মান ১/২। (সূত্র: গণিত — ত্রিকোণমিতি)"
+    },
+    {
+      "question": "tan 45° = ?",
+      "options": [
+        "০",
+        "১",
+        "√৩",
+        "১/√৩"
+      ],
+      "answer": "১",
+      "explanation": "tan 45° = ১। (সূত্র: গণিত — ত্রিকোণমিতি)"
+    },
+    {
+      "question": "x² − 5x + 6 = 0 সমীকরণের মূলদ্বয়ের যোগফল কত?",
+      "options": [
+        "৫",
+        "৬",
+        "১",
+        "−৫"
+      ],
+      "answer": "৫",
+      "explanation": "(x−২)(x−৩)=০, মূল ২ ও ৩; যোগফল ৫। (সূত্র: গণিত — দ্বিঘাত সমীকরণ)"
+    },
+    {
+      "question": "তিনটি ক্রমিক সংখ্যার যোগফল ২৪ হলে ক্ষুদ্রতম সংখ্যা কত?",
+      "options": [
+        "৬",
+        "৭",
+        "৮",
+        "৯"
+      ],
+      "answer": "৭",
+      "explanation": "৭+৮+৯ = ২৪। (সূত্র: গণিত — বীজগণিত)"
+    },
+    {
+      "question": "ঘণ্টায় ৬০ কিমি বেগে ৩ ঘণ্টায় কত দূরত্ব অতিক্রম করা যায়?",
+      "options": [
+        "১২০ কিমি",
+        "১৮০ কিমি",
+        "২০০ কিমি",
+        "২৪০ কিমি"
+      ],
+      "answer": "১৮০ কিমি",
+      "explanation": "দূরত্ব = বেগ × সময় = ৬০ × ৩ = ১৮০। (সূত্র: গণিত — সময় ও দূরত্ব)"
+    },
+    {
+      "question": "A একটি কাজ ১০ দিনে এবং B ১৫ দিনে করে। একত্রে কত দিনে করবে?",
+      "options": [
+        "৫ দিন",
+        "৬ দিন",
+        "৭ দিন",
+        "১২ দিন"
+      ],
+      "answer": "৬ দিন",
+      "explanation": "১/১০ + ১/১৫ = ১/৬, তাই ৬ দিন। (সূত্র: গণিত — কাজ ও সময়)"
+    },
+    {
+      "question": "দুই সংখ্যার অনুপাত ৩:৫ এবং যোগফল ১৬০। বড় সংখ্যাটি কত?",
+      "options": [
+        "৬০",
+        "৮০",
+        "১০০",
+        "১২০"
+      ],
+      "answer": "১০০",
+      "explanation": "বড় সংখ্যা = ১৬০ × ৫/৮ = ১০০। (সূত্র: গণিত — অনুপাত)"
+    },
+    {
+      "question": "২, ৫, ৮, ... ধারার ১০ম পদ কত?",
+      "options": [
+        "২৭",
+        "২৮",
+        "২৯",
+        "৩০"
+      ],
+      "answer": "২৯",
+      "explanation": "a + 9d = ২ + ২৭ = ২৯। (সূত্র: গণিত — সমান্তর ধারা)"
+    },
+    {
+      "question": "২, ৪, ৮, ... ধারার ৬ষ্ঠ পদ কত?",
+      "options": [
+        "৩২",
+        "৬৪",
+        "১২৮",
+        "১৬"
+      ],
+      "answer": "৬৪",
+      "explanation": "গুণোত্তর ধারা, ২⁶ = ৬৪। (সূত্র: গণিত — গুণোত্তর ধারা)"
+    },
+    {
+      "question": "১ থেকে ১০ পর্যন্ত স্বাভাবিক সংখ্যার যোগফল কত?",
+      "options": [
+        "৫০",
+        "৫৫",
+        "৬০",
+        "১০০"
+      ],
+      "answer": "৫৫",
+      "explanation": "n(n+1)/2 = ১০×১১/২ = ৫৫। (সূত্র: গণিত — ধারা)"
+    },
+    {
+      "question": "মূলবিন্দু থেকে (৩, ৪) বিন্দুর দূরত্ব কত?",
+      "options": [
+        "৪",
+        "৫",
+        "৬",
+        "৭"
+      ],
+      "answer": "৫",
+      "explanation": "√(৩²+৪²) = ৫। (সূত্র: গণিত — স্থানাঙ্ক জ্যামিতি)"
+    },
+    {
+      "question": "y = 2x + 3 রেখার ঢাল কত?",
+      "options": [
+        "২",
+        "৩",
+        "৫",
+        "১/২"
+      ],
+      "answer": "২",
+      "explanation": "y = mx + c আকারে m = ২। (সূত্র: গণিত — সরলরেখা)"
+    },
+    {
+      "question": "৩ একক বাহুবিশিষ্ট ঘনকের আয়তন কত?",
+      "options": [
+        "৯",
+        "১৮",
+        "২৭",
+        "৫৪"
+      ],
+      "answer": "২৭",
+      "explanation": "আয়তন = ৩³ = ২৭। (সূত্র: গণিত — পরিমিতি)"
+    },
+    {
+      "question": "৩ একক ব্যাসার্ধের গোলকের আয়তন কত?",
+      "options": [
+        "১২π",
+        "২৮π",
+        "৩৬π",
+        "৪৫π"
+      ],
+      "answer": "৩৬π",
+      "explanation": "(৪/৩)π×২৭ = ৩৬π। (সূত্র: গণিত — পরিমিতি)"
+    },
+    {
+      "question": "কোনটি অমূলদ সংখ্যা?",
+      "options": [
+        "√৪",
+        "√২",
+        "০.৫",
+        "১/৩"
+      ],
+      "answer": "√২",
+      "explanation": "√২ কে দুই পূর্ণসংখ্যার অনুপাতে প্রকাশ করা যায় না। (সূত্র: গণিত — বাস্তব সংখ্যা)"
+    },
+    {
+      "question": "x + 1/x = 3 হলে x² + 1/x² = ?",
+      "options": [
+        "৫",
+        "৭",
+        "৯",
+        "১১"
+      ],
+      "answer": "৭",
+      "explanation": "৯ − ২ = ৭। (সূত্র: গণিত — বীজগণিত)"
+    },
+    {
+      "question": "৫! এর মান কত?",
+      "options": [
+        "২৪",
+        "৬০",
+        "১২০",
+        "২৪০"
+      ],
+      "answer": "১২০",
+      "explanation": "৫×৪×৩×২×১ = ১২০। (সূত্র: গণিত — বিন্যাস-সমাবেশ)"
+    },
+    {
+      "question": "৫ জন থেকে ২ জন নির্বাচনের উপায় কয়টি?",
+      "options": [
+        "১০",
+        "২০",
+        "১৫",
+        "২৫"
+      ],
+      "answer": "১০",
+      "explanation": "C(5,2) = ১০। (সূত্র: গণিত — সমাবেশ)"
+    },
+    {
+      "question": "একটি মুদ্রা একবার নিক্ষেপে হেড আসার সম্ভাবনা কত?",
+      "options": [
+        "১/২",
+        "১/৩",
+        "১/৪",
+        "১"
+      ],
+      "answer": "১/২",
+      "explanation": "সম্ভাব্য ফল ২টি, অনুকূল ১টি। (সূত্র: গণিত — সম্ভাবনা)"
+    },
+    {
+      "question": "একটি ছক্কা নিক্ষেপে ৫ বা তার বেশি পাওয়ার সম্ভাবনা কত?",
+      "options": [
+        "১/৬",
+        "১/৩",
+        "১/২",
+        "২/৩"
+      ],
+      "answer": "১/৩",
+      "explanation": "অনুকূল ফল ৫ ও ৬, অর্থাৎ ২/৬ = ১/৩। (সূত্র: গণিত — সম্ভাবনা)"
+    },
+    {
+      "question": "৩/৪ + ১/২ = ?",
+      "options": [
+        "৪/৬",
+        "৫/৪",
+        "১",
+        "৩/৮"
+      ],
+      "answer": "৫/৪",
+      "explanation": "৩/৪ + ২/৪ = ৫/৪। (সূত্র: গণিত — ভগ্নাংশ)"
+    },
+    {
+      "question": "২, ৬, ১২, ২০, ? — পরবর্তী সংখ্যা কত?",
+      "options": [
+        "২৮",
+        "৩০",
+        "৩২",
+        "৩৬"
+      ],
+      "answer": "৩০",
+      "explanation": "পদগুলো n(n+1), পরবর্তী ৫×৬ = ৩০। (সূত্র: মানসিক দক্ষতা — সংখ্যা ধারা)"
+    },
+    {
+      "question": "১, ৪, ৯, ১৬, ? — পরবর্তী সংখ্যা কত?",
+      "options": [
+        "২০",
+        "২৪",
+        "২৫",
+        "৩২"
+      ],
+      "answer": "২৫",
+      "explanation": "পূর্ণ বর্গ সংখ্যা: ৫² = ২৫। (সূত্র: মানসিক দক্ষতা — সংখ্যা ধারা)"
+    },
+    {
+      "question": "পিতার বয়স পুত্রের ৩ গুণ। দুজনের বয়সের সমষ্টি ৪৮ হলে পুত্রের বয়স কত?",
+      "options": [
+        "১২",
+        "১৪",
+        "১৬",
+        "১৮"
+      ],
+      "answer": "১২",
+      "explanation": "৪x = ৪৮, x = ১২। (সূত্র: গণিত — বয়স সংক্রান্ত সমস্যা)"
+    },
+    {
+      "question": "দুই সংখ্যার যোগফল ৩০ ও অন্তর ৪ হলে বড় সংখ্যাটি কত?",
+      "options": [
+        "১৩",
+        "১৫",
+        "১৭",
+        "১৯"
+      ],
+      "answer": "১৭",
+      "explanation": "(৩০+৪)/২ = ১৭। (সূত্র: গণিত — বীজগণিত)"
+    }
+  ]
+}
