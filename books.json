@@ -3,24 +3,24 @@
     {
       "title": "বাংলা ব্যাকরণ ও নির্মিতি",
       "subject": "bangla",
-      "pdf": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/pdfs/books/bangla_grammar.pdf",
+      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf",
       "size": 8.2
     },
     {
       "title": "English Grammar Made Easy",
       "subject": "english",
-      "pdf": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/pdfs/books/english_grammar.pdf",
+      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf",
       "size": 12
     },
     {
       "title": "গাণিতিক যুক্তি ও শর্টকাট",
       "subject": "math",
-      "pdf": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/pdfs/books/math_shortcut.pdf"
+      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
       "title": "বাংলাদেশ বিষয়াবলী",
       "subject": "gk",
-      "pdf": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/pdfs/books/bd_affairs.pdf"
+      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     }
   ]
 }
