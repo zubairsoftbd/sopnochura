@@ -4,14 +4,14 @@
       "category": "bcs",
       "title": "৪৬ তম বিসিএস প্রিলিমিনারি",
       "year": 2024,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/papers/bcs46.json",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
       "category": "bcs",
       "title": "৪৫ তম বিসিএস প্রিলিমিনারি",
       "year": 2023,
-      "quiz": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
@@ -19,28 +19,28 @@
       "title": "৪৫ তম বিসিএস লিখিত",
       "year": 2023,
       "type": "written",
-      "quiz": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
       "category": "primary",
       "title": "প্রাইমারি সহকারী শিক্ষক নিয়োগ",
       "year": 2022,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/papers/primary2022.json",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
       "category": "bank",
       "title": "সোনালী ব্যাংক অফিসার ক্যাশ",
       "year": 2023,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/pdfs/sonali2023.pdf",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     },
     {
       "category": "admission",
       "title": "ঢাকা বিশ্ববিদ্যালয় ক-ইউনিট",
       "year": 2023,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/papers/du_ka_2023.json",
+      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
       "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
     }
   ]
