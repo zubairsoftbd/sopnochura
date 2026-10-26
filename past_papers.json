@@ -2,25 +2,18 @@
   "past_papers": [
     {
       "category": "bcs",
-      "title": "৪৬ তম বিসিএস প্রিলিমিনারি",
-      "year": 2024,
+      "title": "৪৭ তম বিসিএস প্রিলিমিনারি",
+      "year": 2025,
       "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/47th_BCS_MCQ_Questions_Sopnochura.pdf"
     },
     {
       "category": "bcs",
-      "title": "৪৫ তম বিসিএস প্রিলিমিনারি",
-      "year": 2023,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
-    },
-    {
-      "category": "bcs",
-      "title": "৪৫ তম বিসিএস লিখিত",
+      "title": "৪৭ তম বিসিএস লিখিত",
       "year": 2023,
       "type": "written",
       "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/47th_BCS_Written_Questions_Sopnochura.pdf"
     },
     {
       "category": "primary",
