@@ -16,13 +16,15 @@
     },
     {
       "title": "Sopnochura_GK",
-      "subject": "GK",
+      "subject": "gk",
       "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/Sopnochura_GK.pdf",
+      "cover": "https://github.com/zubairsoftbd/pdf/blob/main/gk_cover.png",
       "size": 12
     },
     {
       "title": "Sopnochura English MCQ Question Bank",
       "subject": "english",
+      "cover": "https://github.com/zubairsoftbd/pdf/blob/main/english_topic_cover.png",
       "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/Sopnochura_English_MCQ_Question_Bank.pdf"
     },
     {
