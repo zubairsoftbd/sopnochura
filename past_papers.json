@@ -45,10 +45,17 @@
     },
     {
       "category": "bank",
-      "title": "সোনালী ব্যাংক অফিসার ক্যাশ",
-      "year": 2023,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
+      "title": "সমন্বিত ৪ ব্যাংক নিয়োগ পরীকষা প্রশ্ন ও সমাধান",
+      "year": 2019,
+      "quiz": "",
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/Combined_4_Bank_Exam_2019_Question_Solution.pdf"
+    },
+    {
+      "category": "bank",
+      "title": "সমন্বিত 9 ব্যাংক নিয়োগ পরীকষা প্রশ্ন ও সমাধান",
+      "year": 2019,
+      "quiz": "",
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/Combined_9_Bank_Exam_2023_Question_Solution.pdf"
     },
     {
       "category": "admission",
