@@ -16,6 +16,14 @@
       "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/47th_BCS_Written_Questions_Sopnochura.pdf"
     },{
       "category": "bcs",
+      "title": "৪৮ তম বিসিএস লিখিত",
+      "year": 2025,
+      "type": "written",
+      "quiz": "",
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/48th_Special_BCS_Health_Question_Solution.pdf"
+    },
+    {
+      "category": "bcs",
       "title": "৪৯ তম বিসিএস লিখিত",
       "year": 2025,
       "quiz": "",
@@ -31,9 +39,9 @@
     {
       "category": "primary",
       "title": "প্রাইমারি সহকারী শিক্ষক নিয়োগ",
-      "year": 2022,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
+      "year": 2025,
+      "quiz": "",
+      "pdf": "https://github.com/zubairsoftbd/pdf/blob/main/Primary_Teacher_Exam_2025_Question_Solution.pdf"
     },
     {
       "category": "bank",
