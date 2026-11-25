@@ -61,8 +61,8 @@
       "category": "admission",
       "title": "ঢাকা বিশ্ববিদ্যালয় ক-ইউনিট",
       "year": 2023,
-      "quiz": "https://raw.githubusercontent.com/zubairsoftbd/sopnochura/main/bcs46_quiz.json",
-      "pdf": "https://github.com/zubairsoftbd/sopnochura/blob/main/moneyReceipt.pdf"
+      "quiz": "",
+      "pdf": ""
     }
   ]
 }
